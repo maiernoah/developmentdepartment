@@ -1,0 +1,344 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en" dir="">
+<head>
+
+    <title>Perrett Laver - Leading Global Executive Search Firm</title>
+
+    <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+    <meta charset="UTF-8" />
+    <meta name="description" />
+
+    <link rel="icon" href="/cropped-Icon-32x32.png" type="image/svg+xml">
+    <link href="/Themes/LeptonX/Global/side-menu/css/bootstrap-rock.css" type="text/css" rel="stylesheet" id="lpx-theme-bootstrap-rock" />
+    <link href="/Themes/LeptonX/Global/side-menu/css/rock.css" type="text/css" rel="stylesheet" id="lpx-theme-color-rock" />
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&amp;family=Open+Sans:ital,wght@0,300..800;1,300..800&amp;display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/__bundles/LeptonX.Global.3253AE0A9501A0665DAC7014DA5B2ED8.css?_v=639293168372027169" />
+
+
+    <link rel="stylesheet" href="/css/style.css" />
+
+    
+
+    <!-- CookiePro Cookies Consent Notice start -->
+    <script src="https://cookie-cdn.cookiepro.com/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="-test">
+    </script>
+
+    <script type="text/javascript">
+        function OptanonWrapper() { }
+    </script>
+    <!-- CookiePro Cookies Consent Notice end -->
+
+    
+</head>
+<body>
+    <header class="header">
+	<div class="container">
+		<a href="/" class="header__logo">
+			<img src="/images/logo/logo.svg" alt="Perrett Laver" class="d-none d-lg-block" />
+			<img src="/images/logo/logo-mobile.svg" alt="Perrett Laver" class="d-block d-lg-none" />
+		</a>
+		<div class="header__content">
+			<nav class="header__nav">
+				<ul class="header__menu">
+					<li class="header__menu__item">
+						<a href="/Search" class="header__menu__item__link">
+							<span>Job Search</span>
+						</a>
+					</li>
+					<li class="header__menu__item">
+						<a href="https://perrettlaver.com/about/contact-us" class="header__menu__item__link">
+							<span>Contact</span>
+						</a>
+					</li>
+				</ul>
+				<a href="/" class="header__roles__mobile">
+					<span>Open Roles</span>
+				</a>
+				<div class="header__social">
+					<a href="https://twitter.com/PerrettLaver" target="_blank">
+						<img src="/images/x.svg" alt="X" />
+					</a>
+					<a href="https://www.linkedin.com/company/perrett-laver" target="_blank">
+						<img src="/images/linkedin.svg" alt="Linkedin" />
+					</a>
+				</div>
+			</nav>
+			<button class="header__burger" type="button">
+				<span></span>
+				<span></span>
+				<span></span>
+			</button>
+			<a href="/" class="header__roles">
+				<span>Open Roles</span>
+			</a>
+		</div>
+	</div>
+</header>
+<div class="overlay"></div>
+
+    
+
+<div class="container main">
+    <div class="row justify-content-center">
+    <div class="col-lg-12 main__title">
+        <span>Explore our current vacancies by sector or keyword</span>
+    </div>
+</div>
+
+    <div>
+        
+<div class="row search-box">
+    <div class="col-sm-12 col-lg-3">
+        <span class="side-heading">Keyword <span>Search</span></span>
+    </div>
+    <div class="col-sm-12 col-lg-9">
+        <form class="search-form" method="get" action="/search">
+            <fieldset>
+                <div class="input-group d-flex align-items-center">
+                    <div class="input-icon-wrapper">
+                        <i class="fa fa-search" aria-hidden="true"></i>
+                        <input class="keyword-field form-control" placeholder="Keyword search" type="text" name="query" spellcheck="false">
+                    </div>
+<button type="submit" class="btn btn-square search-btn" id="submit">Search</button>
+                </div>
+            </fieldset>
+        </form>
+    </div>
+</div>
+    </div>
+
+    <div class="row practice-group-list">
+        <div class="col-sm-12 col-lg-3 d-flex flex-column justify-content-between">
+            <div class="side-heading">Browse by <span>Sector</span></div>
+            <div class="pb-4 d-none d-lg-block">
+                <img src="/images/logo/logo-icon.png" />
+            </div>
+        </div>
+        <div class="col-sm-12 col-lg-9">
+            <div class="d-flex flex-column">
+                    <div class="d-flex flex-column flex-lg-row flex-md-row flex-wrap gap-1 practice-groups">
+                            <a href="/PracticeGroup/6ba0227a-edc0-1143-99e2-3a198ef608dd" class="d-flex w-100 card flex-grow-1 practice-group artsculturesport">
+                                <img src="/images/card-link.png" class="card-link-icon" />
+                                <div class="card-body d-flex align-items-end">
+                                    <span class="title">
+                                        Arts, Culture &amp; Sport
+                                    </span>
+                                </div>
+                            </a>
+                            <a href="/PracticeGroup/9f11755f-6033-31bc-ec9d-3a19d5ffcead" class="d-flex w-100 card flex-grow-1 practice-group board">
+                                <img src="/images/card-link.png" class="card-link-icon" />
+                                <div class="card-body d-flex align-items-end">
+                                    <span class="title">
+                                        Board
+                                    </span>
+                                </div>
+                            </a>
+                            <a href="/PracticeGroup/983688fd-0921-4378-d2a4-3a19d601d496" class="d-flex w-100 card flex-grow-1 practice-group environmentsustainability">
+                                <img src="/images/card-link.png" class="card-link-icon" />
+                                <div class="card-body d-flex align-items-end">
+                                    <span class="title">
+                                        Environment &amp; Sustainability
+                                    </span>
+                                </div>
+                            </a>
+                            <a href="/PracticeGroup/488faa29-460e-4adb-93e1-3a19d601f617" class="d-flex w-100 card flex-grow-1 practice-group government">
+                                <img src="/images/card-link.png" class="card-link-icon" />
+                                <div class="card-body d-flex align-items-end">
+                                    <span class="title">
+                                        Government
+                                    </span>
+                                </div>
+                            </a>
+                            <a href="/PracticeGroup/7cecba8d-0147-6c9b-d4d1-3a19d6023198" class="d-flex w-100 card flex-grow-1 practice-group healthlifesciences">
+                                <img src="/images/card-link.png" class="card-link-icon" />
+                                <div class="card-body d-flex align-items-end">
+                                    <span class="title">
+                                        Health &amp; Life Sciences
+                                    </span>
+                                </div>
+                            </a>
+                            <a href="/PracticeGroup/98d05f06-24be-7db8-1921-3a19d6024d03" class="d-flex w-100 card flex-grow-1 practice-group highereducation">
+                                <img src="/images/card-link.png" class="card-link-icon" />
+                                <div class="card-body d-flex align-items-end">
+                                    <span class="title">
+                                        Higher Education
+                                    </span>
+                                </div>
+                            </a>
+                            <a href="/PracticeGroup/ce00fd32-9eb3-335d-8860-3a19d6026df1" class="d-flex w-100 card flex-grow-1 practice-group professionalservices">
+                                <img src="/images/card-link.png" class="card-link-icon" />
+                                <div class="card-body d-flex align-items-end">
+                                    <span class="title">
+                                        Professional Services
+                                    </span>
+                                </div>
+                            </a>
+                            <a href="/PracticeGroup/2f7bc05a-b4e8-ec33-c498-3a1c17622254" class="d-flex w-100 card flex-grow-1 practice-group registerwithus">
+                                <img src="/images/card-link.png" class="card-link-icon" />
+                                <div class="card-body d-flex align-items-end">
+                                    <span class="title">
+                                        Register with Us
+                                    </span>
+                                </div>
+                            </a>
+                            <a href="/PracticeGroup/7e670ad1-19d0-79a5-e939-3a19d602b227" class="d-flex w-100 card flex-grow-1 practice-group researchtechnologyinnovation">
+                                <img src="/images/card-link.png" class="card-link-icon" />
+                                <div class="card-body d-flex align-items-end">
+                                    <span class="title">
+                                        Research, Technology &amp; Innovation
+                                    </span>
+                                </div>
+                            </a>
+                            <a href="/PracticeGroup/fee24a81-4bb3-9954-ee9a-3a19d603c697" class="d-flex w-100 card flex-grow-1 practice-group schoolseducationalorganisations">
+                                <img src="/images/card-link.png" class="card-link-icon" />
+                                <div class="card-body d-flex align-items-end">
+                                    <span class="title">
+                                        Schools &amp; Educational Organisations
+                                    </span>
+                                </div>
+                            </a>
+                            <a href="/PracticeGroup/916b52df-e534-d79e-8bca-3a19d604e9b1" class="d-flex w-100 card flex-grow-1 practice-group socialimpact">
+                                <img src="/images/card-link.png" class="card-link-icon" />
+                                <div class="card-body d-flex align-items-end">
+                                    <span class="title">
+                                        Social Impact
+                                    </span>
+                                </div>
+                            </a>
+                            <a href="/PracticeGroup/2af2e923-c3c9-7496-6a4a-3a19d6050d51" class="d-flex w-100 card flex-grow-1 practice-group workforperrettlaver">
+                                <img src="/images/card-link.png" class="card-link-icon" />
+                                <div class="card-body d-flex align-items-end">
+                                    <span class="title">
+                                        Work for Perrett Laver
+                                    </span>
+                                </div>
+                            </a>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <footer class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4 footer__logo">
+                <img src="/images/logo/logo-white.svg" alt="Perrett Laver" />
+            </div>
+            <div class="col-lg-6">
+                <h6 class="light-pink medium">Useful Links</h6>
+                <ul class="footer__menu">
+                    <li class="footer__menu__item">
+                        <a href="https://perrettlaver.com/expertise/" class="footer__menu__item__link">Expertise</a>
+                    </li>
+                    <li class="footer__menu__item">
+                        <a href="https://perrettlaver.com/services/" class="footer__menu__item__link">Services</a>
+                    </li>
+                    <li class="footer__menu__item">
+                        <a href="https://perrettlaver.com/case-studies/" class="footer__menu__item__link">Case Studies</a>
+                    </li>
+                    <li class="footer__menu__item">
+                        <a href="https://perrettlaver.com/people/" class="footer__menu__item__link">People</a>
+                    </li>
+                    <li class="footer__menu__item">
+                        <a href="https://perrettlaver.com/about/" class="footer__menu__item__link">About</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="col-lg-2">
+                <ul class="footer__secondarymenu">
+                    <li class="footer__secondarymenu__item">
+                        <a href="https://perrettlaver.com/insights/" class="footer__secondarymenu__item__link">Insights</a>
+                    </li>
+                    <li class="footer__secondarymenu__item">
+                        <a href="https://perrettlaver.com/news/" class="footer__secondarymenu__item__link">News</a>
+                    </li>
+                    <li class="footer__secondarymenu__item">
+                        <a href="https://perrettlaver.com/about/our-office-locations/" class="footer__secondarymenu__item__link">Locations</a>
+                    </li>
+                    <li class="footer__secondarymenu__item">
+                        <a href="https://perrettlaver.com/about/" class="footer__secondarymenu__item__link">Our Purpose & Values</a>
+                    </li>
+                    <li class="footer__secondarymenu__item">
+                        <a href="https://perrettlaver.com/about/our-policies/" class="footer__secondarymenu__item__link">Our Policies</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <hr class="d-none d-lg-block">
+        <div class="row social-roles">
+            <div class="col-lg-4">
+                <div class="footer__social">
+                    <a href="https://www.instagram.com/perrettlaver/" target="_blank">
+						<svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24">
+							<path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z" fill="#FFD4EB"></path>
+						</svg>
+					</a>
+                    <a href="https://twitter.com/PerrettLaver" target="_blank">
+                        <svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M0.0413664 0L6.60487 8.82491L0 16H1.48661L7.26929 9.71796L11.9414 16H17L10.0671 6.67879L16.2149 0H14.7283L9.40292 5.78545L5.1 0H0.0413664ZM2.22749 1.10103H4.5514L14.8136 14.899H12.4897L2.22749 1.10103Z" fill="#FFD4EB" />
+                        </svg>
+                    </a>
+                    <a href="https://www.linkedin.com/company/perrett-laver" target="_blank">
+                        <svg width="15" height="15" viewBox="0 0 15 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path fill-rule="evenodd" clip-rule="evenodd" d="M15 15H11.918V9.75061C11.918 8.31137 11.3711 7.50708 10.2319 7.50708C8.99268 7.50708 8.34521 8.34407 8.34521 9.75061V15H5.375V5H8.34521V6.347C8.34521 6.347 9.23828 4.69449 11.3604 4.69449C13.4814 4.69449 15 5.98975 15 8.66862V15ZM1.83154 3.69058C0.819824 3.69058 0 2.86432 0 1.84529C0 0.826257 0.819824 0 1.83154 0C2.84326 0 3.6626 0.826257 3.6626 1.84529C3.6626 2.86432 2.84326 3.69058 1.83154 3.69058ZM0.297852 15H3.39502V5H0.297852V15Z" fill="#FFD4EB" />
+                        </svg>
+                    </a>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <h6 class="medium">Discover available roles matching your skills and aspirations by exploring current positions.</h6>
+            </div>
+            <div class="col-lg-2">
+                <a href="/" class="footer__positions"><span>Open Roles</span></a>
+            </div>
+        </div>
+        <hr>
+        <div class="footer__about">
+            <div class="row">
+                <div class="col-lg-6 offset-lg-4">
+                    <h6 class="medium">Our role is to connect the most influential and vibrant organisations in our sectors with the highest capacity and most dynamic leaders – based on a common set of values and a shared vision for the future.</h6>
+                    <h6 class="medium">We are genuinely passionate about our client organisations. Our understanding of each client’s values and culture ensures we identify candidates from both traditional and unconventional sources, who can bring fresh thinking and make a real impact. It also enables us to represent our clients candidly and accurately, giving a realistic appraisal of the differentiators, opportunities and challenges that will attract the strongest individuals.</h6>
+                </div>
+            </div>
+        </div>
+        <hr>
+        <div class="footer__bottom">
+            <div class="row">
+                <div class="col-lg-5 col-xl-4">
+                    <h6 class="medium">© 2024 Perrett Laver. All rights reserved.</h6>
+                </div>
+                <div class="col-lg-2 col-xl-4">
+                    <svg width="27" height="27" viewBox="0 0 27 27" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M23.0469 23.0469H3.95665V3.95665H23.0469V23.0469ZM13.5 0C6.04282 0 0 6.04282 0 13.5C0 20.9572 6.04282 27 13.5 27C20.9572 27 27 20.9572 27 13.5C27 6.04282 20.9572 0 13.5 0Z" fill="#FFD4EB" />
+                    </svg>
+                </div>
+                <div class="col-lg-5 col-xl-4">
+                    <ul class="footer__bottom__menu">
+                        <li class="footer__bottom__menu__item">
+                            <a href="https://perrettlaver.com/privacy-policy/" class="footer__bottom__menu__item__link">Privacy Statement</a>
+                        </li>
+                        <li class="footer__bottom__menu__item">
+                            <a href="https://perrettlaver.com/terms-of-use/" class="footer__bottom__menu__item__link">Terms of use</a>
+                        </li>
+                        <li class="footer__bottom__menu__item">
+                            <a href="https://perrettlaver.com/our-use-of-cookies/" class="footer__bottom__menu__item__link">Cookies</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+    <script src="/__bundles/LeptonX.Global.04245481ECD7F17C1817254BE577D686.js?_v=639293168378177721"></script>
+<script src="/libs/select2/js/i18n/en.js?_v=639293105500000000"></script>
+<script src="/libs/timeago/locales/jquery.timeago.en.js?_v=639293105520000000"></script>
+
+    <script src="/scripts/header.js"></script>
+</body>
+
+</html>

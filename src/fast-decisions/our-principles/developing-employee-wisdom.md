@@ -1,0 +1,8 @@
+---
+title: "Developing Employee Wisdom"
+permalink: /fast-decisions/our-principles/developing-employee-wisdom/
+source_url: https://fastdecisions.org/our-principles/developing-employee-wisdom
+description: "We nurture wisdom within our team by empowering continuous growth, from frontline to leadership. Employees at every level receive the tools, time, and training to excel in their roles. Storytelling and exceptional service skills are deliberately cultivated, enriching how we connect internally and with those we serve. By emphasizing consistent practice and mastery of fundamental skills, we strive for excellence as a habit. Our environment encourages uninterrupted focus, fostering space for mastery and thoughtful work. Above all, we commit to building personal growth through reflection, practice, and continuous improvement, cultivating wisdom that enhances both the individual and the organization."
+---
+
+We nurture wisdom within our team by empowering continuous growth, from frontline to leadership. Employees at every level receive the tools, time, and training to excel in their roles. Storytelling and exceptional service skills are deliberately cultivated, enriching how we connect internally and with those we serve. By emphasizing consistent practice and mastery of fundamental skills, we strive for excellence as a habit. Our environment encourages uninterrupted focus, fostering space for mastery and thoughtful work. Above all, we commit to building personal growth through reflection, practice, and continuous improvement, cultivating wisdom that enhances both the individual and the organization.

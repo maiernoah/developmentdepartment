@@ -1,0 +1,1367 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <script>
+   (function(){var o=Storage.prototype.removeItem;Storage.prototype.removeItem=function(k){if(k==='base44_access_token'){try{var t=this.getItem(k);t&&(document.cookie='base44_sign_out_token='+encodeURIComponent(t)+';path=/api/apps/auth/logout;max-age=60'+(location.protocol!=='https:'?';SameSite=Strict':window.top!==window.self?';SameSite=None;Secure;Partitioned':';SameSite=Strict;Secure'))}catch(e){}}return o.call(this,k)}})();
+  </script>
+  <meta charset="utf-8"/>
+  <link href="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/698df6f8e4033c78a98bc691/4a81fd5c4_12ccf7gainpowericonfavicon.png" rel="icon" type="image/svg+xml"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <link href="/manifest.json" rel="manifest"/>
+  <title>
+   GAIN Power
+  </title>
+  <meta content="GAIN Power manages 5 data types including access applications. Helps you organize, track, and share your work in 1 place for teams and solo users." name="description"/>
+  <meta content="index, follow, max-image-preview:large" name="robots"/>
+  <script type="application/ld+json">
+   {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "GAIN Power",
+      "url": "https://gainpower.org/",
+      "description": "A leadership network connecting progressive campaign staff, organizers, nonprofit leaders and activists.",
+      "sameAs": [
+        "https://gainpower.org/",
+        "https://globalgain.org/",
+        "https://bsky.app/profile/gainpower.bsky.social",
+        "https://www.facebook.com/GAINPOWERORG",
+        "https://www.instagram.com/gainpowerorg",
+        "https://www.linkedin.com/company/gainpower",
+        "https://www.tiktok.com/@gainpowerorg",
+        "https://x.com/GAINPOWERORG",
+        "https://www.youtube.com/@gainpower"
+      ]
+    }
+  </script>
+  <!-- Open Graph / Facebook -->
+  <meta content="website" property="og:type"/>
+  <meta content="GAIN Power" property="og:title"/>
+  <meta content="GAIN Power manages 5 data types including access applications. Helps you organize, track, and share your work in 1 place for teams and solo users." property="og:description"/>
+  <meta content="https://media.base44.com/images/public/698df6f8e4033c78a98bc691/1669b72d0_2026GAINPowerShareImage.png/v1/fill/w_1200,h_630/1669b72d0_2026GAINPowerShareImage.png" property="og:image"/>
+  <meta content="2026 Post-Election Series, in partnership with the DNC, Arena, and GAIN Power" property="og:image:alt"/>
+  <meta content="GAIN Power" property="og:site_name"/>
+  <!-- Twitter -->
+  <meta content="summary_large_image" name="twitter:card"/>
+  <meta content="GAIN Power" name="twitter:title"/>
+  <meta content="GAIN Power manages 5 data types including access applications. Helps you organize, track, and share your work in 1 place for teams and solo users." name="twitter:description"/>
+  <meta content="https://media.base44.com/images/public/698df6f8e4033c78a98bc691/1669b72d0_2026GAINPowerShareImage.png/v1/fill/w_1200,h_630/1669b72d0_2026GAINPowerShareImage.png" name="twitter:image"/>
+  <script crossorigin="" src="/assets/index-D1WPq-8X.js" type="module">
+  </script>
+  <link crossorigin="" href="/assets/index-C26H5B5n.css" rel="stylesheet"/>
+  <meta content="on" name="base44-analytics"/>
+  <script id="b44-consent-listener">
+   (function () {
+  if (window.__b44Consent) return;
+  var state = {};
+  var listeners = [];
+  function notify(listener) {
+    try {
+      (state[listener.category] === "granted" ? listener.grant : listener.revoke)();
+    } catch (e) {}
+  }
+  function read(entry) {
+    if (!entry || entry[0] !== "consent" || entry[1] !== "update" || !entry[2]) return;
+    for (var category in entry[2]) {
+      state[category] = entry[2][category];
+      for (var i = 0; i < listeners.length; i++) {
+        if (listeners[i].category === category) notify(listeners[i]);
+      }
+    }
+  }
+  var dataLayer = (window.dataLayer = window.dataLayer || []);
+  // The banner may have restored the visitor's saved choice before this script ran.
+  for (var i = 0; i < dataLayer.length; i++) read(dataLayer[i]);
+  var push = dataLayer.push;
+  dataLayer.push = function () {
+    var result = push.apply(dataLayer, arguments);
+    for (var j = 0; j < arguments.length; j++) read(arguments[j]);
+    return result;
+  };
+  window.__b44Consent = {
+    on: function (category, grant, revoke) {
+      var listener = { category: category, grant: grant, revoke: revoke };
+      listeners.push(listener);
+      if (category in state) notify(listener);
+    },
+  };
+})();
+  </script>
+  <meta content="on" data-source="default" name="base44-visitor-tracking"/>
+  <script id="b44-visitor-tracking">
+   (function () {
+  try {
+    if (window.top !== window) return;
+    var CONSENT_CATEGORY = "analytics_storage";
+    var attributes = "; Path=/; Secure; SameSite=Lax";
+    var keep = "; Max-Age=2592000" + attributes;
+    // Read now: the app's router may drop ?ref= before the visitor consents.
+    var referrerId = new URLSearchParams(window.location.search).get("ref");
+    var referrerOrigin = document.referrer && new URL(document.referrer).origin;
+    function write() {
+      if (referrerId && /^[0-9a-f]{24}$/i.test(referrerId)) {
+        document.cookie = "base44_referrer_id=" + referrerId + keep;
+      }
+      // First touch: a return from a sign-in or checkout page must not replace who sent the visitor.
+      var hasOrigin = /(?:^|;\s*)base44_referrer_origin=/.test(document.cookie);
+      if (!hasOrigin && /^https?:\/\//.test(referrerOrigin) && referrerOrigin !== window.location.origin) {
+        document.cookie = "base44_referrer_origin=" + referrerOrigin + keep;
+      }
+    }
+    function clear() {
+      document.cookie = "base44_referrer_id=; Max-Age=0" + attributes;
+      document.cookie = "base44_referrer_origin=; Max-Age=0" + attributes;
+    }
+    var meta = document.querySelector('meta[name="base44-visitor-tracking"]');
+    var signal = navigator.globalPrivacyControl;
+    // Global Privacy Control opts the visitor out of tracking Base44 turned on by default.
+    var optOut = meta && meta.getAttribute("data-source") === "default" && signal;
+    if (meta && meta.getAttribute("data-privacy-signals") === "honor") {
+      optOut = signal || navigator.doNotTrack === "1";
+    }
+    if (optOut) {
+      clear();
+    } else if (meta && meta.content === "consent") {
+      window.__b44Consent.on(CONSENT_CATEGORY, write, clear);
+    } else {
+      write();
+    }
+  } catch (e) {}
+})();
+  </script>
+  <meta content="https://gainpower.org/wp-content/uploads/2020/11/favicon-300x300.png" property="og:url"/>
+  <meta content="https://gainpower.org/wp-content/uploads/2020/11/favicon-300x300.png" name="twitter:url"/>
+  <script>
+   (function () {
+  var titles = {"/login": "Login | GAIN Power", "/register": "Register | GAIN Power", "/region-gate": "Region Gate | GAIN Power", "/forgot-password": "Forgot Password | GAIN Power", "/forgotpassword": "Forgot Password | GAIN Power", "/reset-password": "Reset Password | GAIN Power", "/resetpassword": "Reset Password | GAIN Power", "/waitlist": "Waitlist | GAIN Power", "/landing": "Landing | GAIN Power", "/talent-in-transition": "Talent Transition | GAIN Power", "/talent-in-transition/register": "Talent Transition Register | GAIN Power", "/talent-in-transition/sponsor": "Sponsor The Series | GAIN Power", "/talent-in-transition/donate": "Donate To The Series | GAIN Power", "/talent-in-transition/submit": "Talent Transition Submit | GAIN Power", "/admin-talent-transition": "Admin Talent Transition | GAIN Power", "/admintalenttransition": "Admin Talent Transition | GAIN Power", "/embed/consultants": "Consultant Directory Embed | GAIN Power", "/embed": "Embed Partner Kit | GAIN Power", "/embed/partner-kit": "Embed Partner Kit | GAIN Power", "/shareyourstory": "Submit Spotlight | GAIN Power", "/submit-story-idea": "Submit Story Idea | GAIN Power", "/": "GAIN Power", "/jobs": "Jobs | GAIN Power", "/democracydirectory": "Directory | GAIN Power", "/directory": "Directory | GAIN Power", "/directories": "Directory | GAIN Power", "/democracydirectories": "Plural Directory Redirect | GAIN Power", "/people": "People | GAIN Power", "/resources": "Resources | GAIN Power", "/thought-leadership": "Thought Leadership | GAIN Power", "/writing": "Writing | GAIN Power", "/thoughtleadershipdetail": "Thought Leadership Detail | GAIN Power", "/thought-leadership-detail": "Thought Leadership Detail | GAIN Power", "/posts": "Posts | GAIN Power", "/events": "Events | GAIN Power", "/program/2026-post-election-training-series-in-partnership-with-dnc-arena": "Program Events | GAIN Power", "/jobdetail": "Job Detail | GAIN Power", "/job-detail": "Job Detail | GAIN Power", "/eventdetail": "Event Detail | GAIN Power", "/event-detail": "Event Detail | GAIN Power", "/post-detail": "Post Detail | GAIN Power", "/postdetail": "Post Detail | GAIN Power", "/orgprofile": "Org Profile | GAIN Power", "/org-profile": "Org Profile | GAIN Power", "/thoughtleadership": "Thought Leadership | GAIN Power", "/consultantshub": "Directory Businesses | GAIN Power", "/consultants-hub": "Directory Businesses | GAIN Power", "/program-idea": "GAIN Power", "/programidea": "GAIN Power", "/about": "About | GAIN Power", "/diversity": "Diversity | GAIN Power", "/contact": "Contact | GAIN Power", "/our-story": "Our Story | GAIN Power", "/pricing": "Pricing | GAIN Power", "/why-list-your-org": "Why List Your Org | GAIN Power", "/standard-solicitations": "Standard Solicitations | GAIN Power", "/standard-rfp": "Standard RFP | GAIN Power", "/rfp-portal": "RFP Portal | GAIN Power", "/rfpportal": "RFP Portal | GAIN Power", "/whylistyourorg": "Why List Your Org | GAIN Power", "/getinvolved": "Get Involved | GAIN Power", "/get-involved": "Get Involved | GAIN Power", "/testimonials": "Testimonials Showcase | GAIN Power", "/testimonial": "Submit Testimonial | GAIN Power", "/privacy": "Privacy Policy | GAIN Power", "/terms": "Terms Of Service | GAIN Power", "/recommendation-guidelines": "Recommendation Guidelines | GAIN Power", "/code-of-conduct": "Code Of Conduct | GAIN Power", "/nda": "NDA | GAIN Power", "/cookie-policy": "Cookie Policy | GAIN Power", "/marketplace": "Directory Businesses | GAIN Power", "/marketplace/compare": "Marketplace Compare | GAIN Power", "/marketplace/shortlist": "Marketplace Shortlist | GAIN Power", "/marketplace/manage": "Marketplace Listing Manager | GAIN Power", "/technology-product-detail": "Technology Product Detail | GAIN Power", "/technologyproductdetail": "Technology Product Detail | GAIN Power", "/services-hub": "Directory Businesses | GAIN Power", "/serviceshub": "Directory Businesses | GAIN Power", "/marketplacecompare": "Marketplace Compare | GAIN Power", "/marketplace-compare": "Marketplace Compare | GAIN Power", "/consultantcompare": "Marketplace Compare | GAIN Power", "/consultant-compare": "Marketplace Compare | GAIN Power", "/careershub": "Careers Hub | GAIN Power", "/careers-hub": "Careers Hub | GAIN Power", "/orgshub": "Directory | GAIN Power", "/orgs-hub": "Directory | GAIN Power", "/communityhub": "Community Hub | GAIN Power", "/community-hub": "Community Hub | GAIN Power", "/roadmap": "Roadmap | GAIN Power", "/democracydirectory/nonprofits": "Directory Nonprofits | GAIN Power", "/democracydirectory/marketplace": "Directory Businesses | GAIN Power", "/democracydirectory/political": "Directory Political | GAIN Power", "/democracydirectory/government": "Directory | GAIN Power", "/directory-media": "Directory Media | GAIN Power", "/directorymedia": "Directory Media | GAIN Power", "/directory-nonprofits": "Directory Nonprofits | GAIN Power", "/directorynonprofits": "Directory Nonprofits | GAIN Power", "/directorybusinesses": "Directory Businesses | GAIN Power", "/directory-businesses": "Directory Businesses | GAIN Power", "/directory-political": "Directory Political | GAIN Power", "/directorypolitical": "Directory Political | GAIN Power", "/directory-government": "Directory | GAIN Power", "/directorygovernment": "Directory | GAIN Power", "/help": "Help | GAIN Power", "/democracy-activists-news": "Democracy Activists News | GAIN Power", "/democracyactivistsnews": "Democracy Activists News | GAIN Power", "/ecosystem-map": "Ecosystem Map | GAIN Power", "/ecosystemmap": "Ecosystem Map | GAIN Power", "/findyourlane": "Find Your Lane | GAIN Power", "/find-your-lane": "Find Your Lane | GAIN Power", "/career-explorer": "Career Explorer | GAIN Power", "/careerexplorer": "Career Explorer | GAIN Power", "/careers-explorer": "Career Explorer | GAIN Power", "/directory/nonprofits": "Directory Nonprofits | GAIN Power", "/honorary-council": "Honorary Council | GAIN Power", "/networking-guide": "People | GAIN Power", "/programs/roots-camp": "Program Roots Camp | GAIN Power", "/programs/rootscamp": "Program Roots Camp | GAIN Power", "/rootscamp": "Program Roots Camp | GAIN Power", "/programcareerfairs": "Program Career Fairs | GAIN Power", "/program-career-fairs": "Program Career Fairs | GAIN Power", "/career-fairs": "Program Career Fairs | GAIN Power", "/programmpx": "Program MPX | GAIN Power", "/program-mpx": "Program MPX | GAIN Power", "/employer-services": "Program MPX | GAIN Power", "/ratesheet": "Rate Sheet | GAIN Power", "/rate-sheet": "Rate Sheet | GAIN Power", "/advertise-with-gain": "Advertise With GAIN | GAIN Power", "/advertisewithgain": "Advertise With GAIN | GAIN Power", "/video-hub": "Video Hub | GAIN Power", "/videohub": "Video Hub | GAIN Power", "/learningdashboard": "Learning Dashboard | GAIN Power", "/learning-dashboard": "Learning Dashboard | GAIN Power", "/directory-consultants": "Directory Businesses | GAIN Power", "/directoryconsultants": "Directory Businesses | GAIN Power", "/directorycampaigns": "Directory Campaigns | GAIN Power", "/directory-campaigns": "Directory Campaigns | GAIN Power", "/vendor-dashboard": "Vendor Dashboard | GAIN Power", "/vendordashboard": "Vendor Dashboard | GAIN Power", "/messages": "Messages | GAIN Power", "/membershipmanagement": "Membership Management | GAIN Power", "/membership-management": "Membership Management | GAIN Power", "/myconnections": "My Connections | GAIN Power", "/my-connections": "My Connections | GAIN Power", "/submitresource": "Submit Resource | GAIN Power", "/submit-resource": "Submit Resource | GAIN Power", "/request-training": "Request Training | GAIN Power", "/requesttraining": "Request Training | GAIN Power", "/submit-spotlight": "Submit Spotlight | GAIN Power", "/submitspotlight": "Submit Spotlight | GAIN Power", "/submitarticle": "Submit Article | GAIN Power", "/submit-article": "Submit Article | GAIN Power", "/admin-polls": "Admin Polls | GAIN Power", "/adminpolls": "Admin Polls | GAIN Power", "/admin-feedback": "Admin Feedback | GAIN Power", "/adminfeedback": "Admin Feedback | GAIN Power", "/admin-moderation": "Admin Moderation | GAIN Power", "/adminmoderation": "Admin Moderation | GAIN Power", "/activity-feed": "Activity Feed | GAIN Power", "/activityfeed": "Activity Feed | GAIN Power", "/skillmarketplace": "Skill Marketplace | GAIN Power", "/skill-marketplace": "Skill Marketplace | GAIN Power", "/recommendations": "Recommendations | GAIN Power", "/gettingstarted": "Getting Started | GAIN Power", "/getting-started": "Getting Started | GAIN Power", "/adminaccesscodes": "Admin Access Codes | GAIN Power", "/admin-access-codes": "Admin Access Codes | GAIN Power", "/adminmembers": "Admin Members | GAIN Power", "/admin-members": "Admin Members | GAIN Power", "/adminorgs": "Admin Orgs | GAIN Power", "/admin-orgs": "Admin Orgs | GAIN Power", "/admintaxonomyreview": "Admin Taxonomy Review | GAIN Power", "/admin-taxonomy-review": "Admin Taxonomy Review | GAIN Power", "/admin-org-enricher": "Admin Org Enricher | GAIN Power", "/adminorgenricher": "Admin Org Enricher | GAIN Power", "/referral": "Referral | GAIN Power", "/admin-job-products": "Admin Job Products | GAIN Power", "/adminjobproducts": "Admin Job Products | GAIN Power", "/orgmembershipupgrade": "Org Membership Upgrade | GAIN Power", "/org-membership-upgrade": "Org Membership Upgrade | GAIN Power", "/interviewscheduler": "Interview Scheduler | GAIN Power", "/interview-scheduler": "Interview Scheduler | GAIN Power", "/interviewfeedback": "Interview Feedback | GAIN Power", "/interview-feedback": "Interview Feedback | GAIN Power", "/admin-guides": "Admin Guides | GAIN Power", "/adminguides": "Admin Guides | GAIN Power", "/adminposts": "Admin Posts | GAIN Power", "/admin-posts": "Admin Posts | GAIN Power", "/adminjobs": "Admin Jobs | GAIN Power", "/admin-jobs": "Admin Jobs | GAIN Power", "/adminjobdistribution": "Admin Job Distribution | GAIN Power", "/admin-job-distribution": "Admin Job Distribution | GAIN Power", "/adminjoborgmatching": "Admin Job Org Matching | GAIN Power", "/admin-job-org-matching": "Admin Job Org Matching | GAIN Power", "/admin-org-feeds": "Admin Org Feeds | GAIN Power", "/adminorgfeeds": "Admin Org Feeds | GAIN Power", "/admin-firm-import": "Admin Firm Import | GAIN Power", "/adminfirmimport": "Admin Firm Import | GAIN Power", "/adminemailtemplates": "Admin Email Templates | GAIN Power", "/admin-email-templates": "Admin Email Templates | GAIN Power", "/admin-transactional-emails": "Admin Transactional Emails | GAIN Power", "/admintransactionalemails": "Admin Transactional Emails | GAIN Power", "/digitalmarketplace": "Digital Marketplace | GAIN Power", "/digital-marketplace": "Digital Marketplace | GAIN Power", "/digitalresourcedetail": "Digital Resource Detail | GAIN Power", "/digital-resource-detail": "Digital Resource Detail | GAIN Power", "/submit-digital-resource": "Submit Digital Resource | GAIN Power", "/submitdigitalresource": "Submit Digital Resource | GAIN Power", "/my-digital-products": "My Digital Products | GAIN Power", "/mydigitalproducts": "My Digital Products | GAIN Power", "/admin-digital-resources": "Admin Digital Resources | GAIN Power", "/admindigitalresources": "Admin Digital Resources | GAIN Power", "/admintestimonials": "Admin Testimonials | GAIN Power", "/admin-testimonials": "Admin Testimonials | GAIN Power", "/admin-thought-leadership": "Admin Thought Leadership | GAIN Power", "/adminthoughtleadership": "Admin Thought Leadership | GAIN Power", "/admindirectoryrequests": "Admin Directory Requests | GAIN Power", "/admin-directory-requests": "Admin Directory Requests | GAIN Power", "/submittestimonial": "Submit Testimonial | GAIN Power", "/submit-testimonial": "Submit Testimonial | GAIN Power", "/orgeventtickets": "Org Event Tickets | GAIN Power", "/org-event-tickets": "Org Event Tickets | GAIN Power", "/organalytics": "Org Analytics | GAIN Power", "/org-analytics": "Org Analytics | GAIN Power", "/procurementprojects": "Procurement Projects | GAIN Power", "/procurement-projects": "Procurement Projects | GAIN Power", "/personalizedfeed": "Personalized Feed | GAIN Power", "/personalized-feed": "Personalized Feed | GAIN Power", "/career-agent": "Career Agent | GAIN Power", "/careeragent": "Career Agent | GAIN Power", "/careerpath": "Career Path | GAIN Power", "/career-path": "Career Path | GAIN Power", "/interviewsimulator": "Interview Simulator | GAIN Power", "/interview-simulator": "Interview Simulator | GAIN Power", "/salarybenchmarking": "Salary Benchmarking | GAIN Power", "/salary-benchmarking": "Salary Benchmarking | GAIN Power", "/resume-review": "Resume Review | GAIN Power", "/resumereview": "Resume Review | GAIN Power", "/analytics": "Analytics | GAIN Power", "/adminads": "Admin Ads | GAIN Power", "/admin-ads": "Admin Ads | GAIN Power", "/admin-applications": "Admin Applications | GAIN Power", "/adminapplications": "Admin Applications | GAIN Power", "/admin-waitlist": "Admin Waitlist | GAIN Power", "/adminwaitlist": "Admin Waitlist | GAIN Power", "/admin-application-status": "Admin Application Status | GAIN Power", "/adminapplicationstatus": "Admin Application Status | GAIN Power", "/orginvoices": "Org Invoices | GAIN Power", "/org-invoices": "Org Invoices | GAIN Power", "/submitproposal": "Submit Proposal | GAIN Power", "/submit-proposal": "Submit Proposal | GAIN Power", "/mobilejobdiscover": "Mobile Job Discover | GAIN Power", "/mobile-job-discover": "Mobile Job Discover | GAIN Power", "/addtohomescreen": "Add To Home Screen | GAIN Power", "/add-to-home-screen": "Add To Home Screen | GAIN Power", "/linkedinagent": "Linked In Agent | GAIN Power", "/linked-in-agent": "Linked In Agent | GAIN Power", "/admindashboard": "Admin Dashboard | GAIN Power", "/admin-dashboard": "Admin Dashboard | GAIN Power", "/admin-directory-analytics": "Admin Directory Analytics | GAIN Power", "/admindirectoryanalytics": "Admin Directory Analytics | GAIN Power", "/admin-job-orders": "Admin Job Orders | GAIN Power", "/adminjoborders": "Admin Job Orders | GAIN Power", "/admin-badges": "Admin Badges | GAIN Power", "/adminbadges": "Admin Badges | GAIN Power", "/adminadvisors": "Admin Advisors | GAIN Power", "/admin-advisors": "Admin Advisors | GAIN Power", "/admindomainallowlist": "Admin Domain Allowlist | GAIN Power", "/admin-domain-allowlist": "Admin Domain Allowlist | GAIN Power", "/admin-spam-log": "Admin Spam Log | GAIN Power", "/adminspamlog": "Admin Spam Log | GAIN Power", "/adminorgstatus": "Admin Org Status | GAIN Power", "/admin-org-status": "Admin Org Status | GAIN Power", "/admin-hub-sync": "Admin Hub Sync | GAIN Power", "/adminhubsync": "Admin Hub Sync | GAIN Power", "/admin-share-images": "Admin Share Images | GAIN Power", "/adminshareimages": "Admin Share Images | GAIN Power", "/adminecosystemgaps": "Admin Ecosystem Gaps | GAIN Power", "/admin-ecosystem-gaps": "Admin Ecosystem Gaps | GAIN Power", "/admin-profile-completeness": "Admin Profile Completeness | GAIN Power", "/adminprofilecompleteness": "Admin Profile Completeness | GAIN Power", "/admin-homepage": "Admin Homepage | GAIN Power", "/adminhomepage": "Admin Homepage | GAIN Power", "/admin-crm": "Admin CRM | GAIN Power", "/admincrm": "Admin CRM | GAIN Power", "/submit-feedback": "Submit Feedback | GAIN Power", "/submitfeedback": "Submit Feedback | GAIN Power", "/projectdashboard": "Project Dashboard | GAIN Power", "/project-dashboard": "Project Dashboard | GAIN Power", "/user-settings": "User Settings | GAIN Power", "/usersettings": "User Settings | GAIN Power", "/my-credits": "My Credits | GAIN Power", "/mycredits": "My Credits | GAIN Power", "/vendoranswers": "Vendor Answers | GAIN Power", "/vendor-answers": "Vendor Answers | GAIN Power", "/candidate-profile": "Candidate Profile | GAIN Power", "/candidateprofile": "Candidate Profile | GAIN Power", "/office-hours": "Office Hours | GAIN Power", "/officehours": "Office Hours | GAIN Power", "/my-sessions": "My Sessions | GAIN Power", "/mysessions": "My Sessions | GAIN Power", "/adminorgcompleteness": "Admin Org Completeness | GAIN Power", "/admin-org-completeness": "Admin Org Completeness | GAIN Power", "/recruiterdashboard": "Recruiter Dashboard | GAIN Power", "/recruiter-dashboard": "Recruiter Dashboard | GAIN Power", "/orgedit": "Org Edit | GAIN Power", "/org-edit": "Org Edit | GAIN Power", "/orgs/compare": "Org Compare | GAIN Power", "/org-dashboard": "Org Dashboard | GAIN Power", "/orgdashboard": "Org Dashboard | GAIN Power", "/orgpremiumedit": "Org Premium Edit | GAIN Power", "/org-premium-edit": "Org Premium Edit | GAIN Power", "/admincontenttemplates": "Admin Content Templates | GAIN Power", "/admin-content-templates": "Admin Content Templates | GAIN Power", "/admin-standards": "Admin Standards | GAIN Power", "/adminstandards": "Admin Standards | GAIN Power", "/vendorscoredashboard": "Vendor Score Dashboard | GAIN Power", "/vendor-score-dashboard": "Vendor Score Dashboard | GAIN Power", "/admin-revenue": "Admin Revenue | GAIN Power", "/adminrevenue": "Admin Revenue | GAIN Power", "/security-publish-gate": "Security Publish Gate | GAIN Power", "/securitypublishgate": "Security Publish Gate | GAIN Power", "/talent-taskforce": "Talent Taskforce | GAIN Power", "/become-advisor": "Become Advisor | GAIN Power", "/becomeadvisor": "Become Advisor | GAIN Power", "/gig-marketplace": "Directory Businesses | GAIN Power", "/gigmarketplace": "Directory Businesses | GAIN Power", "/gigcreate": "Gig Create | GAIN Power", "/gig-create": "Gig Create | GAIN Power", "/gig-manage": "Gig Manage | GAIN Power", "/gigmanage": "Gig Manage | GAIN Power", "/my-gig-orders": "My Gig Orders | GAIN Power", "/mygigorders": "My Gig Orders | GAIN Power", "/eventcreate": "Event Create | GAIN Power", "/event-create": "Event Create | GAIN Power", "/connected-apps": "Connected Apps | GAIN Power", "/connectedapps": "Connected Apps | GAIN Power", "/guide-detail": "Guide Detail | GAIN Power", "/guidedetail": "Guide Detail | GAIN Power", "/honorarycouncil": "Honorary Council | GAIN Power", "/join": "Join | GAIN Power", "/memberprofileedit": "Member Profile Edit | GAIN Power", "/member-profile-edit": "Member Profile Edit | GAIN Power", "/memberprofileview": "Member Profile View | GAIN Power", "/member-profile-view": "Member Profile View | GAIN Power", "/org-event-edit": "Org Event Edit | GAIN Power", "/orgeventedit": "Org Event Edit | GAIN Power", "/orgjobedit": "Org Job Edit | GAIN Power", "/org-job-edit": "Org Job Edit | GAIN Power", "/orgpostedit": "Org Post Edit | GAIN Power", "/org-post-edit": "Org Post Edit | GAIN Power", "/org-team-edit": "Org Team Edit | GAIN Power", "/orgteamedit": "Org Team Edit | GAIN Power", "/teampage": "Team Page | GAIN Power", "/team-page": "Team Page | GAIN Power", "/user-dashboard": "User Dashboard | GAIN Power", "/userdashboard": "User Dashboard | GAIN Power", "/memberperks": "Member Perks | GAIN Power", "/member-perks": "Member Perks | GAIN Power", "/rfpcreate": "RFP Create | GAIN Power", "/rfp-create": "RFP Create | GAIN Power", "/rfpdetail": "RFP Detail | GAIN Power", "/rfp-detail": "RFP Detail | GAIN Power", "/crm": "CRM Console | GAIN Power", "/programrootscamp": "Program Roots Camp | GAIN Power", "/program-roots-camp": "Program Roots Camp | GAIN Power", "/home": "GAIN Power"};
+  // PascalCase boundaries -> "-", mirroring _PASCAL_BOUNDARY_RE without lookbehind
+  // (old Safari fails to PARSE a lookbehind, taking the whole script down).
+  var dashed = function (s) {
+    return s.replace(/([a-z0-9])([A-Z])/g, "$1-$2").replace(/([A-Z])([A-Z][a-z])/g, "$1-$2");
+  };
+  var decode = function (s) {
+    // A %2F inside ONE segment must not become a structural separator: /blog/foo%2Fbar is a
+    // dynamic slug, and letting it split would match a static /blog/foo/bar and write ITS title.
+    try { var d = decodeURIComponent(s); return d.indexOf("/") < 0 ? d : s; } catch (e) { return s; }
+  };
+  var segments = function (path) { return path.split("/").filter(Boolean).map(decode); };
+  var norm = function (path) {
+    var parts = segments(path).map(function (s) { return dashed(s).toLowerCase(); });
+    return parts.length ? "/" + parts.join("/") : "/";
+  };
+  var lastPath = location.pathname, written = document.title, on = true;
+  var sync = function () {
+    // Path only: a hash/query change is the same page, and the SDK strips its own auth
+    // params with replaceState -- neither must clobber a server-rendered title in place.
+    if (!on || location.pathname === lastPath) return;
+    lastPath = location.pathname;
+    if (document.title !== written) { on = false; return; }
+    // Write ONLY a title the map proves. An unmapped path is a dynamic route (/blog/:slug) the
+    // map cannot carry, and writing a placeholder there is destructive, not merely vague: the
+    // prerender worker runs no setUserAgent, so its capture browser reads as human and executes
+    // this script, and coordinator.js's settle wait explicitly tolerates a full navigation --
+    // a redirect landing on an unmapped path would bake the placeholder into the stored
+    // snapshot. Leaving the title alone degrades to today's behavior instead.
+    // Exact lookup only. A dash-stripped retry here would let a genuinely different /set-up
+    // claim /setup: the map carries a dash-free key only where a PascalCase boundary put the
+    // dashes there, and the client cannot tell the two apart. The map emits every reachable
+    // shape per segment instead (_client_url_variants).
+    var title = titles[norm(location.pathname)];
+    if (title === undefined) return;
+    document.title = title;
+    // Re-read: the setter stores verbatim but the getter strips and collapses whitespace, so
+    // keeping the assigned string would make the next sync() read our own write as the app's.
+    written = document.title;
+  };
+  var wrap = function (fn) {
+    // The history entry is already pushed by the time sync() runs, so a throw here would
+    // surface inside the host app's router and break navigation. This is injected into apps
+    // we cannot test, so it swallows rather than trusting the trace.
+    return function () {
+      var r = fn.apply(this, arguments);
+      try { sync(); } catch (e) {}
+      return r;
+    };
+  };
+  history.pushState = wrap(history.pushState);
+  history.replaceState = wrap(history.replaceState);
+  window.addEventListener("popstate", sync);
+})();
+  </script>
+  <meta content="yes" name="mobile-web-app-capable"/>
+  <meta content="black" name="apple-mobile-web-app-status-bar-style"/>
+  <meta content="GAIN Power" name="apple-mobile-web-app-title"/>
+  <meta content="D1BQTt0ZqVNcfTD47fAl68XLRZwo5kq0rSiifR8gUOY" name="google-site-verification"/>
+  <link href="https://gainpower.org/wp-content/uploads/2020/11/favicon-300x300.png" rel="canonical"/>
+  <script data-seo-source="builder" type="application/ld+json">
+   {"@context": "https://schema.org", "@type": "WebSite", "name": "GAIN Power", "url": "https://campaignprofessionals.org"}
+  </script>
+  <script data-seo-source="builder" type="application/ld+json">
+   {"@context": "https://schema.org", "@type": "Organization", "name": "GAIN Power", "url": "https://campaignprofessionals.org", "logo": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/698df6f8e4033c78a98bc691/4a81fd5c4_12ccf7gainpowericonfavicon.png"}
+  </script>
+  <script data-seo-source="builder" type="application/ld+json">
+   {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What is GAIN Power?", "acceptedAnswer": {"@type": "Answer", "text": "GAIN Power manages 5 data types including access applications. Helps you organize, track, and share your work in 1 place for teams and solo users."}}]}
+  </script>
+ </head>
+ <body>
+  <div id="root">
+   <div data-seo-source="builder" id="seo-snapshot" style="position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0;">
+    <main>
+     <header>
+      <h1>
+       GAIN Power
+      </h1>
+      <p>
+       GAIN Power manages 5 data types including access applications. Helps you organize, track, and share your work in 1 place for teams and solo users.
+      </p>
+     </header>
+     <nav aria-label="Pages">
+      <h2>
+       Pages
+      </h2>
+      <ul>
+       <li>
+        <a href="/">
+         Home
+        </a>
+       </li>
+       <li>
+        <a href="/login">
+         Login
+        </a>
+        — Login on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/register">
+         Register
+        </a>
+        — Register on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/region-gate">
+         Region Gate
+        </a>
+        — Region Gate on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/forgot-password">
+         Forgot Password
+        </a>
+        — Forgot Password on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/reset-password">
+         Reset Password
+        </a>
+        — Reset Password on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/waitlist">
+         Waitlist
+        </a>
+        — Waitlist on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/landing">
+         Landing
+        </a>
+        — Landing on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/talent-in-transition">
+         Talent Transition
+        </a>
+        — Talent Transition on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/talent-in-transition/register">
+         Talent Transition Register
+        </a>
+        — Talent Transition Register on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/talent-in-transition/sponsor">
+         Sponsor The Series
+        </a>
+        — Sponsor The Series on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/talent-in-transition/donate">
+         Donate To The Series
+        </a>
+        — Donate To The Series on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/talent-in-transition/submit">
+         Talent Transition Submit
+        </a>
+        — Talent Transition Submit on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/AdminTalentTransition">
+         Admin Talent Transition
+        </a>
+        — Admin Talent Transition on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/embed/consultants">
+         Consultant Directory Embed
+        </a>
+        — Consultant Directory Embed on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/embed">
+         Embed Partner Kit
+        </a>
+        — Embed Partner Kit on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/shareyourstory">
+         Submit Spotlight
+        </a>
+        — Submit Spotlight on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/submit-story-idea">
+         Submit Story Idea
+        </a>
+        — Submit Story Idea on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/jobs">
+         Jobs
+        </a>
+        — Jobs on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/democracydirectory">
+         Directory
+        </a>
+        — Directory on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/democracydirectories">
+         Plural Directory Redirect
+        </a>
+        — Plural Directory Redirect on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/people">
+         People
+        </a>
+        — People on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/resources">
+         Resources
+        </a>
+        — Resources on GAIN Power. A unified platform for Democratic and Progressive campaigns and causes, connecti.
+       </li>
+       <li>
+        <a href="/thought-leadership">
+         Thought Leadership
+        </a>
+        — Thought Leadership on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/writing">
+         Writing
+        </a>
+        — Writing on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/ThoughtLeadershipDetail">
+         Thought Leadership Detail
+        </a>
+        — Thought Leadership Detail on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/posts">
+         Posts
+        </a>
+        — Posts on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/events">
+         Events
+        </a>
+        — Events on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/program/2026-post-election-training-series-in-partnership-with-dnc-arena">
+         Program Events
+        </a>
+        — Program Events on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/JobDetail">
+         Job Detail
+        </a>
+        — Job Detail on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/EventDetail">
+         Event Detail
+        </a>
+        — Event Detail on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/PostDetail">
+         Post Detail
+        </a>
+        — Post Detail on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/OrgProfile">
+         Org Profile
+        </a>
+        — Org Profile on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/ConsultantsHub">
+         Directory Businesses
+        </a>
+        — Directory Businesses on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/about">
+         About
+        </a>
+        — About on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/diversity">
+         Diversity
+        </a>
+        — Diversity on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/contact">
+         Contact
+        </a>
+        — Contact on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/our-story">
+         Our Story
+        </a>
+        — Our Story on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/pricing">
+         Pricing
+        </a>
+        — Pricing on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/why-list-your-org">
+         Why List Your Org
+        </a>
+        — Why List Your Org on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/standard-solicitations">
+         Standard Solicitations
+        </a>
+        — Standard Solicitations on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/standard-rfp">
+         Standard RFP
+        </a>
+        — Standard RFP on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/RFPPortal">
+         RFP Portal
+        </a>
+        — RFP Portal on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/getinvolved">
+         Get Involved
+        </a>
+        — Get Involved on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/testimonials">
+         Testimonials Showcase
+        </a>
+        — Testimonials Showcase on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/testimonial">
+         Submit Testimonial
+        </a>
+        — Submit Testimonial on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/privacy">
+         Privacy Policy
+        </a>
+        — Privacy Policy on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/terms">
+         Terms Of Service
+        </a>
+        — Terms Of Service on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/recommendation-guidelines">
+         Recommendation Guidelines
+        </a>
+        — Recommendation Guidelines on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/code-of-conduct">
+         Code Of Conduct
+        </a>
+        — Code Of Conduct on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/nda">
+         NDA
+        </a>
+        — NDA on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/cookie-policy">
+         Cookie Policy
+        </a>
+        — Cookie Policy on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/marketplace/compare">
+         Marketplace Compare
+        </a>
+        — Marketplace Compare on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/marketplace/shortlist">
+         Marketplace Shortlist
+        </a>
+        — Marketplace Shortlist on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/marketplace/manage">
+         Marketplace Listing Manager
+        </a>
+        — Marketplace Listing Manager on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/TechnologyProductDetail">
+         Technology Product Detail
+        </a>
+        — Technology Product Detail on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/CareersHub">
+         Careers Hub
+        </a>
+        — Careers Hub on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/CommunityHub">
+         Community Hub
+        </a>
+        — Community Hub on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/Roadmap">
+         Roadmap
+        </a>
+        — Roadmap on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/democracydirectory/nonprofits">
+         Directory Nonprofits
+        </a>
+        — Directory Nonprofits on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/democracydirectory/political">
+         Directory Political
+        </a>
+        — Directory Political on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/DirectoryMedia">
+         Directory Media
+        </a>
+        — Directory Media on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/Help">
+         Help
+        </a>
+        — Help on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/DemocracyActivistsNews">
+         Democracy Activists News
+        </a>
+        — Democracy Activists News on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/EcosystemMap">
+         Ecosystem Map
+        </a>
+        — Ecosystem Map on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/FindYourLane">
+         Find Your Lane
+        </a>
+        — Find Your Lane on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/CareerExplorer">
+         Career Explorer
+        </a>
+        — Career Explorer on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/honorary-council">
+         Honorary Council
+        </a>
+        — Honorary Council on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/Programs/RootsCamp">
+         Program Roots Camp
+        </a>
+        — Program Roots Camp on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/ProgramCareerFairs">
+         Program Career Fairs
+        </a>
+        — Program Career Fairs on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/ProgramMPX">
+         Program MPX
+        </a>
+        — Program MPX on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/RateSheet">
+         Rate Sheet
+        </a>
+        — Rate Sheet on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/AdvertiseWithGAIN">
+         Advertise With GAIN
+        </a>
+        — Advertise With GAIN on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/VideoHub">
+         Video Hub
+        </a>
+        — Video Hub on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/LearningDashboard">
+         Learning Dashboard
+        </a>
+        — Learning Dashboard on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/DirectoryCampaigns">
+         Directory Campaigns
+        </a>
+        — Directory Campaigns on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/VendorDashboard">
+         Vendor Dashboard
+        </a>
+        — Vendor Dashboard on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/Messages">
+         Messages
+        </a>
+        — Messages on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/MembershipManagement">
+         Membership Management
+        </a>
+        — Membership Management on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/MyConnections">
+         My Connections
+        </a>
+        — My Connections on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/SubmitResource">
+         Submit Resource
+        </a>
+        — Submit Resource on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/RequestTraining">
+         Request Training
+        </a>
+        — Request Training on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/SubmitArticle">
+         Submit Article
+        </a>
+        — Submit Article on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/AdminPolls">
+         Admin Polls
+        </a>
+        — Admin Polls on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/AdminFeedback">
+         Admin Feedback
+        </a>
+        — Admin Feedback on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/AdminModeration">
+         Admin Moderation
+        </a>
+        — Admin Moderation on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/ActivityFeed">
+         Activity Feed
+        </a>
+        — Activity Feed on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/SkillMarketplace">
+         Skill Marketplace
+        </a>
+        — Skill Marketplace on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/Recommendations">
+         Recommendations
+        </a>
+        — Recommendations on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/GettingStarted">
+         Getting Started
+        </a>
+        — Getting Started on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/AdminAccessCodes">
+         Admin Access Codes
+        </a>
+        — Admin Access Codes on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/AdminMembers">
+         Admin Members
+        </a>
+        — Admin Members on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/AdminOrgs">
+         Admin Orgs
+        </a>
+        — Admin Orgs on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/AdminTaxonomyReview">
+         Admin Taxonomy Review
+        </a>
+        — Admin Taxonomy Review on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/AdminOrgEnricher">
+         Admin Org Enricher
+        </a>
+        — Admin Org Enricher on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/Referral">
+         Referral
+        </a>
+        — Referral on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/AdminJobProducts">
+         Admin Job Products
+        </a>
+        — Admin Job Products on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/OrgMembershipUpgrade">
+         Org Membership Upgrade
+        </a>
+        — Org Membership Upgrade on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/InterviewScheduler">
+         Interview Scheduler
+        </a>
+        — Interview Scheduler on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/InterviewFeedback">
+         Interview Feedback
+        </a>
+        — Interview Feedback on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/AdminGuides">
+         Admin Guides
+        </a>
+        — Admin Guides on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/AdminPosts">
+         Admin Posts
+        </a>
+        — Admin Posts on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/AdminJobs">
+         Admin Jobs
+        </a>
+        — Admin Jobs on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/AdminJobDistribution">
+         Admin Job Distribution
+        </a>
+        — Admin Job Distribution on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/AdminJobOrgMatching">
+         Admin Job Org Matching
+        </a>
+        — Admin Job Org Matching on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/AdminOrgFeeds">
+         Admin Org Feeds
+        </a>
+        — Admin Org Feeds on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/AdminFirmImport">
+         Admin Firm Import
+        </a>
+        — Admin Firm Import on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/AdminEmailTemplates">
+         Admin Email Templates
+        </a>
+        — Admin Email Templates on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/AdminTransactionalEmails">
+         Admin Transactional Emails
+        </a>
+        — Admin Transactional Emails on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/DigitalMarketplace">
+         Digital Marketplace
+        </a>
+        — Digital Marketplace on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/DigitalResourceDetail">
+         Digital Resource Detail
+        </a>
+        — Digital Resource Detail on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/SubmitDigitalResource">
+         Submit Digital Resource
+        </a>
+        — Submit Digital Resource on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/MyDigitalProducts">
+         My Digital Products
+        </a>
+        — My Digital Products on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/AdminDigitalResources">
+         Admin Digital Resources
+        </a>
+        — Admin Digital Resources on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/AdminTestimonials">
+         Admin Testimonials
+        </a>
+        — Admin Testimonials on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/AdminThoughtLeadership">
+         Admin Thought Leadership
+        </a>
+        — Admin Thought Leadership on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/AdminDirectoryRequests">
+         Admin Directory Requests
+        </a>
+        — Admin Directory Requests on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/OrgEventTickets">
+         Org Event Tickets
+        </a>
+        — Org Event Tickets on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/OrgAnalytics">
+         Org Analytics
+        </a>
+        — Org Analytics on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/ProcurementProjects">
+         Procurement Projects
+        </a>
+        — Procurement Projects on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/PersonalizedFeed">
+         Personalized Feed
+        </a>
+        — Personalized Feed on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/CareerAgent">
+         Career Agent
+        </a>
+        — Career Agent on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/CareerPath">
+         Career Path
+        </a>
+        — Career Path on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/InterviewSimulator">
+         Interview Simulator
+        </a>
+        — Interview Simulator on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/SalaryBenchmarking">
+         Salary Benchmarking
+        </a>
+        — Salary Benchmarking on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/ResumeReview">
+         Resume Review
+        </a>
+        — Resume Review on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/Analytics">
+         Analytics
+        </a>
+        — Analytics on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/AdminAds">
+         Admin Ads
+        </a>
+        — Admin Ads on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/AdminApplications">
+         Admin Applications
+        </a>
+        — Admin Applications on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/AdminWaitlist">
+         Admin Waitlist
+        </a>
+        — Admin Waitlist on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/AdminApplicationStatus">
+         Admin Application Status
+        </a>
+        — Admin Application Status on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/OrgInvoices">
+         Org Invoices
+        </a>
+        — Org Invoices on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/SubmitProposal">
+         Submit Proposal
+        </a>
+        — Submit Proposal on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/MobileJobDiscover">
+         Mobile Job Discover
+        </a>
+        — Mobile Job Discover on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/AddToHomeScreen">
+         Add To Home Screen
+        </a>
+        — Add To Home Screen on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/LinkedInAgent">
+         Linked In Agent
+        </a>
+        — Linked In Agent on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/AdminDashboard">
+         Admin Dashboard
+        </a>
+        — Admin Dashboard on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/AdminDirectoryAnalytics">
+         Admin Directory Analytics
+        </a>
+        — Admin Directory Analytics on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/AdminJobOrders">
+         Admin Job Orders
+        </a>
+        — Admin Job Orders on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/AdminBadges">
+         Admin Badges
+        </a>
+        — Admin Badges on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/AdminAdvisors">
+         Admin Advisors
+        </a>
+        — Admin Advisors on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/AdminDomainAllowlist">
+         Admin Domain Allowlist
+        </a>
+        — Admin Domain Allowlist on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/AdminSpamLog">
+         Admin Spam Log
+        </a>
+        — Admin Spam Log on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/AdminOrgStatus">
+         Admin Org Status
+        </a>
+        — Admin Org Status on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/AdminHubSync">
+         Admin Hub Sync
+        </a>
+        — Admin Hub Sync on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/AdminShareImages">
+         Admin Share Images
+        </a>
+        — Admin Share Images on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/AdminEcosystemGaps">
+         Admin Ecosystem Gaps
+        </a>
+        — Admin Ecosystem Gaps on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/AdminProfileCompleteness">
+         Admin Profile Completeness
+        </a>
+        — Admin Profile Completeness on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/AdminHomepage">
+         Admin Homepage
+        </a>
+        — Admin Homepage on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/AdminCRM">
+         Admin CRM
+        </a>
+        — Admin CRM on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/SubmitFeedback">
+         Submit Feedback
+        </a>
+        — Submit Feedback on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/ProjectDashboard">
+         Project Dashboard
+        </a>
+        — Project Dashboard on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/UserSettings">
+         User Settings
+        </a>
+        — User Settings on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/MyCredits">
+         My Credits
+        </a>
+        — My Credits on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/VendorAnswers">
+         Vendor Answers
+        </a>
+        — Vendor Answers on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/CandidateProfile">
+         Candidate Profile
+        </a>
+        — Candidate Profile on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/OfficeHours">
+         Office Hours
+        </a>
+        — Office Hours on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/MySessions">
+         My Sessions
+        </a>
+        — My Sessions on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/AdminOrgCompleteness">
+         Admin Org Completeness
+        </a>
+        — Admin Org Completeness on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/RecruiterDashboard">
+         Recruiter Dashboard
+        </a>
+        — Recruiter Dashboard on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/OrgEdit">
+         Org Edit
+        </a>
+        — Org Edit on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/orgs/compare">
+         Org Compare
+        </a>
+        — Org Compare on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/OrgDashboard">
+         Org Dashboard
+        </a>
+        — Org Dashboard on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/OrgPremiumEdit">
+         Org Premium Edit
+        </a>
+        — Org Premium Edit on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/AdminContentTemplates">
+         Admin Content Templates
+        </a>
+        — Admin Content Templates on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/AdminStandards">
+         Admin Standards
+        </a>
+        — Admin Standards on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/VendorScoreDashboard">
+         Vendor Score Dashboard
+        </a>
+        — Vendor Score Dashboard on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/AdminRevenue">
+         Admin Revenue
+        </a>
+        — Admin Revenue on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/SecurityPublishGate">
+         Security Publish Gate
+        </a>
+        — Security Publish Gate on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/talent-taskforce">
+         Talent Taskforce
+        </a>
+        — Talent Taskforce on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/BecomeAdvisor">
+         Become Advisor
+        </a>
+        — Become Advisor on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/GigCreate">
+         Gig Create
+        </a>
+        — Gig Create on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/GigManage">
+         Gig Manage
+        </a>
+        — Gig Manage on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/MyGigOrders">
+         My Gig Orders
+        </a>
+        — My Gig Orders on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/EventCreate">
+         Event Create
+        </a>
+        — Event Create on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/ConnectedApps">
+         Connected Apps
+        </a>
+        — Connected Apps on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/GuideDetail">
+         Guide Detail
+        </a>
+        — Guide Detail on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/Join">
+         Join
+        </a>
+        — Join on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/MemberProfileEdit">
+         Member Profile Edit
+        </a>
+        — Member Profile Edit on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/MemberProfileView">
+         Member Profile View
+        </a>
+        — Member Profile View on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/OrgEventEdit">
+         Org Event Edit
+        </a>
+        — Org Event Edit on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/OrgJobEdit">
+         Org Job Edit
+        </a>
+        — Org Job Edit on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/OrgPostEdit">
+         Org Post Edit
+        </a>
+        — Org Post Edit on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/OrgTeamEdit">
+         Org Team Edit
+        </a>
+        — Org Team Edit on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/TeamPage">
+         Team Page
+        </a>
+        — Team Page on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/UserDashboard">
+         User Dashboard
+        </a>
+        — User Dashboard on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/MemberPerks">
+         Member Perks
+        </a>
+        — Member Perks on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/RFPCreate">
+         RFP Create
+        </a>
+        — RFP Create on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/RFPDetail">
+         RFP Detail
+        </a>
+        — RFP Detail on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+       <li>
+        <a href="/crm">
+         CRM Console
+        </a>
+        — CRM Console on GAIN Power. GAIN Power manages 5 data types including access applications.
+       </li>
+      </ul>
+     </nav>
+    </main>
+   </div>
+  </div>
+ </body>
+</html>

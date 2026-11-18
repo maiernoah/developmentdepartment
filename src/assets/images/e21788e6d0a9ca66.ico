@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en" data-critters-container>
+
+    <head>
+
+        <!-- Google analytics tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-G21Z2ZQHJG"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag() { dataLayer.push(arguments); }
+            gtag("js", new Date());
+            gtag("config", "G-G21Z2ZQHJG");
+        </script>
+
+        <title>Skip: Remote Edtech Jobs</title>
+
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <meta name="description" content="Remote jobs that pay at least $60K at ed tech, education-adjacent, and mission-driven companies. Find curated jobs that value your education or edtech background." />
+<meta property="og:image" content="https://edskip.com/assets/img/logo_blue_og_2.png" />
+        
+        <script>var __SSR_LOAD_COLORS = {"success":true,"colors":{"audience_color_map":{"Education Experience":"#366d64","preK-12 Educator":"#3e8176","preK-12 Admin":"#3f6d36","preK-12 Support Staff":"#29534c","Higher Ed":"#528249","Early Career":"#6D4836","Edtech\/Industry Skills":"#007eb2","Edtech\/Industry Skills (0-2 years)":"#007eb2","Edtech\/Industry Skills (2-5 years)":"#4d7d89","Edtech\/Industry Skills (5-8 years)":"#0079cd","Edtech\/Industry Skills (8-12 years)":"#09507c","Edtech\/Industry Skills (12+ years)":"#09507c","Relevant Skills":"#580143","Relevant Skills (0-2 years)":"#580143","Relevant Skills (2-5 years)":"#ae5798","Relevant Skills (5-8 years)":"#a4027d","Relevant Skills (8-12 years)":"#cc029c","Relevant Skills (12+ years)":"#cc029c"}}};</script>
+        <base href="/">
+
+        <link rel="icon" type="image/svg+xml" href="/assets/img/logo_blue.svg" id="favicon_prefers_light">
+        <link rel="icon" type="image/svg+xml" href="/assets/img/logo_white_orange.svg" id="favicon_prefers_dark">
+        <script>
+            let favicon_prefers_light = document.querySelector("link#favicon_prefers_light");
+            let favicon_prefers_dark = document.querySelector("link#favicon_prefers_dark");
+
+            let favicon_matcher = window.matchMedia("(prefers-color-scheme: dark)");
+
+            function update_favicon() {
+                if (favicon_matcher.matches) {
+                    favicon_prefers_light.remove();
+                    document.head.append(favicon_prefers_dark);
+                } else {
+                    document.head.append(favicon_prefers_light);
+                    favicon_prefers_dark.remove();
+                }
+            }
+
+            favicon_matcher.addListener(update_favicon);
+            update_favicon();
+        </script>
+
+        <!-- mixpanel.com -->
+        <script type="text/javascript">
+            (function (f, b) { if (!b.__SV) { var e, g, i, h; window.mixpanel = b; b._i = []; b.init = function (e, f, c) { function g(a, d) { var b = d.split("."); 2 == b.length && ((a = a[b[0]]), (d = b[1])); a[d] = function () { a.push([d].concat(Array.prototype.slice.call(arguments, 0))); }; } var a = b; "undefined" !== typeof c ? (a = b[c] = []) : (c = "mixpanel"); a.people = a.people || []; a.toString = function (a) { var d = "mixpanel"; "mixpanel" !== c && (d += "." + c); a || (d += " (stub)"); return d; }; a.people.toString = function () { return a.toString(1) + ".people (stub)"; }; i = "disable time_event track track_pageview track_links track_forms track_with_groups add_group set_group remove_group register register_once alias unregister identify name_tag set_config reset opt_in_tracking opt_out_tracking has_opted_in_tracking has_opted_out_tracking clear_opt_in_out_tracking start_batch_senders people.set people.set_once people.unset people.increment people.append people.union people.track_charge people.clear_charges people.delete_user people.remove".split( " "); for (h = 0; h < i.length; h++) g(a, i[h]); var j = "set set_once union unset remove delete".split(" "); a.get_group = function () { function b(c) { d[c] = function () { call2_args = arguments; call2 = [c].concat(Array.prototype.slice.call(call2_args, 0)); a.push([e, call2]); }; } for ( var d = {}, e = ["get_group"].concat( Array.prototype.slice.call(arguments, 0)), c = 0; c < j.length; c++) b(j[c]); return d; }; b._i.push([e, f, c]); }; b.__SV = 1.2; e = f.createElement("script"); e.type = "text/javascript"; e.async = !0; e.src = "undefined" !== typeof MIXPANEL_CUSTOM_LIB_URL ? MIXPANEL_CUSTOM_LIB_URL : "file:" === f.location.protocol && "//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js".match(/^\/\//) ? "https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js" : "//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"; g = f.getElementsByTagName("script")[0]; g.parentNode.insertBefore(e, g); } })(document, window.mixpanel || []);
+        </script>
+
+        <!-- getrewardful.com -->
+        <script>(function(w,r){w._rwq=r;w[r]=w[r]||function(){(w[r].q=w[r].q||[]).push(arguments)}})(window,'rewardful');</script>
+        <script async src="https://r.wdfl.co/rw.js" data-rewardful="866117"></script>
+
+    <style>@import"https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,100..900;1,100..900&family=Parastoo:wght@400..700&display=swap";@charset "UTF-8";:root{--dt-row-selected:13, 110, 253;--dt-row-selected-text:255, 255, 255;--dt-row-selected-link:9, 10, 11;--dt-row-stripe:0, 0, 0;--dt-row-hover:0, 0, 0;--dt-column-ordering:0, 0, 0;--dt-html-background:white}:root{--skip_serif:"Parastoo", serif;--skip_sans:"Libre Franklin", sans-serif;--skip_primary:#0079CD;--skip_primary_hover:#009CDB;--skip_primary_box_shadow:rgba(0, 121, 205, .4);--skip_secondary:#0079CD;--skip_secondary_hover:#009CDB;--skip_secondary_box_shadow:rgba(0, 121, 205, .4);--skip_accent:#FF6200;--skip_accent_hover:#DF4200;--skip_accent_accessible:#CD4D00;--skip_header:#09507C;--skip_dark:#333333;--skip_light:#FFFFFF;--skip_dark_gray:#A9A9AA;--skip_dark_gray_accessible:#767676;--skip_light_gray:#E0E0E0;--skip_light_blue:#E6EEF6;--skip_chart_green:#1BAF7A;--skip_chart_yellow:#EDA100;--skip_chart_blue_light:#7DBDE8;--skip_light_button_overlay:rgba(255, 255, 255, .3);--skip_input_background:#F2F2F2;--skip_input_padding:12px 16px;--skip_input_border_radius:12px;--skip_box_shadow:0 2px 4px;--skip_standard_animation:all .3s ease}*{margin:0;padding:0;box-sizing:border-box}body{font-family:var(--skip_sans);font-size:16px;line-height:1.6em;letter-spacing:.005em;color:var(--skip_dark)}</style><link rel="stylesheet" href="styles.7c8998acf8cb1f1e.css" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="styles.7c8998acf8cb1f1e.css"></noscript></head>
+
+    <body>
+        <!-- Server-rendered page content for crawlers (head.php's
+             $ssr_body_block); Angular replaces it when it bootstraps into
+             app-root: -->
+        <app-root></app-root>
+    <script src="runtime.c85a3b6f667018fa.js" type="module"></script><script src="polyfills.ae41011bbcbcb5ff.js" type="module"></script><script src="scripts.6ded1b028ad4f65f.js" defer></script><script src="main.9e5007d612941ae3.js" type="module"></script></body>
+
+</html>
+
+
