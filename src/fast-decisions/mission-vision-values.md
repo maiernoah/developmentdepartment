@@ -69,10 +69,10 @@ Most companies try to be everything to everyone, and set themselves up for failu
 
 There are four key components:
 
-1.  Target Market
-2.  Unique Selling Proposition
-3.  A Proven Process
-4.  A Guarantee.
+1. Target Market
+2. Unique Selling Proposition
+3. A Proven Process
+4. A Guarantee.
 
 The target market identifies the characteristics of your best customers.
 
@@ -96,7 +96,7 @@ These are the 3-7 most important objectives that the organization must get done 
 
 # Outstanding Issues
 
-This is simply a list of all the things that might get in the way of your success. Make sure your organization tracks, openly and transparently, the obstacles in front of them. Admitting issues is important. So is actually doing something about them. We recommend framing each issue as an opportunity for change, rather than a simple critique. See [![Transparent Feedback and Radical Candor](/assets/images/e4a783777ea1b7e5.svg)Transparent Feedback and Radical Candor](/fast-decisions/transparent-feedback-and-radical-candor/) for more information.
+This is simply a list of all the things that might get in the way of your success. Make sure your organization tracks, openly and transparently, the obstacles in front of them. Admitting issues is important. So is actually doing something about them. We recommend framing each issue as an opportunity for change, rather than a simple critique. See [Transparent Feedback and Radical Candor](/fast-decisions/transparent-feedback-and-radical-candor/) for more information.
 
 # Troubleshooting
 

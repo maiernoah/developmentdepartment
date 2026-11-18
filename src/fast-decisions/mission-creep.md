@@ -21,11 +21,11 @@ There is a lesson here in thermodynamics: entropy is always increasing unless yo
 
 Non-profits don’t start out wanting to become a tangled mess of overlapping initiatives. So why do they so often fall into this trap?
 
-1.  **Chasing Funding** – Many non-profits live grant-to-grant. If a new funding opportunity arises but doesn’t quite fit the mission, the temptation to tweak the mission “just a little” can be overwhelming.
-2.  **Responding to External Pressure** – Stakeholders, board members, and donors all have ideas about what the organization _should_ be doing. Over time, these pressures accumulate, and the organization bends to accommodate them.
-3.  **Cultural Drift** – Over time, new leadership, staff, and external influences subtly shift the organization’s values and priorities. It’s rarely a conscious betrayal—just a slow evolution away from the original intent.
-4.  **The Halo Effect** – Success breeds confidence. If a non-profit is good at one thing, it starts assuming it can be good at ten other things, even if those areas require entirely different skills.
-5.  **Fear of Saying No** – No one wants to admit they can’t help. But saying "yes" to every opportunity is a recipe for burnout, dilution of resources, and loss of identity.
+1. **Chasing Funding** – Many non-profits live grant-to-grant. If a new funding opportunity arises but doesn’t quite fit the mission, the temptation to tweak the mission “just a little” can be overwhelming.
+2. **Responding to External Pressure** – Stakeholders, board members, and donors all have ideas about what the organization _should_ be doing. Over time, these pressures accumulate, and the organization bends to accommodate them.
+3. **Cultural Drift** – Over time, new leadership, staff, and external influences subtly shift the organization’s values and priorities. It’s rarely a conscious betrayal—just a slow evolution away from the original intent.
+4. **The Halo Effect** – Success breeds confidence. If a non-profit is good at one thing, it starts assuming it can be good at ten other things, even if those areas require entirely different skills.
+5. **Fear of Saying No** – No one wants to admit they can’t help. But saying "yes" to every opportunity is a recipe for burnout, dilution of resources, and loss of identity.
 
 ### **The Tools of Resistance**
 
@@ -37,8 +37,8 @@ A good non-profit mission statement is not just a list of values or an emotional
 
 For example, compare:
 
--   **Weak Mission Statement**: "We promote literacy in underserved communities."
--   **Strong Mission Statement**: "We provide free tutoring and book access to K-6 students in low-income urban schools."
+- **Weak Mission Statement**: "We promote literacy in underserved communities."
+- **Strong Mission Statement**: "We provide free tutoring and book access to K-6 students in low-income urban schools."
 
 The second statement clarifies the **who, what, and how**. When an opportunity arises, leadership can ask: “Does this fit within _this_ scope?” If not, it’s a hard pass.
 
@@ -46,9 +46,9 @@ The second statement clarifies the **who, what, and how**. When an opportunity a
 
 Leadership is where mission creep often starts. Board members and executives must be **deliberate curators of mission integrity**, not just enthusiastic idea-generators.
 
--   Require new board members to explicitly sign onto the mission.
--   Have regular “mission check-ins” at board meetings.
--   Empower leaders to push back when new initiatives don’t align.
+- Require new board members to explicitly sign onto the mission.
+- Have regular “mission check-ins” at board meetings.
+- Empower leaders to push back when new initiatives don’t align.
 
 If a great idea doesn’t fit the mission, the organization should resist the urge to stretch itself. Instead, it can partner with another group that specializes in that area.
 
@@ -56,9 +56,9 @@ If a great idea doesn’t fit the mission, the organization should resist the ur
 
 Organizations need an immune system to detect early signs of mission drift. This means:
 
--   **Annual Mission Audits** – Review all current programs. If any don’t directly align with the mission, phase them out.
--   **Staff & Stakeholder Surveys** – Ask: "What do you think we do?" If the answers are all over the place, mission clarity is slipping.
--   **Donor Communication Review** – Look at past fundraising materials. Are they consistent in describing what the organization does?
+- **Annual Mission Audits** – Review all current programs. If any don’t directly align with the mission, phase them out.
+- **Staff & Stakeholder Surveys** – Ask: "What do you think we do?" If the answers are all over the place, mission clarity is slipping.
+- **Donor Communication Review** – Look at past fundraising materials. Are they consistent in describing what the organization does?
 
 If an organization’s own staff, donors, and community members can’t clearly articulate its purpose, that’s a major red flag.
 
@@ -72,9 +72,9 @@ A strong organization is willing to turn down funding that would stretch it too 
 
 Mission drift doesn’t usually happen through a single bad decision; it happens through dozens of small compromises. Organizations need **internal guardrails**:
 
--   **Daily or Weekly Reminders** – Staff meetings should include quick reflections on how current work aligns with the mission.
--   **Celebrate Mission-True Wins** – Reinforce the identity of the organization by regularly sharing stories of impact that reflect its core purpose.
--   **Create a “Mission Creep” Watchdog Role** – This doesn’t have to be an official title, but having at least one person whose job is to call out when the organization is getting off track can be invaluable.
+- **Daily or Weekly Reminders** – Staff meetings should include quick reflections on how current work aligns with the mission.
+- **Celebrate Mission-True Wins** – Reinforce the identity of the organization by regularly sharing stories of impact that reflect its core purpose.
+- **Create a “Mission Creep” Watchdog Role** – This doesn’t have to be an official title, but having at least one person whose job is to call out when the organization is getting off track can be invaluable.
 
 ### **6\. Prioritize Long-Term Impact Over Short-Term Wins**
 
@@ -86,9 +86,9 @@ A good filter: **If an opportunity came up that aligned** _**perfectly**_ **with
 
 Every organization should have a clear, pre-established process for dealing with mission drift when it’s identified. This could include:
 
--   A structured review process for new initiatives before approval.
--   A policy for sunsetting programs that no longer align.
--   An external advisory group that evaluates long-term mission fidelity.
+- A structured review process for new initiatives before approval.
+- A policy for sunsetting programs that no longer align.
+- An external advisory group that evaluates long-term mission fidelity.
 
 Mission creep is entropy. Left alone, all organizations drift. The solution is **not** simply passion or goodwill—it’s structure, discipline, and the courage to say "no."
 

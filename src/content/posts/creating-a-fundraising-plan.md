@@ -64,7 +64,7 @@ With your donor tiers and corresponding benefits established, create a strategy 
 
 Here are the suggested column headings for your donor pyramid:
 
-1.  Size of Gift
+1. Size of Gift
 
 2\. Prospects Needed
 

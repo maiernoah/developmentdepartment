@@ -45,58 +45,58 @@ chatgpt.com
 
 **Examples:**
 
--   Instead of: "We facilitate sustainable agricultural development initiatives through participatory community engagement and capacity-building programs in economically disadvantaged rural regions" Use: "We help farmers in poor communities grow more food and earn better incomes"
--   Instead of: "Our interventions resulted in a 47% reduction in childhood mortality rates through implementation of evidence-based preventative healthcare protocols" Use: "Last year, we helped save 2,300 children's lives by teaching families basic health care"
--   Instead of: "Your financial contribution will enable us to expand our comprehensive educational intervention strategies in underserved communities" Use: "$50 provides school supplies for one child for an entire year"
--   Instead of: "We address systemic socioeconomic disparities that perpetuate cycles of intergenerational poverty" Use: "We help families break free from poverty by providing job training and childcare"
--   Instead of: "We invite you to consider participating in our monthly sustained giving program" Use: "Become a monthly donor today and help feed a family every month"
--   Instead of: "We implement holistic, community-based interventions utilizing evidence-based methodologies" Use: "We work with local leaders to create lasting solutions that fit their community's needs"
--   Instead of: "Programmatic Initiatives" or "Sustainable Development Framework" Use: "Our Work" or "How We Help"
+- Instead of: "We facilitate sustainable agricultural development initiatives through participatory community engagement and capacity-building programs in economically disadvantaged rural regions" Use: "We help farmers in poor communities grow more food and earn better incomes"
+- Instead of: "Our interventions resulted in a 47% reduction in childhood mortality rates through implementation of evidence-based preventative healthcare protocols" Use: "Last year, we helped save 2,300 children's lives by teaching families basic health care"
+- Instead of: "Your financial contribution will enable us to expand our comprehensive educational intervention strategies in underserved communities" Use: "$50 provides school supplies for one child for an entire year"
+- Instead of: "We address systemic socioeconomic disparities that perpetuate cycles of intergenerational poverty" Use: "We help families break free from poverty by providing job training and childcare"
+- Instead of: "We invite you to consider participating in our monthly sustained giving program" Use: "Become a monthly donor today and help feed a family every month"
+- Instead of: "We implement holistic, community-based interventions utilizing evidence-based methodologies" Use: "We work with local leaders to create lasting solutions that fit their community's needs"
+- Instead of: "Programmatic Initiatives" or "Sustainable Development Framework" Use: "Our Work" or "How We Help"
 
 **Practices:**
 
--   Have someone outside your organization repeat your mission statement back to you in their own words
--   If a middle school student can't understand and explain your mission, it needs simplification.
--   Framework: Create a simple formula: Number + Action + Result
--   Visual Support: Use infographics that show clear before/after scenarios
--   Connection: Link every statistic to a human story that demonstrates the impact
--   Specificity: Break down exactly what different donation amounts achieve
--   Tangibility: Show concrete examples of what donations purchase
--   Immediacy: Create clear, direct paths from donation to impact
--   Structure: Problem + Solution + Outcome
--   Focus: Identify one clear villain (like lack of access to education) rather than complex systemic issues
--   Hope: Always pair problem statements with clear, achievable solutions
--   Urgency: Use time-bound language that encourages immediate action
--   Clarity: Make the next step obvious and simple
--   Impact: Show the direct result of taking action
--   Format: Use bullet points and short paragraphs
--   Structure: Problem → Solution → Impact → How to Help
--   Stories: Include clear examples of how programs work in real situations
--   Organization: Group information by visitor intent (Learn, Give, Volunteer)
--   Priority: Put most important actions at top level of navigation
--   Simplicity: Limit main navigation items to 5-7 clear options
--   Remove industry jargon and complex terms
--   Use simple, direct language
--   Break complex ideas into digestible pieces
--   Avoid insider terminology
--   Use short sentences and paragraphs
--   Include clear headings and subheadings
--   Create obvious navigation paths
--   Eliminate unnecessary words
--   Test messaging with outsiders for clarity
--   Avoiding Confusion:
+- Have someone outside your organization repeat your mission statement back to you in their own words
+- If a middle school student can't understand and explain your mission, it needs simplification.
+- Framework: Create a simple formula: Number + Action + Result
+- Visual Support: Use infographics that show clear before/after scenarios
+- Connection: Link every statistic to a human story that demonstrates the impact
+- Specificity: Break down exactly what different donation amounts achieve
+- Tangibility: Show concrete examples of what donations purchase
+- Immediacy: Create clear, direct paths from donation to impact
+- Structure: Problem + Solution + Outcome
+- Focus: Identify one clear villain (like lack of access to education) rather than complex systemic issues
+- Hope: Always pair problem statements with clear, achievable solutions
+- Urgency: Use time-bound language that encourages immediate action
+- Clarity: Make the next step obvious and simple
+- Impact: Show the direct result of taking action
+- Format: Use bullet points and short paragraphs
+- Structure: Problem → Solution → Impact → How to Help
+- Stories: Include clear examples of how programs work in real situations
+- Organization: Group information by visitor intent (Learn, Give, Volunteer)
+- Priority: Put most important actions at top level of navigation
+- Simplicity: Limit main navigation items to 5-7 clear options
+- Remove industry jargon and complex terms
+- Use simple, direct language
+- Break complex ideas into digestible pieces
+- Avoid insider terminology
+- Use short sentences and paragraphs
+- Include clear headings and subheadings
+- Create obvious navigation paths
+- Eliminate unnecessary words
+- Test messaging with outsiders for clarity
+- Avoiding Confusion:
 
--   Pass the "grunt test" - can a caveman understand it?
--   Answer these questions within 5 seconds:
+- Pass the "grunt test" - can a caveman understand it?
+- Answer these questions within 5 seconds:
 
--   What do you offer?
--   How will it make my life better?
--   What do I need to do to buy it?
+- What do you offer?
+- How will it make my life better?
+- What do I need to do to buy it?
 
--   Remove multiple competing messages
--   Focus on one clear call to action
--   Eliminate distracting design elements
--   Maintain consistent messaging across platforms
--   Create clear hierarchies of information
--   Use white space effectively
--   Ensure all team members can explain offering simply
+- Remove multiple competing messages
+- Focus on one clear call to action
+- Eliminate distracting design elements
+- Maintain consistent messaging across platforms
+- Create clear hierarchies of information
+- Use white space effectively
+- Ensure all team members can explain offering simply

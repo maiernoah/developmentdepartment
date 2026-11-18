@@ -1,37 +1,33 @@
 name: Import old sites
 
 # Run by hand from the Actions tab. Pulls developmentdepartment.org (Ghost)
-# and fastdecisions.org (Super.so) into the repo and opens a pull request
-# with the result, so nothing changes on main without review.
+# and fastdecisions.org (Super.so) into the repo and pushes the result to
+# the branch import/old-sites, so nothing changes on main without review.
+# (GitHub doesn't let Actions open pull requests in this repo; open one
+# from that branch by hand.)
 on:
   workflow_dispatch:
 
 permissions:
   contents: write
-  pull-requests: write
 
 jobs:
   import:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
         with:
           node-version: 22
           cache: npm
       - run: npm ci
       - run: npm run import
       - run: npm run build
-      - uses: peter-evans/create-pull-request@v7
-        with:
-          branch: import/old-sites
-          commit-message: Import content from developmentdepartment.org and fastdecisions.org
-          title: Import content from the Ghost and Super.so sites
-          body: |
-            Automated import. See import-report.json for the page list, any failures, and pages whose body came out thin.
-          add-paths: |
-            src/content
-            src/fast-decisions
-            src/assets/images
-            redirects
-            import-report.json
+      - name: Push to import/old-sites
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -B import/old-sites
+          git add src/content src/fast-decisions src/assets/images redirects import-report.json
+          git commit -m "Import content from developmentdepartment.org and fastdecisions.org" || echo "nothing new"
+          git push --force origin import/old-sites

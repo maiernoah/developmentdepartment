@@ -11,11 +11,11 @@ description: "Purpose: Attract and select talent who will thrive in a high-perfo
 
 The JD template ensures consistency and that each posting clearly ties the role to the broader purpose. This helps candidates self-select and ensures new hires already buy into customer-centric execution.
 
--   _Role Summary:_ A few sentences about the mission impact of the role (e.g. _“This fundraising coordinator will deepen relationships with donors to fuel our programs.”_). Emphasize the **customer/donor impact** to attract candidates aligned with a customer-obsessed mindset.
--   _Key Responsibilities:_ Bullet list of what the person will own or do. Use crisp language and outcome-oriented tasks (e.g. _“Grow the donor base by 20% through innovative campaigns”_ rather than just _“Manage campaigns”_).
--   _Requirements:_ Must-have qualifications and skills. Keep these focused on what’s truly needed to succeed (too many requirements can needlessly narrow the pool).
--   _Our Values/Team Culture:_ A blurb about the company’s TeamOps and customer-first culture. For example, mention that _“we value transparency, bias for action, and obsessive focus on our donors’ experience”_. This sets expectations up front.
--   _EEO/Diversity Statement:_ (standard language).
+- _Role Summary:_ A few sentences about the mission impact of the role (e.g. _“This fundraising coordinator will deepen relationships with donors to fuel our programs.”_). Emphasize the **customer/donor impact** to attract candidates aligned with a customer-obsessed mindset.
+- _Key Responsibilities:_ Bullet list of what the person will own or do. Use crisp language and outcome-oriented tasks (e.g. _“Grow the donor base by 20% through innovative campaigns”_ rather than just _“Manage campaigns”_).
+- _Requirements:_ Must-have qualifications and skills. Keep these focused on what’s truly needed to succeed (too many requirements can needlessly narrow the pool).
+- _Our Values/Team Culture:_ A blurb about the company’s TeamOps and customer-first culture. For example, mention that _“we value transparency, bias for action, and obsessive focus on our donors’ experience”_. This sets expectations up front.
+- _EEO/Diversity Statement:_ (standard language).
 
 ### Interview Scorecard
 
@@ -23,10 +23,10 @@ For evaluating candidates objectively. Interviewers use a Notion database or pag
 
 The scorecard format also reminds interviewers to ask consistent questions and focus on predetermined competencies, not gut feeling. As a result, decisions are higher quality and defensible. _Example:_ An interviewer might rate a candidate 5/5 on Donor Communication because they gave a great role-play answer about handling a donor complaint, with a note about the specific phrase they used that was effective – this goes in the notes, providing evidence for the panel debrief.
 
--   _Competencies/Criteria:_ Pre-defined traits or skills to assess (aligned with the job requirements). For a fundraising role, criteria might include _Donor Communication Skills_, _Analytical Ability (for campaign metrics)_, _Culture Fit/TeamOps mindset_, etc.
--   _Rating Scale:_ e.g. 1-5 or Strong No to Strong Yes for each criterion. Each interviewer checks a rating.
--   _Notes:_ space to jot evidence from the interview (key quotes or observations).
--   _Overall Recommendation:_ a field for “Hire / No Hire / Strong Hire” etc.
+- _Competencies/Criteria:_ Pre-defined traits or skills to assess (aligned with the job requirements). For a fundraising role, criteria might include _Donor Communication Skills_, _Analytical Ability (for campaign metrics)_, _Culture Fit/TeamOps mindset_, etc.
+- _Rating Scale:_ e.g. 1-5 or Strong No to Strong Yes for each criterion. Each interviewer checks a rating.
+- _Notes:_ space to jot evidence from the interview (key quotes or observations).
+- _Overall Recommendation:_ a field for “Hire / No Hire / Strong Hire” etc.
 
 ### Hiring Pipeline Board
 
@@ -34,10 +34,10 @@ A Notion **Kanban board** (or table view) that tracks each candidate through sta
 
 The template pre-sets these stages and includes default checklists for each:
 
--   _Phone Screen Checklist:_ (e.g. Completed by HR: basic fit questions, salary expectations).
--   _Interview Rounds:_ ensure scorecards are filled, team debrief scheduled.
--   _Reference Check:_ includes fields for reference notes.
--   _Offer:_ approval steps and template offer letter (if applicable).
+- _Phone Screen Checklist:_ (e.g. Completed by HR: basic fit questions, salary expectations).
+- _Interview Rounds:_ ensure scorecards are filled, team debrief scheduled.
+- _Reference Check:_ includes fields for reference notes.
+- _Offer:_ approval steps and template offer letter (if applicable).
 
 This board gives everyone a real-time view of pipeline status and prevents candidates from falling through the cracks. It also allows automation (with Notion or external tools) – e.g. trigger an email to schedule an interview when a card moves to “Assessment”.
 

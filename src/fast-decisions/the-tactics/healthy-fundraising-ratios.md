@@ -17,47 +17,47 @@ Understanding the role and typical contribution of each tier—from broad-based 
 
 # **Tools:**
 
--   Suggested Ratios:
+- Suggested Ratios:
 
--   Annual Fund (Broad Base):
+- Annual Fund (Broad Base):
 
--   Typically accounts for the largest volume of donors, often 70-80% of total donations by count, but not always by value.
+- Typically accounts for the largest volume of donors, often 70-80% of total donations by count, but not always by value.
 
--   Mid-Level Gifts (Bridge Between Annual and Major): Around 10-15% of donations, both in volume and total amount, allowing donors to move from broad-based giving to more involved contributions.
+- Mid-Level Gifts (Bridge Between Annual and Major): Around 10-15% of donations, both in volume and total amount, allowing donors to move from broad-based giving to more involved contributions.
 
--   This segment is crucial for donors who may eventually convert to major giving.
--   If mid-level gifts contribute less than 5% of income or donors, consider nurturing this tier as a stepping stone to major giving. Low engagement here can indicate a lack of mid-level cultivation, potentially missing major donor prospects.
+- This segment is crucial for donors who may eventually convert to major giving.
+- If mid-level gifts contribute less than 5% of income or donors, consider nurturing this tier as a stepping stone to major giving. Low engagement here can indicate a lack of mid-level cultivation, potentially missing major donor prospects.
 
--   Major Gifts (Top Tier):
+- Major Gifts (Top Tier):
 
--   These represent a smaller number of donations (often just 1-5% of total donors) but can account for 60-80% of total income, especially in campaigns and long-term sustainability efforts.
--   If major gifts cover more than 85% of income, the organization may be overly dependent on a small donor base, which can risk sustainability if one or more donors step back.
+- These represent a smaller number of donations (often just 1-5% of total donors) but can account for 60-80% of total income, especially in campaigns and long-term sustainability efforts.
+- If major gifts cover more than 85% of income, the organization may be overly dependent on a small donor base, which can risk sustainability if one or more donors step back.
 
--   Corporate Grants:
+- Corporate Grants:
 
--   Typically 5-10% of total funding for most nonprofits, though some organizations with strong business ties may see higher percentages.
--   If corporate grants make up over 25% of income, diversifying is advisable.
+- Typically 5-10% of total funding for most nonprofits, though some organizations with strong business ties may see higher percentages.
+- If corporate grants make up over 25% of income, diversifying is advisable.
 
--   Grantwriting:
+- Grantwriting:
 
--   For many nonprofits, grants can constitute about 15-20% of total revenue. If foundation grants make up over 25% of income, diversifying is advisable.
+- For many nonprofits, grants can constitute about 15-20% of total revenue. If foundation grants make up over 25% of income, diversifying is advisable.
 
--   Planned Giving:
+- Planned Giving:
 
--   For mature planned giving programs, these contributions can reach 10-20% of revenue.
--   However, building a successful program may take several years.
+- For mature planned giving programs, these contributions can reach 10-20% of revenue.
+- However, building a successful program may take several years.
 
--   Government Grants:
+- Government Grants:
 
--   Varies significantly; however, aim to keep it below 30% to avoid over-reliance, which can impact financial stability if policies or priorities shift.
--   High dependence (over 40%) on government funding can leave the organization vulnerable to policy changes or budget cuts. Build contingency plans and diversify revenue streams to reduce this risk.
+- Varies significantly; however, aim to keep it below 30% to avoid over-reliance, which can impact financial stability if policies or priorities shift.
+- High dependence (over 40%) on government funding can leave the organization vulnerable to policy changes or budget cuts. Build contingency plans and diversify revenue streams to reduce this risk.
 
--   Signs of an Unhealthy Balance:
+- Signs of an Unhealthy Balance:
 
--   Flat Annual Fund: If annual fund contributions are stagnant or shrinking, donor engagement and retention efforts may need boosting. Weak annual support can lead to long-term declines in all giving levels as it affects the future pool of mid- and major-gift donors.
--   Over-Reliance on Any Single Source: If one source exceeds 40% of total revenue, the organization may face challenges if funding shifts occur. Balancing efforts between individual giving, grants, and planned gifts helps reduce this risk.
--   Lack of Renewable Funding: If too much funding is tied to one-time grants or planned gifts, seek ways to bolster more regular, unrestricted income sources like the annual fund.
--   Time-Resource Balance: Bear in mind that grants, especially government grants. are cumbersome and difficult to report. For time cost, diversifying is advisable.
+- Flat Annual Fund: If annual fund contributions are stagnant or shrinking, donor engagement and retention efforts may need boosting. Weak annual support can lead to long-term declines in all giving levels as it affects the future pool of mid- and major-gift donors.
+- Over-Reliance on Any Single Source: If one source exceeds 40% of total revenue, the organization may face challenges if funding shifts occur. Balancing efforts between individual giving, grants, and planned gifts helps reduce this risk.
+- Lack of Renewable Funding: If too much funding is tied to one-time grants or planned gifts, seek ways to bolster more regular, unrestricted income sources like the annual fund.
+- Time-Resource Balance: Bear in mind that grants, especially government grants. are cumbersome and difficult to report. For time cost, diversifying is advisable.
 
 [
 

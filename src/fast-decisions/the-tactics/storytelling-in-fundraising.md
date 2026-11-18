@@ -13,40 +13,40 @@ In fundraising, few tools are as impactful as a well-crafted story. While data a
 
 # **Tools:**
 
--   Stories uniquely resonate with people because of how they interact with the brain.
+- Stories uniquely resonate with people because of how they interact with the brain.
 
--   Neuroscience research reveals that hearing a story stimulates the brain in ways similar to experiencing the events firsthand.
+- Neuroscience research reveals that hearing a story stimulates the brain in ways similar to experiencing the events firsthand.
 
--   For fundraisers, storytelling offers an invaluable means to illustrate impact.
+- For fundraisers, storytelling offers an invaluable means to illustrate impact.
 
--   By sharing narratives that showcase the tangible changes driven by donations, you invite donors into the heart of your mission.
--   Stories allow donors to see past the numbers and truly feel the challenges and triumphs of those you serve, transforming their support into a bridge of real generosity and impact.
--   For story structure, see [StoryBrand](/fast-decisions/storybrand/)
+- By sharing narratives that showcase the tangible changes driven by donations, you invite donors into the heart of your mission.
+- Stories allow donors to see past the numbers and truly feel the challenges and triumphs of those you serve, transforming their support into a bridge of real generosity and impact.
+- For story structure, see [StoryBrand](/fast-decisions/storybrand/)
 
--   Not all stories are equally effective. To maximize impact, fundraising stories should be:
+- Not all stories are equally effective. To maximize impact, fundraising stories should be:
 
--   Authentic – Honesty is crucial; donors can detect inauthentic or exaggerated stories, which can erode trust. Stories should be based on real experiences, ideally told in the voices of those who directly benefit from or contribute to the cause.
--   Structured with a Narrative Arc – A compelling story has a beginning, middle, and end, often with a central conflict resolved through the organization’s work and the generosity of its donors. This structure adds drama and urgency, drawing readers in and keeping them engaged. [StoryBrand](/fast-decisions/storybrand/)
--   Emotionally Engaging – The most effective stories evoke strong emotions, whether it’s indignation at injustice, compassion for those in need, or hope for a brighter future. Emotions compel action, and stories are the medium that delivers those emotions to the heart.
--   Donor-Centric – Positioning the donor as the hero empowers them to see their contributions as transformative. Framing the narrative to highlight the donor’s vital role reinforces their importance as a key driver of positive outcomes, shifting the perception from donors as mere sources of funding to true changemakers. [Donor Obsession](/fast-decisions/donor-obsession/)
--   Impact-Focused – Emphasize the real difference each gift makes. In every communication, from appeal letters to social media posts, reinforce the message that every donation contributes to meaningful change. Illustrate with specific anecdotes to help donors visualize the impact they make possible. No access
+- Authentic – Honesty is crucial; donors can detect inauthentic or exaggerated stories, which can erode trust. Stories should be based on real experiences, ideally told in the voices of those who directly benefit from or contribute to the cause.
+- Structured with a Narrative Arc – A compelling story has a beginning, middle, and end, often with a central conflict resolved through the organization’s work and the generosity of its donors. This structure adds drama and urgency, drawing readers in and keeping them engaged. [StoryBrand](/fast-decisions/storybrand/)
+- Emotionally Engaging – The most effective stories evoke strong emotions, whether it’s indignation at injustice, compassion for those in need, or hope for a brighter future. Emotions compel action, and stories are the medium that delivers those emotions to the heart.
+- Donor-Centric – Positioning the donor as the hero empowers them to see their contributions as transformative. Framing the narrative to highlight the donor’s vital role reinforces their importance as a key driver of positive outcomes, shifting the perception from donors as mere sources of funding to true changemakers. [Donor Obsession](/fast-decisions/donor-obsession/)
+- Impact-Focused – Emphasize the real difference each gift makes. In every communication, from appeal letters to social media posts, reinforce the message that every donation contributes to meaningful change. Illustrate with specific anecdotes to help donors visualize the impact they make possible. No access
 
--   Developing Storytelling Skills Within Your Team
+- Developing Storytelling Skills Within Your Team
 
--   Effective storytelling requires skill and practice. Invest in training for your team through workshops, expert-led sessions, or professional development opportunities. By equipping staff and volunteers with storytelling techniques, you can elevate the quality and impact of your communications across all fundraising channels.
--   Create a story bank by collecting stories from all areas of your organization. Encourage staff, volunteers, and beneficiaries to share their experiences regularly. With a wide range of narratives at hand, you’ll have the flexibility to choose the most fitting story for each fundraising occasion.
+- Effective storytelling requires skill and practice. Invest in training for your team through workshops, expert-led sessions, or professional development opportunities. By equipping staff and volunteers with storytelling techniques, you can elevate the quality and impact of your communications across all fundraising channels.
+- Create a story bank by collecting stories from all areas of your organization. Encourage staff, volunteers, and beneficiaries to share their experiences regularly. With a wide range of narratives at hand, you’ll have the flexibility to choose the most fitting story for each fundraising occasion.
 
--   Measuring and Refining Storytelling Effectiveness (No access)
+- Measuring and Refining Storytelling Effectiveness (No access)
 
--   As with any strategy, it’s essential to measure the impact of storytelling.
+- As with any strategy, it’s essential to measure the impact of storytelling.
 
--   Track response rates, average donation size, and engagement metrics to identify the stories that resonate most.
--   Use feedback to continually refine your story library, prioritizing fresh, compelling content that engages donors effectively.
+- Track response rates, average donation size, and engagement metrics to identify the stories that resonate most.
+- Use feedback to continually refine your story library, prioritizing fresh, compelling content that engages donors effectively.
 
--   Ethical and Dignified Storytelling Practices
+- Ethical and Dignified Storytelling Practices
 
--   Ethics and dignity are paramount in storytelling. Obtain clear consent from individuals featured in your stories, and ensure transparency about how their narratives will be shared. Be sensitive to power dynamics, cultural differences, and inclusivity, working to amplify voices often underrepresented.
--   Thoughtful storytelling can foster empathy, bridge divides, and inspire change in ways facts and figures alone cannot.
+- Ethics and dignity are paramount in storytelling. Obtain clear consent from individuals featured in your stories, and ensure transparency about how their narratives will be shared. Be sensitive to power dynamics, cultural differences, and inclusivity, working to amplify voices often underrepresented.
+- Thoughtful storytelling can foster empathy, bridge divides, and inspire change in ways facts and figures alone cannot.
 
 # Expectation Map
 

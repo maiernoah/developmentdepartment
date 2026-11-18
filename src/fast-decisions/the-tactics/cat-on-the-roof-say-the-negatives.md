@@ -19,6 +19,6 @@ Consider the example of finding the perfect castle for a video shoot. On the sur
 
 To avoid this trap, leaders should:
 
--   **Solicit Feedback Before Final Decisions:** Engage your team in discussions and invite their input on potential changes. By genuinely considering multiple perspectives, you demonstrate that decisions are made with thoughtful consideration, rather than unilateral action.
--   **Present All Possibilities:** Rather than framing a decision in a narrow light, explain the various options and the analysis behind each. This approach helps to convey that the decision-making process is thorough and multifaceted, ensuring that the eventual decision is seen as well-considered and justified.
--   **Provide Adequate Context:** Leaving details out might lead team members to fill in the gaps with their own, often pessimistic, assumptions. Clear and comprehensive communication prevents misunderstandings and mitigates unnecessary anxiety.
+- **Solicit Feedback Before Final Decisions:** Engage your team in discussions and invite their input on potential changes. By genuinely considering multiple perspectives, you demonstrate that decisions are made with thoughtful consideration, rather than unilateral action.
+- **Present All Possibilities:** Rather than framing a decision in a narrow light, explain the various options and the analysis behind each. This approach helps to convey that the decision-making process is thorough and multifaceted, ensuring that the eventual decision is seen as well-considered and justified.
+- **Provide Adequate Context:** Leaving details out might lead team members to fill in the gaps with their own, often pessimistic, assumptions. Clear and comprehensive communication prevents misunderstandings and mitigates unnecessary anxiety.

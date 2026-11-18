@@ -4,4 +4,3 @@ permalink: /fast-decisions/the-tactics/checklists/prospect-researchwealth-screen
 source_url: https://fastdecisions.org/the-tactics/checklists/prospect-researchwealth-screening
 ---
 
-

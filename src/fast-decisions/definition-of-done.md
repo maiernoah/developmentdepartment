@@ -17,10 +17,10 @@ The “Definition of Done” is the backbone of quality and accountability. A po
 
 In any business, a strong definition of done accelerates workflows, fosters accountability, and drives top-tier results. Here’s how to implement it effectively:
 
-1.  **Set Precise Criteria:** Define “done” for each task type, ensuring criteria are actionable and measurable. Every deliverable must meet these standards—no exceptions.
-2.  **Align the Team:** Review and agree on the definition of done with everyone involved. Shared understanding means no surprises, only successful handoffs.
-3.  **Make It Visible:** Use visible tools to track task progression and show clear indicators for “To Do,” “In Progress,” and “Done.”
-4.  **Celebrate Real Completion:** Recognize and reward tasks that meet the DoD, reinforcing a culture of excellence and accomplishment.
+1. **Set Precise Criteria:** Define “done” for each task type, ensuring criteria are actionable and measurable. Every deliverable must meet these standards—no exceptions.
+2. **Align the Team:** Review and agree on the definition of done with everyone involved. Shared understanding means no surprises, only successful handoffs.
+3. **Make It Visible:** Use visible tools to track task progression and show clear indicators for “To Do,” “In Progress,” and “Done.”
+4. **Celebrate Real Completion:** Recognize and reward tasks that meet the DoD, reinforcing a culture of excellence and accomplishment.
 
 Clear, reliable definition of done standards eliminate waste and empower teams to deliver work that’s complete, functional, and always valuable.
 

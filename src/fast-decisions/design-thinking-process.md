@@ -17,41 +17,41 @@ The design thinking process is not just about following set stages; it’s about
 
 # **Tool:**
 
--   Empathize
+- Empathize
 
--   Conduct on-site visits and observations with real users to see the environment and behavior in context.
--   Engage in informal conversations or shadow users during their daily activities.
--   Use empathy maps to capture the user's emotional and functional experiences, including challenges and aspirations.
--   Incorporate diverse perspectives by involving team members from various backgrounds to avoid biases.
--   Run “day-in-the-life” simulations for team members to experience user perspectives directly.
+- Conduct on-site visits and observations with real users to see the environment and behavior in context.
+- Engage in informal conversations or shadow users during their daily activities.
+- Use empathy maps to capture the user's emotional and functional experiences, including challenges and aspirations.
+- Incorporate diverse perspectives by involving team members from various backgrounds to avoid biases.
+- Run “day-in-the-life” simulations for team members to experience user perspectives directly.
 
--   Define
+- Define
 
--   Create clear problem statements that reflect real needs and avoid assumptions.
--   Use insights from empathy sessions to prioritize user pain points.
--   Formulate the problem statement as a "how might we" question to invite open-ended solutions.
--   Develop personas representing different user types to guide team focus.
--   Regularly revisit the problem definition as new insights emerge, ensuring relevance and clarity.
+- Create clear problem statements that reflect real needs and avoid assumptions.
+- Use insights from empathy sessions to prioritize user pain points.
+- Formulate the problem statement as a "how might we" question to invite open-ended solutions.
+- Develop personas representing different user types to guide team focus.
+- Regularly revisit the problem definition as new insights emerge, ensuring relevance and clarity.
 
--   Ideate
+- Ideate
 
--   [Ideation & Brainstorming](/fast-decisions/ideation-brainstorming/)
+- [Ideation & Brainstorming](/fast-decisions/ideation-brainstorming/)
 
--   Prototype
+- Prototype
 
--   Start with low-fidelity prototypes, such as sketches, mock-ups, or paper models, for quick feedback.
--   Embrace iterative prototyping; update and refine based on user interactions.
--   Use accessible materials for initial prototypes to maintain low costs and flexibility.
--   Develop prototypes that address specific parts of the solution to isolate and test critical elements.
--   Involve users in prototype testing early and often, incorporating their insights into each iteration.
+- Start with low-fidelity prototypes, such as sketches, mock-ups, or paper models, for quick feedback.
+- Embrace iterative prototyping; update and refine based on user interactions.
+- Use accessible materials for initial prototypes to maintain low costs and flexibility.
+- Develop prototypes that address specific parts of the solution to isolate and test critical elements.
+- Involve users in prototype testing early and often, incorporating their insights into each iteration.
 
--   Test
+- Test
 
--   Run usability tests in environments that mimic real-life conditions as closely as possible.
--   Encourage users to voice their thoughts as they interact with the prototype.
--   Capture qualitative feedback and reactions, not just quantitative metrics.
--   Be ready to return to earlier phases if significant issues arise.
--   Prioritize adaptability in the testing phase; be open to pivoting based on user responses.
+- Run usability tests in environments that mimic real-life conditions as closely as possible.
+- Encourage users to voice their thoughts as they interact with the prototype.
+- Capture qualitative feedback and reactions, not just quantitative metrics.
+- Be ready to return to earlier phases if significant issues arise.
+- Prioritize adaptability in the testing phase; be open to pivoting based on user responses.
 
 [
 

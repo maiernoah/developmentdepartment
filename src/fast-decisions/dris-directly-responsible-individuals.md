@@ -13,34 +13,34 @@ The concept of a _Directly Responsible Individual_ (DRI) was pioneered to ensure
 
 # **Tools:**
 
--   While the DRI may not complete every task themselves, they’re responsible for seeing the project through, coordinating resources, and making sure goals are achieved.
--   Their role involves:
+- While the DRI may not complete every task themselves, they’re responsible for seeing the project through, coordinating resources, and making sure goals are achieved.
+- Their role involves:
 
--   Identifying what’s needed to move the project forward.
--   Leveraging team strengths and individual skills.
--   Collaborating widely, gathering input, and ensuring alignment among stakeholders without diluting the ultimate authority that comes with their role.
+- Identifying what’s needed to move the project forward.
+- Leveraging team strengths and individual skills.
+- Collaborating widely, gathering input, and ensuring alignment among stakeholders without diluting the ultimate authority that comes with their role.
 
--   The DRI is the empowered decision-maker. They encourage open collaboration but are not obligated to justify each decision exhaustively, as over-explanation can stifle progress.
--   By allowing DRIs to act decisively, teams avoid decision fatigue and “under-the-radar” actions due to excessive feedback loops.
--   For a DRI to be effective, they need the trust and autonomy to make decisions.
--   Encouraging DRIs to act with openness and to invite feedback from all levels strengthens their decisions, but it’s essential to balance feedback with action.
--   Teams thrive when the DRI can move forward, considering diverse perspectives without getting mired in approval processes.
--   DRIs must combine accountability with key traits:
+- The DRI is the empowered decision-maker. They encourage open collaboration but are not obligated to justify each decision exhaustively, as over-explanation can stifle progress.
+- By allowing DRIs to act decisively, teams avoid decision fatigue and “under-the-radar” actions due to excessive feedback loops.
+- For a DRI to be effective, they need the trust and autonomy to make decisions.
+- Encouraging DRIs to act with openness and to invite feedback from all levels strengthens their decisions, but it’s essential to balance feedback with action.
+- Teams thrive when the DRI can move forward, considering diverse perspectives without getting mired in approval processes.
+- DRIs must combine accountability with key traits:
 
--   Detail-oriented yet strategic, maintaining focus on the end goal.
--   Calm under pressure, especially near deadlines.
--   Effective listeners who can assess input without losing sight of priorities.
--   Adaptable and proactive in overcoming potential setbacks.
--   Skilled at communicating objectives, progress, and adjustments to keep everyone aligned.
+- Detail-oriented yet strategic, maintaining focus on the end goal.
+- Calm under pressure, especially near deadlines.
+- Effective listeners who can assess input without losing sight of priorities.
+- Adaptable and proactive in overcoming potential setbacks.
+- Skilled at communicating objectives, progress, and adjustments to keep everyone aligned.
 
--   DRIs drive results not just by assigning tasks but by motivating and aligning their teams around the vision for success.
+- DRIs drive results not just by assigning tasks but by motivating and aligning their teams around the vision for success.
 
--   This means engaging in two-way feedback, even if they don’t directly manage every team member.
--   In organizations where responsibilities overlap, the DRI’s clarity of purpose helps team members understand their roles and how they contribute to collective success.
+- This means engaging in two-way feedback, even if they don’t directly manage every team member.
+- In organizations where responsibilities overlap, the DRI’s clarity of purpose helps team members understand their roles and how they contribute to collective success.
 
--   Some organizations simplify traditional responsibility models (like RACI) into a DCI framework, emphasizing:
+- Some organizations simplify traditional responsibility models (like RACI) into a DCI framework, emphasizing:
 
--   **D**irect Responsibility: The DRI who ultimately owns the project.
--   **C**onsulted: Subject-matter experts who provide insights.
--   **I**nformed: Those kept up-to-date on progress, primarily at milestones or completion.
--   This DCI approach allows organizations to make decisions with clarity, avoid bottlenecks, and reduce bureaucratic inertia while ensuring the right people are kept in the loop.
+- **D**irect Responsibility: The DRI who ultimately owns the project.
+- **C**onsulted: Subject-matter experts who provide insights.
+- **I**nformed: Those kept up-to-date on progress, primarily at milestones or completion.
+- This DCI approach allows organizations to make decisions with clarity, avoid bottlenecks, and reduce bureaucratic inertia while ensuring the right people are kept in the loop.

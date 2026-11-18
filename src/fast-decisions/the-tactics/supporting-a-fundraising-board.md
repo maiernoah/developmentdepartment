@@ -9,9 +9,9 @@ Your board isn't fundraising.
 
 Here's what doesn't work:
 
--   Guilt trips
--   Arbitrary goals
--   "Just open doors"
+- Guilt trips
+- Arbitrary goals
+- "Just open doors"
 
 Here's what does:
 

@@ -15,13 +15,13 @@ In information-based organizations, team stability and well-being improve when e
 
 # **Tools:**
 
--   Set a Regular Update Schedule: Establish consistent times for updates, including decisions, goals, and strategic shifts, so employees know when to expect information.
--   Create a Single Source of Truth: Use a centralized platform where team members can find updated information on projects and goals.
--   Promote Asynchronous Workflows: Enable asynchronous updates to allow team members to access information at convenient times without waiting on others.
--   Document Cadence for Activities: Outline a clear schedule for project milestones, deadlines, meetings, and organization announcements to reduce uncertainty.
--   Minimize Context Switching: Group similar tasks together in workflows to help employees stay focused and reduce task-switching fatigue.
--   Regularly Provide Feedback Opportunities: Integrate consistent intervals for feedback to ensure employees feel connected and involved in decision-making processes.
--   Train Leaders on Transparency: Ensure leaders are equipped to communicate transparently about evolving goals and changes to build trust.
+- Set a Regular Update Schedule: Establish consistent times for updates, including decisions, goals, and strategic shifts, so employees know when to expect information.
+- Create a Single Source of Truth: Use a centralized platform where team members can find updated information on projects and goals.
+- Promote Asynchronous Workflows: Enable asynchronous updates to allow team members to access information at convenient times without waiting on others.
+- Document Cadence for Activities: Outline a clear schedule for project milestones, deadlines, meetings, and organization announcements to reduce uncertainty.
+- Minimize Context Switching: Group similar tasks together in workflows to help employees stay focused and reduce task-switching fatigue.
+- Regularly Provide Feedback Opportunities: Integrate consistent intervals for feedback to ensure employees feel connected and involved in decision-making processes.
+- Train Leaders on Transparency: Ensure leaders are equipped to communicate transparently about evolving goals and changes to build trust.
 
 [
 

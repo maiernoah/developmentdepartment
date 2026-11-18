@@ -28,13 +28,13 @@ I recently attended a fundraiser with Stacy London, the former host of "What Not
 
 What to wear is an extremely loaded question, and one that I am not terribly qualified to talk about. What is considered appropriate dress varies widely, and signals all sorts of things about privilege, gender, race, and geography. These decisions are complicated. Despite that, here are a few tips I feel obligated to share with you because your first impression holds such significant weight.
 
-1.  Your shoes matter. If your shoes look expensive, your outfit can be cheaper.
-2.  Fit matters. Whatever you're wearing, make sure it fits you well. Tailoring a cheaper outfit is often a better idea than buying an expensive one off the rack.
-3.  Watches. People who know watches really know them. Don't wear fake or glitzy watches – you won't fool the people who truly know.
-4.  Don't outshine the VIP. - When I worked in politics, we always dressed one step down from the candidate. If he had a tie, we took ours off. If he took his tie off, we took our jackets off. It doesn't have to be this literal, but you should rarely be the center of attention because of your outfit. You want your words to be the thing people remember.
-5.  Do your hair, brush your teeth, put on deodorant - personal hygiene can be a deal killer. And for goodness sake - leave the cologne and perfume at home. Many people are allergic, and many people over apply. If you don't know what you're doing it's probably not worth it.
-6.  A Smile - "It's what you wear from ear to ear, and not from head to toe" sings Annie, and she's not wrong. Many sins are forgiven with a confident smile.
-7.  Knowledge - knowing a few things about wine, about table manners, and about non-fundraising conversations (i.e. the stock market, pets, cars) will go a long way. It's not technically something to wear, but it matters at the dinner table.
+1. Your shoes matter. If your shoes look expensive, your outfit can be cheaper.
+2. Fit matters. Whatever you're wearing, make sure it fits you well. Tailoring a cheaper outfit is often a better idea than buying an expensive one off the rack.
+3. Watches. People who know watches really know them. Don't wear fake or glitzy watches – you won't fool the people who truly know.
+4. Don't outshine the VIP. - When I worked in politics, we always dressed one step down from the candidate. If he had a tie, we took ours off. If he took his tie off, we took our jackets off. It doesn't have to be this literal, but you should rarely be the center of attention because of your outfit. You want your words to be the thing people remember.
+5. Do your hair, brush your teeth, put on deodorant - personal hygiene can be a deal killer. And for goodness sake - leave the cologne and perfume at home. Many people are allergic, and many people over apply. If you don't know what you're doing it's probably not worth it.
+6. A Smile - "It's what you wear from ear to ear, and not from head to toe" sings Annie, and she's not wrong. Many sins are forgiven with a confident smile.
+7. Knowledge - knowing a few things about wine, about table manners, and about non-fundraising conversations (i.e. the stock market, pets, cars) will go a long way. It's not technically something to wear, but it matters at the dinner table.
 
 ### Communication
 

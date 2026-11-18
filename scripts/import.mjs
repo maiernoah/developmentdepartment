@@ -18,6 +18,7 @@
 import * as cheerio from "cheerio";
 import TurndownService from "turndown";
 import { gfm } from "turndown-plugin-gfm";
+import { cleanMarkdown } from "./cleanup.mjs";
 import crypto from "node:crypto";
 import fs from "node:fs/promises";
 import path from "node:path";
@@ -198,13 +199,15 @@ async function importPage(source, { url, kind }) {
     const $a = $(a);
     const href = $a.attr("href");
     if (/^(mailto:|tel:|#)/.test(href)) continue;
+    // Some Ghost posts link "www.example.org/..." with no scheme.
+    if (/^www\./i.test(href)) $a.attr("href", (href = "https://" + href));
     try {
       const mapped = newPathFor(new URL(href, finalUrl).href, new URL(finalUrl).hostname, source.key);
       if (mapped) $a.attr("href", mapped);
     } catch {}
   }
 
-  const markdown = td.turndown(body.html() || "").replace(/\n{3,}/g, "\n\n").trim() + "\n";
+  const markdown = cleanMarkdown(td.turndown(body.html() || "")).trim() + "\n";
   const slug = slugPath(url);
   const featureSrc = meta($, "og:image");
   const feature = source.key === "dd" && kind === "post" && featureSrc ? await localImage(featureSrc, finalUrl) : "";
@@ -230,7 +233,8 @@ async function importPage(source, { url, kind }) {
   const modified = meta($, "article:modified_time");
   if (modified) fm.push(`updated: ${modified}`);
   const description = meta($, "description") || meta($, "og:description");
-  if (description) fm.push(`description: ${yamlString(description)}`);
+  // Notion descriptions often hold only a page-mention marker.
+  if (description && !description.includes("‣")) fm.push(`description: ${yamlString(description)}`);
   if (feature) fm.push(`feature_image: ${feature}`);
   const tags = $('meta[property="article:tag"]').map((_, el) => $(el).attr("content")).get();
   if (tags.length) fm.push(`topics: ${JSON.stringify(tags)}`);

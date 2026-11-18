@@ -37,8 +37,8 @@ Many outdated models still tie “successful work” to physical presence rather
 
 Our system redefines productivity, focusing on outcomes and value—not location. By shifting metrics to emphasize _what is achieved_ rather than _where it’s done_, our approach enables:
 
--   Increased accountability and success rates
--   Reduced bias and improved workplace equity
--   Enhanced communication and alignment across teams
+- Increased accountability and success rates
+- Reduced bias and improved workplace equity
+- Enhanced communication and alignment across teams
 
 In short, work is what we _do_, not where we _are_. This outcome-focused approach redefines productivity and drives performance, measuring success by impact—not by time or place.

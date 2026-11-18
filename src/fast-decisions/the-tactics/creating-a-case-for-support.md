@@ -13,63 +13,63 @@ To create a case for support that truly resonates, blend emotional appeal with u
 
 # **Tools:**
 
--   An outstanding case for support should:
+- An outstanding case for support should:
 
--   Communicate a compelling vision that resonates emotionally.
--   Emphasize trust and transparency to build credibility.
--   Provide clear, donor-centered benefits, making the donor feel like a key part of the solution.
--   Create a personalized experience that responds to donors’ values and motivations.
+- Communicate a compelling vision that resonates emotionally.
+- Emphasize trust and transparency to build credibility.
+- Provide clear, donor-centered benefits, making the donor feel like a key part of the solution.
+- Create a personalized experience that responds to donors’ values and motivations.
 
--   Develop an Inspiring Opening Statement
+- Develop an Inspiring Opening Statement
 
--   Engage immediately: Use a powerful opening that speaks to the heart, emphasizing the urgency and potential impact of the donor's involvement. Opening lines should resonate deeply with the donor’s own values and aspirations.
--   Paint a vivid picture: Describe the problem or opportunity in specific, sensory language that helps the donor visualize the situation.
+- Engage immediately: Use a powerful opening that speaks to the heart, emphasizing the urgency and potential impact of the donor's involvement. Opening lines should resonate deeply with the donor’s own values and aspirations.
+- Paint a vivid picture: Describe the problem or opportunity in specific, sensory language that helps the donor visualize the situation.
 
--   Center the Donor as the Hero ([Donor Obsession](/fast-decisions/donor-obsession/))
+- Center the Donor as the Hero ([Donor Obsession](/fast-decisions/donor-obsession/))
 
--   Highlight their role in the mission: Frame the narrative to show donors that they are essential to achieving the mission. Describe what their support could accomplish and how they are integral to your organization’s vision.
--   Provide a sense of belonging: Reinforce the idea that by joining your cause, they become part of a special community working toward meaningful change. Emphasize shared values and the collective impact.
+- Highlight their role in the mission: Frame the narrative to show donors that they are essential to achieving the mission. Describe what their support could accomplish and how they are integral to your organization’s vision.
+- Provide a sense of belonging: Reinforce the idea that by joining your cause, they become part of a special community working toward meaningful change. Emphasize shared values and the collective impact.
 
--   Showcase the Urgency and Scale of the Need
+- Showcase the Urgency and Scale of the Need
 
--   Define the problem clearly: Use relevant data to outline the scale and urgency of the issue. Present statistics or stories that contextualize the problem in a way that is emotionally accessible.
--   Communicate the consequences: Explain what will happen if the problem is not addressed, making it clear why action is needed now. This appeals to the donor’s desire to make a timely difference.
+- Define the problem clearly: Use relevant data to outline the scale and urgency of the issue. Present statistics or stories that contextualize the problem in a way that is emotionally accessible.
+- Communicate the consequences: Explain what will happen if the problem is not addressed, making it clear why action is needed now. This appeals to the donor’s desire to make a timely difference.
 
--   Offer a Clear Solution and Outline Specific Goals
+- Offer a Clear Solution and Outline Specific Goals
 
--   Present a bold, achievable solution: Define a vision of success that is ambitious yet achievable. Break down the steps needed to get there and how the donor’s support will directly contribute to these milestones.
--   Create transparent goals: Clearly outline the goals of the project or campaign. Include specific, measurable outcomes that show exactly how donations will be used to create impact, which can reinforce donor trust.
+- Present a bold, achievable solution: Define a vision of success that is ambitious yet achievable. Break down the steps needed to get there and how the donor’s support will directly contribute to these milestones.
+- Create transparent goals: Clearly outline the goals of the project or campaign. Include specific, measurable outcomes that show exactly how donations will be used to create impact, which can reinforce donor trust.
 
--   Include a Transformative Story
+- Include a Transformative Story
 
--   Tell a story of change: Share a personal story that illustrates the potential impact of the donor's gift. Highlight an individual or community directly affected by your organization’s work, showing the journey from before your help to after.
--   Use relatable protagonists: Choose someone who reflects the people the organization serves and whose story exemplifies the broader problem. This allows donors to connect with the cause on a personal level.
+- Tell a story of change: Share a personal story that illustrates the potential impact of the donor's gift. Highlight an individual or community directly affected by your organization’s work, showing the journey from before your help to after.
+- Use relatable protagonists: Choose someone who reflects the people the organization serves and whose story exemplifies the broader problem. This allows donors to connect with the cause on a personal level.
 
--   Build Credibility and Trust with Evidence and Transparency
+- Build Credibility and Trust with Evidence and Transparency
 
--   Highlight organizational expertise and history: Briefly cover your organization’s accomplishments and unique qualifications. Show donors they can trust you to deliver results.
--   Demonstrate impact with data and testimonials: Share past successes, impact metrics, and testimonials from beneficiaries or partner organizations to validate your claims and reassure donors that their investment will be used effectively.
+- Highlight organizational expertise and history: Briefly cover your organization’s accomplishments and unique qualifications. Show donors they can trust you to deliver results.
+- Demonstrate impact with data and testimonials: Share past successes, impact metrics, and testimonials from beneficiaries or partner organizations to validate your claims and reassure donors that their investment will be used effectively.
 
--   Make the Case Donor-Centric
+- Make the Case Donor-Centric
 
--   Speak directly to donor motivations: Frame the message around reasons donors give—such as making a difference, feeling a sense of duty, or leaving a legacy. Address these motivations throughout your case.
--   Use inclusive language: Address the donor as “you” rather than “we” or “our organization.” Make it clear that _they_ are at the heart of this effort, and reinforce their role in every section.
+- Speak directly to donor motivations: Frame the message around reasons donors give—such as making a difference, feeling a sense of duty, or leaving a legacy. Address these motivations throughout your case.
+- Use inclusive language: Address the donor as “you” rather than “we” or “our organization.” Make it clear that _they_ are at the heart of this effort, and reinforce their role in every section.
 
--   Clarify How Donors Can Engage Beyond Giving
+- Clarify How Donors Can Engage Beyond Giving
 
--   Offer various ways to participate: Describe other ways for donors to support the cause beyond their donation, such as volunteering, advocating, or sharing the mission with their network.
--   Emphasize donor recognition and involvement: Outline how donors will be kept informed and appreciated, such as through regular updates, special recognitions, or exclusive invitations to events. This enhances the sense of partnership.
+- Offer various ways to participate: Describe other ways for donors to support the cause beyond their donation, such as volunteering, advocating, or sharing the mission with their network.
+- Emphasize donor recognition and involvement: Outline how donors will be kept informed and appreciated, such as through regular updates, special recognitions, or exclusive invitations to events. This enhances the sense of partnership.
 
--   Conclude with a Strong, Specific Call to Action
+- Conclude with a Strong, Specific Call to Action
 
--   Make the ask clear and immediate: Be direct in asking for support, and specify exactly what you are asking of the donor (e.g., “Join us with a gift of $500 to provide immediate relief”).
--   Suggest giving levels linked to impact: Provide a few suggested giving levels and explain the tangible outcomes of each (e.g., “$100 provides meals for a family for a month”).
--   Create a sense of urgency: Re-emphasize why now is the time to act, using time-bound language that reflects the immediate need and reinforces urgency.
+- Make the ask clear and immediate: Be direct in asking for support, and specify exactly what you are asking of the donor (e.g., “Join us with a gift of $500 to provide immediate relief”).
+- Suggest giving levels linked to impact: Provide a few suggested giving levels and explain the tangible outcomes of each (e.g., “$100 provides meals for a family for a month”).
+- Create a sense of urgency: Re-emphasize why now is the time to act, using time-bound language that reflects the immediate need and reinforces urgency.
 
--   Design for Maximum Engagement
+- Design for Maximum Engagement
 
--   Use visually engaging elements: Include impactful images, clear headings, and ample white space. Ensure that visuals support the narrative and emotionally resonate.
--   Utilize different formats for accessibility: Consider digital and print versions to cater to various donor preferences and ensure that your message reaches a broader audience.
+- Use visually engaging elements: Include impactful images, clear headings, and ample white space. Ensure that visuals support the narrative and emotionally resonate.
+- Utilize different formats for accessibility: Consider digital and print versions to cater to various donor preferences and ensure that your message reaches a broader audience.
 
 # Expectations Map
 

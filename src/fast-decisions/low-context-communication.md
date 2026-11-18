@@ -13,18 +13,18 @@ Always assume that the audience has no or low context. In low-context communicat
 
 # **Tools:**
 
--   Make your low-context communication:
+- Make your low-context communication:
 
--   Explicit
--   Direct
--   Simple
--   Comprehensive
+- Explicit
+- Direct
+- Simple
+- Comprehensive
 
--   “Say Why, Not Just What.”
+- “Say Why, Not Just What.”
 
--   Every announcement or decision should clarify _why_ a change is happening, not just _what_ is changing.
--   Leaders don’t need to explain every alternative, but they should offer a concise rationale.
+- Every announcement or decision should clarify _why_ a change is happening, not just _what_ is changing.
+- Leaders don’t need to explain every alternative, but they should offer a concise rationale.
 
--   This clarity prevents speculation and fosters trust.
+- This clarity prevents speculation and fosters trust.
 
--   If you see misaligned decisions, start by making sure everyone is on the same page with communication context.
+- If you see misaligned decisions, start by making sure everyone is on the same page with communication context.

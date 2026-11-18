@@ -33,4 +33,4 @@ Build or obtain a donor-friendly budget
 
 Obtain their preferred brand use guidelines
 
-Go through the [![7 Step Assessment](/assets/images/3b93d8e4a441576a.svg)7 Step Assessment](/fast-decisions/the-tactics/checklists/7-step-assessment/)
+Go through the [7 Step Assessment](/fast-decisions/the-tactics/checklists/7-step-assessment/)

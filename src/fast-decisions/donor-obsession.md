@@ -17,9 +17,9 @@ Ultimately, Donor Obsession cultivates a culture where donors are more than cont
 
 **Suggested Flow:**
 
-1.  Identify the guest you’re serving in tremendous detail. See [Know Your Donor/Guestology](/fast-decisions/know-your-donorguestology/)
-2.  Identify the deep and unstated needs of the donor. See [Needfinding](/fast-decisions/needfinding/)
-3.  Identify all of the touchpoints of the donor.
-4.  Identify who delivers the service. Usually, that’s employees, the physical setting, or the process itself.
-5.  At each touchpoint, map the expectations of the donor, and how you can exceed them. See [Expectation Mapping](/fast-decisions/expectation-mapping/) as an example.
-6.  Make a commitment to the change, using the [Working Backwards](/fast-decisions/working-backwards/) documents as a toolkit.
+1. Identify the guest you’re serving in tremendous detail. See [Know Your Donor/Guestology](/fast-decisions/know-your-donorguestology/)
+2. Identify the deep and unstated needs of the donor. See [Needfinding](/fast-decisions/needfinding/)
+3. Identify all of the touchpoints of the donor.
+4. Identify who delivers the service. Usually, that’s employees, the physical setting, or the process itself.
+5. At each touchpoint, map the expectations of the donor, and how you can exceed them. See [Expectation Mapping](/fast-decisions/expectation-mapping/) as an example.
+6. Make a commitment to the change, using the [Working Backwards](/fast-decisions/working-backwards/) documents as a toolkit.

@@ -4,4 +4,3 @@ permalink: /fast-decisions/the-tactics/checklists/capital-campaigns-closing-the-
 source_url: https://fastdecisions.org/the-tactics/checklists/capital-campaigns-closing-the-campaign
 ---
 
-

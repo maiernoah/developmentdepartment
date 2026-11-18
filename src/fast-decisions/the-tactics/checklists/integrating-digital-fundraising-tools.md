@@ -4,4 +4,3 @@ permalink: /fast-decisions/the-tactics/checklists/integrating-digital-fundraisin
 source_url: https://fastdecisions.org/the-tactics/checklists/integrating-digital-fundraising-tools
 ---
 
-

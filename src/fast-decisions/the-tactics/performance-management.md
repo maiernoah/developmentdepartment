@@ -2,10 +2,9 @@
 title: "Performance Management*"
 permalink: /fast-decisions/the-tactics/performance-management/
 source_url: https://fastdecisions.org/the-tactics/performance-management
-description: "See also: ‣"
 ---
 
-See also: [![Developing Role Clarity and Training Plans](/assets/images/3b93d8e4a441576a.svg)Developing Role Clarity and Training Plans](/fast-decisions/the-tactics/checklists/developing-role-clarity-and-training-plans/)
+See also: [Developing Role Clarity and Training Plans](/fast-decisions/the-tactics/checklists/developing-role-clarity-and-training-plans/)
 
 # Accountability Chart
 

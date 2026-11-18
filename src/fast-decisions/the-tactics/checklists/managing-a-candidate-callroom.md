@@ -15,13 +15,13 @@ One of the first hurdles is simply getting the candidate to **show up** for call
 
 . To minimize resistance and establish consistency:
 
--   **Make Call Time Non-Negotiable and Routine:**
+- **Make Call Time Non-Negotiable and Routine:**
 
 Schedule call sessions on the calendar **every day** as a fixed obligation.
 
 Treat it like an essential meeting. Campaign experts note that if you only do call time sporadically (e.g. a couple times a week), you’ll end up **dreading it and putting it off more**, whereas daily habit can even make it feel routine or enjoyable over time. In other words, consistency builds comfort – much like going to the gym, you “just have to do it until it becomes a habit”.
 
--   **Emphasize the Stakes and Benefits:**
+- **Emphasize the Stakes and Benefits:**
 
 Ensure the candidate understands _why_ call time is critical. Remind them that **nothing replaces candidate calls** for raising the money a campaign needs to pay staff, reach voters, and ultimately win.
 
@@ -29,7 +29,7 @@ Even top-tier candidates cannot “make it very far” if they won’t commit to
 
 Set specific fundraising goals for each session so the candidate knows what they’re aiming to accomplish – for example, a dollar target or number of pledges (more on goals in a later section). Seeing progress toward a tangible goal can motivate them to start dialing.
 
--   **Create a Comfortable, Distraction-Free Environment:**
+- **Create a Comfortable, Distraction-Free Environment:**
 
 Prepare the call room to be as inviting and efficient as possible.
 
@@ -39,7 +39,7 @@ Make sure they have everything needed at their fingertips – a phone list, scri
 
 Some candidates even incorporate personal ritual to ease into call time (for example, one might sit in a favorite chair or play low background music) – anything that makes the candidate _want_ to enter the call room and feel at ease. The key is to remove other competing activities during that block of time; as one guide puts it, “don’t let other things take you away from call time, or you’re going to regret it”.
 
--   **Leverage Staff or Family to Encourage Attendance:**
+- **Leverage Staff or Family to Encourage Attendance:**
 
 Sometimes a candidate needs an extra push to get into the call room. A campaign manager or scheduler should treat call time as sacrosanct, buffering the candidate from distractions or scheduling conflicts.
 
@@ -47,7 +47,7 @@ If the candidate is especially resistant, have a close confidant (such as a spou
 
 Creating a culture of accountability – where the candidate knows others expect them to be on those calls – can combat avoidance.
 
--   **Remove Technical Barriers:**
+- **Remove Technical Barriers:**
 
 If anxiety about the act of dialing is a hurdle (some candidates feel a pang of dread waiting through ringing tones or fear the initial ask), consider small hacks.
 
@@ -57,7 +57,7 @@ For example, **have an aide dial the numbers** and hand the call over once someo
 
 Getting the candidate to start call time is step one; **keeping them there making calls** for the duration of the session is step two. Candidates may get demoralized by a few rejections or bored after 20 minutes and try to cut the session short. Here’s how to maintain their focus and engagement:
 
--   **Use a Call Time Partner (Accountability Buddy):**
+- **Use a Call Time Partner (Accountability Buddy):**
 
 **Don’t let the candidate do call time alone**. Have someone sit with them in the call room – this could be the campaign manager, a dedicated call time staffer, or even a volunteer or friend.
 
@@ -65,7 +65,7 @@ This “call time manager” serves two roles: they **hold the candidate’s fee
 
 Knowing someone is observing (and cheering them on) helps deter the candidate from wandering off or procrastinating. The partner can also physically prevent distractions – for instance, taking away the candidate’s cell phone or shooing away interruptions during the call block.
 
--   **Maintain Focus by Limiting Distractions:**
+- **Maintain Focus by Limiting Distractions:**
 
 During call time, the candidate’s sole job is to make calls. Establish ground rules that **no emails, social media, or other campaign tasks** should be done during this period.
 
@@ -73,7 +73,7 @@ The call time partner can help enforce this by, say, holding the candidate’s l
 
 The environment should be quiet – no TV news in the background that might grab attention. If the office is noisy, move to a private room. By creating a laser-focused atmosphere, you help the candidate get “in the zone” and reduce the temptation to cut the session short out of boredom.
 
--   **Work in Short Breaks to Manage Fatigue:**
+- **Work in Short Breaks to Manage Fatigue:**
 
 Calling for hours on end can be draining, so plan **brief breaks** to keep energy up. For example, schedule a 5-minute stretch or snack break every hour.
 
@@ -81,7 +81,7 @@ Knowing a break is coming can encourage the candidate to keep dialing rather tha
 
 A timed break strategy (even using a timer) can help the candidate **mentally compartmentalize** the session into manageable chunks.
 
--   **Keep a Quick Pace and Rhythm:**
+- **Keep a Quick Pace and Rhythm:**
 
 Help the candidate **move from one call to the next promptly**. The best call time sessions have a steady cadence – as soon as one call ends, the next number is dialed within moments.
 
@@ -91,7 +91,7 @@ A fast-paced session not only gets through more calls, but it’s actually **mor
 
 Some campaigns even use auto-dialer apps or prepared call sheets so there’s zero downtime between calls. Momentum is your friend – it leaves the candidate less time to second-guess or feel discouraged.
 
--   **Provide Real-Time Encouragement:**
+- **Provide Real-Time Encouragement:**
 
 The call room manager should actively keep the candidate’s spirits up throughout the session. This could be as simple as giving a thumbs-up or whispering “great job” after a difficult call.
 
@@ -105,7 +105,7 @@ The **presence of someone who is 100% focused on supporting the candidate** will
 
 Even with focus and routine, call time can be emotionally taxing. Keeping the candidate **motivated** is key to sustained success. Different tactics – from psychological reframing to gamified goals – can make a big difference:
 
--   **Connect Back to the Mission:**
+- **Connect Back to the Mission:**
 
 Continuously remind the candidate _why_ these calls matter beyond just dollars. Reiterate that every call and every dollar is fueling the change they want to make. **“Remember that you’re doing something important,”** – the campaign is a chance to improve people’s lives, and fundraising is part of making that possible.
 
@@ -115,7 +115,7 @@ For example, before a call session, a manager might share a quick success story 
 
 A candidate who believes in their cause will project confidence on calls – and as a bonus, donors respond to that passion.
 
--   **Set Goals and Foster Friendly Competition:**
+- **Set Goals and Foster Friendly Competition:**
 
 Establish clear, attainable targets for each call session or week – for instance, _“today, let’s aim for 20 calls and $5,000 raised.”_ Having a goal focuses the candidate’s efforts and provides a sense of accomplishment when achieved.
 
@@ -125,7 +125,7 @@ Celebrate wins to reinforce the behavior: a quick high-five, a shout-out in the 
 
 Meeting fundraising goals releases a sense of victory, which psychologically rewards the candidate and motivates them to continue. Campaign fundraising experts note that **60-70% of a campaign’s budget often comes from call time** – knowing that, candidates should wear their call time success as a badge of honor.
 
--   **Gamify the Experience:**
+- **Gamify the Experience:**
 
 Introduce elements of **fun or creativity** to lighten the mood. The classic example is from Sen. **Al Franken’s first Senate race** – he _“hated call time”_ so much that he and his call time manager **turned the process into “Call Time: The Musical.”** They would literally make up silly songs about different call scenarios, singing before or after calls. This playful approach helped Franken _“find fun in the discomfort”_ of asking for money every day.
 
@@ -133,7 +133,7 @@ While not every candidate will sing show tunes, the lesson is to find ways to la
 
 Even a lighthearted competition among the team – for example, staff pledging to do something funny if the candidate hits a certain call milestone – can turn call time into more of a game than a slog. **The goal is to reduce stress and monotony** by injecting personality and humor. As long as the candidate stays on task, a little fun can dramatically improve their outlook.
 
--   **Use Rewards to Reinforce Habits:**
+- **Use Rewards to Reinforce Habits:**
 
 Just as you reward donors with a thank-you, reward the candidate for their hard work. Behavioral psychology tells us that **strategically timed rewards help turn a new behavior into a lasting habit**.
 
@@ -143,7 +143,7 @@ The reward need not be extravagant – it’s the acknowledgment that matters. E
 
 Over time, the positive feelings associated with these rewards start to attach to the act of call time itself, making it less of a dreaded activity and more of a routine that brings satisfaction.
 
--   **Maintain a Positive Mindset (and Normalize Rejection):**
+- **Maintain a Positive Mindset (and Normalize Rejection):**
 
 Help the candidate build resilience by normalizing the ups and downs of calling. Not every call will be a success, and that’s okay. Encourage them to **“hold fast through the rough patches”.**
 
@@ -157,7 +157,7 @@ Additionally, if the candidate experiences a particularly negative call, the cal
 
 Candidates typically use a **call script or talking points** to ensure they hit the key messages and the all-important ask during each call. However, reading from a script can come off as robotic or insincere. The challenge is to keep the candidate on-message **without** losing their personal touch. Here are techniques to achieve that balance:
 
--   **Use the Script as a Guide, Not a Crutch:**
+- **Use the Script as a Guide, Not a Crutch:**
 
 The candidate should **have the script in front of them** during calls as a safety net, but they must avoid reading it verbatim in a monotone. It’s recommended to _“follow your script… not word-for-word, but stick to the structure of the script”_.
 
@@ -167,7 +167,7 @@ Encourage them to **paraphrase in their own words** where appropriate and to sou
 
 By sticking to the script’s _intent_ and order but allowing flexible wording, the candidate will cover all points **while adapting to the flow of conversation**.
 
--   **Practice and Role-Play:**
+- **Practice and Role-Play:**
 
 To sound natural, nothing helps more than **practice**.
 
@@ -179,7 +179,7 @@ The more familiar they are with the material, the easier it is to speak conversa
 
 This level of comfort comes from repetition. While this may take some prep time up front, it pays dividends in call quality.
 
--   **Encourage Personal Connection and Listening:**
+- **Encourage Personal Connection and Listening:**
 
 A great way to sound natural is to genuinely **engage the person on the other end** of the line. Rather than launching into a monologue, the candidate should treat each call as a two-way conversation.
 
@@ -191,7 +191,7 @@ Candidates should **listen actively** to the person’s responses and react acco
 
 Importantly, even while engaging in friendly banter, the candidate must eventually steer back to the purpose of the call: making the ask. The script’s structure ensures this, but by weaving the script points into a responsive dialogue, the candidate will sound far more genuine. In short, **be conversational but focused**: establish rapport, then smoothly transition into the campaign message and ask.
 
--   **Stick to Core Messages and the Ask:**
+- **Stick to Core Messages and the Ask:**
 
 Being natural doesn’t mean **winging it entirely**. The candidate should always hit their key points to avoid derailing the call.
 
@@ -203,7 +203,7 @@ For example: _“I have a critical fundraising deadline coming up, and I’m ask
 
 They can deliver it in their own tone – even with a bit of humility or humor – but they **must deliver it**. After making the ask, a good rule is to _stop talking and let the other person respond_ – this can feel unnatural to a nervous caller, which is why practicing that pause is important. By clearly hitting the script’s main beats (intro, issue, plan, ask, thank-you) in a conversational manner, the candidate will sound personable yet stay on script where it counts.
 
--   **Provide Coaching on Tone:**
+- **Provide Coaching on Tone:**
 
 Sometimes candidates don’t realize how they sound on the phone. It can be useful for a staffer to monitor a few calls and give feedback specifically on **tone and pacing**.
 
@@ -217,7 +217,7 @@ By refining the candidate’s delivery style (while still letting their genuine 
 
 To improve anything, you need to measure it. A well-managed call room will have systems for **tracking calls and outcomes**, as well as a feedback loop to help the candidate improve. Here’s how to implement effective tracking and feedback mechanisms:
 
--   **Track Every Call and Outcome:**
+- **Track Every Call and Outcome:**
 
 Keep a **detailed call log** during call time. Either the candidate or, preferably, the call time manager should **take careful notes on each call**.
 
@@ -229,7 +229,7 @@ Use a consistent format or database for these notes so that nothing slips throug
 
 Whether it’s a spreadsheet, a specialized app, or pen and paper, the key is to capture information like **pledges made, specific objections raised, personal details mentioned, and next steps**. These records not only prevent mistakes (like forgetting to send promised information) but also allow analysis of what’s working and what isn’t.
 
--   **Use Metrics to Drive Improvement:**
+- **Use Metrics to Drive Improvement:**
 
 Over time, aggregate the call data to derive performance metrics.
 
@@ -241,7 +241,7 @@ By looking for trends in the data, you can make smarter choices about who to cal
 
 Setting specific goals (as discussed earlier) also ties in here – you should measure progress toward those goals. Modern campaigns sometimes use dashboards that show fundraising progress in real time; even a simple whiteboard thermometer that the candidate updates after each call can serve as a visual feedback mechanism.
 
--   **Provide Immediate Feedback and Coaching:**
+- **Provide Immediate Feedback and Coaching:**
 
 Don’t wait until the end of a campaign to give the candidate notes on their calling technique. **After each call or each session**, share constructive feedback.
 
@@ -251,7 +251,7 @@ If a call went well, point out what the candidate did right: _“Great job build
 
 By doing this regularly, the candidate can continuously refine their skills. Over weeks of calling, you might see measurable improvement in their confidence and effectiveness.
 
--   **Use Technology to Streamline Tracking:**
+- **Use Technology to Streamline Tracking:**
 
 Consider utilizing **call time software or CRMs** that campaigns commonly use. These tools often allow candidates to dial from an app that automatically logs call results, records notes, and can even send follow-up emails.
 
@@ -261,7 +261,7 @@ The easier it is to log data, the more consistent your tracking will be. Moreove
 
 Even if using simple tools, ensure there’s a routine: e.g., the call partner enters the day’s notes into a master database every evening. Accuracy in tracking leads directly to better targeting and follow-up, which improves results.
 
--   **Follow-Up and Feedback Loop:**
+- **Follow-Up and Feedback Loop:**
 
 Tracking doesn’t end when the call does. A crucial part of performance improvement is following up on outcomes.
 
@@ -275,7 +275,7 @@ In addition, consider periodic strategy reviews: maybe every two weeks, sit down
 
 Not every call will go smoothly. Candidates will encounter **objections, tough questions, and sometimes hostile or awkward situations** on the phone. How they handle these moments can make or break a potential supporter’s willingness to contribute (or vote). Training the candidate in advance and guiding them during call time helps maintain composure and message discipline. Key best practices include:
 
--   **Anticipate Common Objections:**
+- **Anticipate Common Objections:**
 
 Sit down with the candidate (and finance team) to brainstorm the most likely objections or concerns donors might raise, then script out or talk through ideal responses.
 
@@ -285,10 +285,10 @@ Another common objection is _“I can’t afford that much.”_ Rather than endi
 
 Keep a **cheat sheet of top objections and responses** in the call room for quick reference. Over time, the candidate will internalize them and respond naturally.
 
--   **Stay Calm and Listen Fully:** The first rule of handling an upset or skeptical person is to **stay calm and respectful**. The candidate should let the person finish their piece without interruption. Active listening is key – often people want to feel heard more than anything. Even if a donor is saying something provocative (e.g. criticizing the candidate’s stance), the candidate should take a breath and reply in a measured tone. A good technique is to **acknowledge the concern** before responding with your perspective. For instance, _“I hear you – many people are frustrated about that issue…”_ then pivot to clarify the candidate’s position or the campaign’s approach in a positive way. The call time manager can help by monitoring the candidate’s demeanor; if the candidate starts sounding irritated, it may be wise to end the call politely and move on. Remind the candidate that one heated call isn’t worth losing their cool – maintaining composure preserves their mental energy for the next call. Training can include a bit of role-play where a staffer _acts out a difficult donor_, so the candidate practices staying unflappable. Above all, **never argue angrily or insult a prospective supporter** – even if the person on the line is being rude. The candidate should always take the high road, sticking to facts and message. A calm, courteous response under pressure shows professionalism and keeps the door open; an emotional outburst could go viral or permanently alienate someone.
--   **Use Bridging and Refocusing Techniques:** Teach the candidate some **pivot phrases** to handle off-topic or challenging remarks while steering back to the message. In media training, candidates learn to “bridge” back to their key points – the same works on calls. If a donor raises an objection like _“I’m unhappy you voted for XYZ”_ (if the candidate is an incumbent) or _“I dislike your party”_, the candidate can respond briefly and bridge: _“I understand not everyone agrees on that, but what I’m focused on is \[bridge to campaign message or common ground\]…”_. Find a point of agreement or a unifying theme if possible. For example, _“We might differ on some issues, but I think we both care about improving our community’s schools – and that’s a big part of why I’m running.”_ Then move back into the ask or discussion of the campaign. The script’s structure can help here too – always come back to _why_ the campaign needs support and the positive vision for the future. If someone is throwing lots of questions, it’s okay for the candidate to say, _“Those are great questions – maybe we can set up a time to discuss them in depth. Today I was hoping I could count on you for a contribution of \[ask\], so we have the resources to work on these very issues.”_ Keep bringing it back to the purpose of the call. This way the candidate stays on _message discipline_ – focusing on the campaign’s narrative – even while politely addressing the person’s points.
--   **“Why Not?” Approach to Refusals:** If a prospect outright says “No” or resists the ask, encourage the candidate to gently probe **why** rather than just saying okay and hanging up. The NGP VAN fundraising guide suggests that if someone says no, the candidate (or finance staff) should ask _“May I ask why not?”_. The answer to that question is extremely valuable: it might reveal a fixable issue (bad timing, wrong amount, a concern that can be answered). For example, if the person says _“I’m not financially able right now,”_ the candidate can adjust the request (ask for a smaller amount or a pledge to give in a month). If they say _“I’m supporting your opponent,”_ the candidate knows to take them off the list. If they say _“I’m just too busy to talk,”_ the candidate can offer to follow up later. By asking why, you **turn a refusal into feedback** and possibly an opening to address the objection. Train the candidate not to fear a “no” – in fact, a quick no with a reason can be better than a vague maybe. If the reason is something the candidate can solve (for instance, the donor wanted more information on a policy), they can solve it (send the info and call back). Always end such calls positively: thank them for their time and input, and leave a good impression even if you didn’t get a donation now.
--   **Pivot to Other Support if Financial Support Is Impossible:** Sometimes a person truly cannot or will not donate money. In those cases, it’s helpful to have a Plan B ask. For instance, if someone says _“I’m tapped out”_ or _“I really can’t give any money,”_ the candidate can respond with understanding and then invite them to help in a non-monetary way. _“I get it – times are tight for a lot of us. If you can’t contribute, would you be willing to help the campaign in other ways? We’d love to have you volunteer an hour or two to phone bank or knock doors.”_ This was a strategy highlighted by campaign experts: if a donor can’t give now, getting them **invested as a volunteer** can actually make them more likely to donate in the future. Even if they never give money, volunteers are gold for campaigns. By offering an alternative way to contribute, the candidate turns a rejection into an opportunity. It also shows the person that the campaign values them for more than their wallet, which leaves a positive sentiment. Always be gracious – if they decline all involvement, the candidate should sincerely thank them anyway and leave the door open.
--   **Maintain Discipline and Don’t Take it Personally:** Difficult calls can be emotionally draining for a candidate, especially if someone is harsh or if the candidate is having an off day. Emphasize to the candidate and the team that these calls are _not personal judgments_. A person might say no for a hundred reasons that have nothing to do with the candidate’s worth. The candidate should stick to the **core messages** no matter what provocations come up, and **never deviate into unapproved territory** (e.g., making policy promises or apologies that aren’t part of the plan) in the heat of the moment. If a call becomes truly unproductive or abusive, it’s okay to politely end it and move on – _“I understand now may not be a good time. Thank you for listening, have a good day.”_ The call time manager might set a rule that if a call goes beyond a certain negativity threshold, they’ll signal the candidate to wrap it up. This protects the candidate’s mindset. Afterwards, debrief briefly: acknowledge it was tough, maybe share a quick funny anecdote to lighten the mood, and then **reset focus to the next call**. By preparing for the worst and having strategies in place, the candidate can handle objections and tough conversations _with professionalism and poise_, turning many of them around to positive outcomes.
+- **Stay Calm and Listen Fully:** The first rule of handling an upset or skeptical person is to **stay calm and respectful**. The candidate should let the person finish their piece without interruption. Active listening is key – often people want to feel heard more than anything. Even if a donor is saying something provocative (e.g. criticizing the candidate’s stance), the candidate should take a breath and reply in a measured tone. A good technique is to **acknowledge the concern** before responding with your perspective. For instance, _“I hear you – many people are frustrated about that issue…”_ then pivot to clarify the candidate’s position or the campaign’s approach in a positive way. The call time manager can help by monitoring the candidate’s demeanor; if the candidate starts sounding irritated, it may be wise to end the call politely and move on. Remind the candidate that one heated call isn’t worth losing their cool – maintaining composure preserves their mental energy for the next call. Training can include a bit of role-play where a staffer _acts out a difficult donor_, so the candidate practices staying unflappable. Above all, **never argue angrily or insult a prospective supporter** – even if the person on the line is being rude. The candidate should always take the high road, sticking to facts and message. A calm, courteous response under pressure shows professionalism and keeps the door open; an emotional outburst could go viral or permanently alienate someone.
+- **Use Bridging and Refocusing Techniques:** Teach the candidate some **pivot phrases** to handle off-topic or challenging remarks while steering back to the message. In media training, candidates learn to “bridge” back to their key points – the same works on calls. If a donor raises an objection like _“I’m unhappy you voted for XYZ”_ (if the candidate is an incumbent) or _“I dislike your party”_, the candidate can respond briefly and bridge: _“I understand not everyone agrees on that, but what I’m focused on is \[bridge to campaign message or common ground\]…”_. Find a point of agreement or a unifying theme if possible. For example, _“We might differ on some issues, but I think we both care about improving our community’s schools – and that’s a big part of why I’m running.”_ Then move back into the ask or discussion of the campaign. The script’s structure can help here too – always come back to _why_ the campaign needs support and the positive vision for the future. If someone is throwing lots of questions, it’s okay for the candidate to say, _“Those are great questions – maybe we can set up a time to discuss them in depth. Today I was hoping I could count on you for a contribution of \[ask\], so we have the resources to work on these very issues.”_ Keep bringing it back to the purpose of the call. This way the candidate stays on _message discipline_ – focusing on the campaign’s narrative – even while politely addressing the person’s points.
+- **“Why Not?” Approach to Refusals:** If a prospect outright says “No” or resists the ask, encourage the candidate to gently probe **why** rather than just saying okay and hanging up. The NGP VAN fundraising guide suggests that if someone says no, the candidate (or finance staff) should ask _“May I ask why not?”_. The answer to that question is extremely valuable: it might reveal a fixable issue (bad timing, wrong amount, a concern that can be answered). For example, if the person says _“I’m not financially able right now,”_ the candidate can adjust the request (ask for a smaller amount or a pledge to give in a month). If they say _“I’m supporting your opponent,”_ the candidate knows to take them off the list. If they say _“I’m just too busy to talk,”_ the candidate can offer to follow up later. By asking why, you **turn a refusal into feedback** and possibly an opening to address the objection. Train the candidate not to fear a “no” – in fact, a quick no with a reason can be better than a vague maybe. If the reason is something the candidate can solve (for instance, the donor wanted more information on a policy), they can solve it (send the info and call back). Always end such calls positively: thank them for their time and input, and leave a good impression even if you didn’t get a donation now.
+- **Pivot to Other Support if Financial Support Is Impossible:** Sometimes a person truly cannot or will not donate money. In those cases, it’s helpful to have a Plan B ask. For instance, if someone says _“I’m tapped out”_ or _“I really can’t give any money,”_ the candidate can respond with understanding and then invite them to help in a non-monetary way. _“I get it – times are tight for a lot of us. If you can’t contribute, would you be willing to help the campaign in other ways? We’d love to have you volunteer an hour or two to phone bank or knock doors.”_ This was a strategy highlighted by campaign experts: if a donor can’t give now, getting them **invested as a volunteer** can actually make them more likely to donate in the future. Even if they never give money, volunteers are gold for campaigns. By offering an alternative way to contribute, the candidate turns a rejection into an opportunity. It also shows the person that the campaign values them for more than their wallet, which leaves a positive sentiment. Always be gracious – if they decline all involvement, the candidate should sincerely thank them anyway and leave the door open.
+- **Maintain Discipline and Don’t Take it Personally:** Difficult calls can be emotionally draining for a candidate, especially if someone is harsh or if the candidate is having an off day. Emphasize to the candidate and the team that these calls are _not personal judgments_. A person might say no for a hundred reasons that have nothing to do with the candidate’s worth. The candidate should stick to the **core messages** no matter what provocations come up, and **never deviate into unapproved territory** (e.g., making policy promises or apologies that aren’t part of the plan) in the heat of the moment. If a call becomes truly unproductive or abusive, it’s okay to politely end it and move on – _“I understand now may not be a good time. Thank you for listening, have a good day.”_ The call time manager might set a rule that if a call goes beyond a certain negativity threshold, they’ll signal the candidate to wrap it up. This protects the candidate’s mindset. Afterwards, debrief briefly: acknowledge it was tough, maybe share a quick funny anecdote to lighten the mood, and then **reset focus to the next call**. By preparing for the worst and having strategies in place, the candidate can handle objections and tough conversations _with professionalism and poise_, turning many of them around to positive outcomes.
 
 By following these best practices, a campaign will maximize the candidate’s call time productivity and results. A well-run call room leads to more funds raised, more voters contacted, and ultimately, a more confident candidate. It’s not always easy to get a candidate to sit down and work the phones, but with structure, support, and creativity, you can transform call time from a pain point into a powerhouse for your political campaign’s success.

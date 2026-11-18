@@ -38,11 +38,19 @@ npm run serve
 
 ## Importing the old sites
 
-The import needs the open internet, so it runs in GitHub Actions: Actions tab, "Import old sites", Run workflow. It opens a pull request with the imported content and `import-report.json`, which lists failures and pages whose body came out thin (worth a look before merging).
+The import needs the open internet, so it runs in GitHub Actions: Actions tab, "Import old sites", Run workflow. It pushes the imported content and `import-report.json` to the branch `import/old-sites` (open a pull request from it), which lists failures and pages whose body came out thin (worth a look before merging).
 
 ## Publishing
 
 `Deploy to GitHub Pages` is manual for now. Before it can run, turn on Pages for this repo with Source set to GitHub Actions. Until the domain switch it builds for `maiernoah.github.io/developmentdepartment/`.
+
+## Import notes (first run, Nov 18 2026)
+
+- 35 Development Department pages and posts, 247 Fast Decisions pages, 229 images.
+- 60 Fast Decisions sitemap entries returned 404 on the live site and were skipped.
+- 52 Fast Decisions pages are empty on the live site too (mostly checklists and templates). They are kept so their URLs still work.
+- Three Fast Decisions links point at pages that no longer exist on the live site: equal-contributions, storytelling-in-fundraising, creating-a-case-for-support.
+- A few external images (favicons on bookmark cards, a ChatGPT image) could not be downloaded and stay as hotlinks. See `import-report.json`.
 
 ## Not carried over from Ghost
 

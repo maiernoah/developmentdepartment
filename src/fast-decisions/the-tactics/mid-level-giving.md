@@ -13,51 +13,51 @@ Advanced mid-level giving strategies go beyond simply managing donations; they i
 
 # Tool
 
--   Think of Mid-Level Gifts like minor-league baseball. Your goal is to move folks up to the major leagues.
--   Along the way mid-level fundraising goals contribute directly to the broader, ultimate goal of fostering long-term, substantial donor engagement.
--   Often, these individuals possess the financial capacity to elevate their giving to major gift levels with the right relationship management and engagement.
--   Mid-level programs should prioritize a deep connection with donors over transactional interactions.
+- Think of Mid-Level Gifts like minor-league baseball. Your goal is to move folks up to the major leagues.
+- Along the way mid-level fundraising goals contribute directly to the broader, ultimate goal of fostering long-term, substantial donor engagement.
+- Often, these individuals possess the financial capacity to elevate their giving to major gift levels with the right relationship management and engagement.
+- Mid-level programs should prioritize a deep connection with donors over transactional interactions.
 
--   Donors who perceive themselves as part of the organization’s mission are more likely to upgrade their giving.
--   By focusing on genuine connection, tailored engagement, and shared values, organizations can cultivate donor loyalty and bridge mid-level donors into long-term supporters.
+- Donors who perceive themselves as part of the organization’s mission are more likely to upgrade their giving.
+- By focusing on genuine connection, tailored engagement, and shared values, organizations can cultivate donor loyalty and bridge mid-level donors into long-term supporters.
 
--   Mid-level tiers help identify and cultivate potential major donors, bridging the gap between entry-level supporters and high-value, major gift contributors.
--   Mid-level donors typically give on an annual basis, demonstrating both commitment and potential for increased contributions over time.
--   The primary goal of a mid-level donor program is to guide these donors towards consistent annual contributions that gradually cross into the major gift range.
--   These programs serve as a pipeline for future major gift contributors by nurturing donors whose current gifts are substantial but fall short of the major gift threshold.
--   The mid-level gift range should reflect a notable increase from the base-level annual contributions while clearly remaining below the major gift level.
--   Many organizations define mid-level gifts within a range of $500 to $9,999, but this can vary based on the organization’s major gift threshold.
--   Organizations with well-established donor databases and staff dedicated to managing major gifts are best suited to maximize the benefits of a mid-level program.
--   Mid-level gifts officers manage larger portfolios than major gifts officers, often overseeing 200+ donors.
--   To identify potential major donors within the mid-level segment, portfolios should be organized around 2-3 times the size of those managed by major gifts officers.
+- Mid-level tiers help identify and cultivate potential major donors, bridging the gap between entry-level supporters and high-value, major gift contributors.
+- Mid-level donors typically give on an annual basis, demonstrating both commitment and potential for increased contributions over time.
+- The primary goal of a mid-level donor program is to guide these donors towards consistent annual contributions that gradually cross into the major gift range.
+- These programs serve as a pipeline for future major gift contributors by nurturing donors whose current gifts are substantial but fall short of the major gift threshold.
+- The mid-level gift range should reflect a notable increase from the base-level annual contributions while clearly remaining below the major gift level.
+- Many organizations define mid-level gifts within a range of $500 to $9,999, but this can vary based on the organization’s major gift threshold.
+- Organizations with well-established donor databases and staff dedicated to managing major gifts are best suited to maximize the benefits of a mid-level program.
+- Mid-level gifts officers manage larger portfolios than major gifts officers, often overseeing 200+ donors.
+- To identify potential major donors within the mid-level segment, portfolios should be organized around 2-3 times the size of those managed by major gifts officers.
 
--   Their role focuses on consistently qualifying, cultivating, and building relationships with mid-level donors, gradually identifying those with potential for more substantial future giving.
--   Donors at the higher end of the mid-level gift range and those who demonstrate consistent giving—even at lower amounts—should be prioritized for relationship-building efforts.
+- Their role focuses on consistently qualifying, cultivating, and building relationships with mid-level donors, gradually identifying those with potential for more substantial future giving.
+- Donors at the higher end of the mid-level gift range and those who demonstrate consistent giving—even at lower amounts—should be prioritized for relationship-building efforts.
 
--   Mid-level donors typically seek a more personalized connection with the cause.
+- Mid-level donors typically seek a more personalized connection with the cause.
 
--   They appreciate exclusive content that acknowledges their impact, such as impact reports, tailored newsletters, or behind-the-scenes stories from program beneficiaries.
+- They appreciate exclusive content that acknowledges their impact, such as impact reports, tailored newsletters, or behind-the-scenes stories from program beneficiaries.
 
--   Using multi-channel communication, including direct mail, email, phone calls, and even personalized digital experiences, enhances engagement.
+- Using multi-channel communication, including direct mail, email, phone calls, and even personalized digital experiences, enhances engagement.
 
--   For example, personalized video messages or virtual tours with program staff can deepen their sense of involvement.
+- For example, personalized video messages or virtual tours with program staff can deepen their sense of involvement.
 
--   RFV Analysis (Recency, Frequency, Value): Segment mid-level donors based on giving behavior to identify those with the highest likelihood of increasing their contributions.
+- RFV Analysis (Recency, Frequency, Value): Segment mid-level donors based on giving behavior to identify those with the highest likelihood of increasing their contributions.
 
--   Those who give frequently, even if at lower amounts, may be prime candidates for targeted asks or upgrades to higher giving tiers.
+- Those who give frequently, even if at lower amounts, may be prime candidates for targeted asks or upgrades to higher giving tiers.
 
--   Beyond financial metrics, understanding donors’ motivations and preferences allows for alignment with causes or projects they feel most passionate about.
--   Moving beyond standard thank-you letters, mid-level programs can offer unique recognition tailored to their level. Examples include personalized thank-you videos from beneficiaries, special gifts tied to the impact of their donation, or exclusive invites to events.
--   Implement a tiered stewardship program where donors who consistently give at higher mid-levels receive increasingly personalized attention. This could range from direct access to program directors to periodic calls or meetings with executive leadership.
--   Introducing exclusive giving circles can be an effective way to move mid-level donors toward higher contribution tiers. These clubs provide mid-level donors with a sense of belonging and often include perks like annual retreats or named recognition opportunities.
--   Engaging mid-level donors in conversations around legacy giving can introduce a new pathway for those who are deeply invested in the organization’s long-term goals. Planned giving programs that offer financial benefits for the donor can also solidify a long-term commitment.
--   Host intimate events or virtual roundtable discussions where mid-level donors can engage with leadership, program beneficiaries, and other major donors. These interactions can help mid-level donors envision a future of deeper involvement.
--   Mid-level donors may value the chance to volunteer in a program they support financially. Providing structured volunteer programs allows them to experience the impact of their contributions firsthand, increasing their emotional and intellectual investment in the cause.
--   Encouraging mid-level donors to become peer ambassadors for the organization can activate their networks, fostering a sense of pride and ownership. Ambassadors can host small gatherings or participate in donor-to-donor outreach, elevating their involvement beyond financial support.
--   Provide mid-level donors with opportunities to share their stories of why they give. Donors often feel valued when their stories are shared within the organization’s community or featured on platforms like social media, newsletters, or at events.
--   Increasing the lifetime value (LTV) of mid-level donors means recognizing their potential to become future major donors. Engaging mid-level donors in meaningful ways lowers attrition rates.
+- Beyond financial metrics, understanding donors’ motivations and preferences allows for alignment with causes or projects they feel most passionate about.
+- Moving beyond standard thank-you letters, mid-level programs can offer unique recognition tailored to their level. Examples include personalized thank-you videos from beneficiaries, special gifts tied to the impact of their donation, or exclusive invites to events.
+- Implement a tiered stewardship program where donors who consistently give at higher mid-levels receive increasingly personalized attention. This could range from direct access to program directors to periodic calls or meetings with executive leadership.
+- Introducing exclusive giving circles can be an effective way to move mid-level donors toward higher contribution tiers. These clubs provide mid-level donors with a sense of belonging and often include perks like annual retreats or named recognition opportunities.
+- Engaging mid-level donors in conversations around legacy giving can introduce a new pathway for those who are deeply invested in the organization’s long-term goals. Planned giving programs that offer financial benefits for the donor can also solidify a long-term commitment.
+- Host intimate events or virtual roundtable discussions where mid-level donors can engage with leadership, program beneficiaries, and other major donors. These interactions can help mid-level donors envision a future of deeper involvement.
+- Mid-level donors may value the chance to volunteer in a program they support financially. Providing structured volunteer programs allows them to experience the impact of their contributions firsthand, increasing their emotional and intellectual investment in the cause.
+- Encouraging mid-level donors to become peer ambassadors for the organization can activate their networks, fostering a sense of pride and ownership. Ambassadors can host small gatherings or participate in donor-to-donor outreach, elevating their involvement beyond financial support.
+- Provide mid-level donors with opportunities to share their stories of why they give. Donors often feel valued when their stories are shared within the organization’s community or featured on platforms like social media, newsletters, or at events.
+- Increasing the lifetime value (LTV) of mid-level donors means recognizing their potential to become future major donors. Engaging mid-level donors in meaningful ways lowers attrition rates.
 
--   Consistent, personalized engagement directly correlates with improved retention rates.
+- Consistent, personalized engagement directly correlates with improved retention rates.
 
 # Expectation Map
 

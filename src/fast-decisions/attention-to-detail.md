@@ -15,19 +15,19 @@ Attention to detail is fundamental to quality service. Great service requires go
 
 # **Tools:**
 
--   Make attention to detail part of hiring criteria - screen for detail-oriented individuals during recruitment.
+- Make attention to detail part of hiring criteria - screen for detail-oriented individuals during recruitment.
 
--   Often, those who are less detail-attentive are stronger at developing systems that support detail work. I am one of those people. You have room for both at your organization.
+- Often, those who are less detail-attentive are stronger at developing systems that support detail work. I am one of those people. You have room for both at your organization.
 
--   Create detailed standards and specifications documents for every aspect of operations.
+- Create detailed standards and specifications documents for every aspect of operations.
 
--   Make sure the people documenting your standards have an appreciation of (or potentially an obsession over) customer service.
+- Make sure the people documenting your standards have an appreciation of (or potentially an obsession over) customer service.
 
--   Empower employees to fix small problems they notice without requiring approval.
--   Recognize and reward employees who demonstrate exceptional attention to detail.
--   Create checklists and standard operating procedures that include key details.
+- Empower employees to fix small problems they notice without requiring approval.
+- Recognize and reward employees who demonstrate exceptional attention to detail.
+- Create checklists and standard operating procedures that include key details.
 
--   Make sure these are shared widely with the team.
+- Make sure these are shared widely with the team.
 
--   Role play and conduct regular walk-throughs from the donor perspective to spot detail issues.
--   Make a celebration of detailed execution part of performance evaluations. Everyone should be part of the team perfecting your craft.
+- Role play and conduct regular walk-throughs from the donor perspective to spot detail issues.
+- Make a celebration of detailed execution part of performance evaluations. Everyone should be part of the team perfecting your craft.

@@ -5,32 +5,32 @@ source_url: https://fastdecisions.org/the-tactics/checklists/event-playbook
 description: "Organize your planning into clear phases. Use this checklist as a step-by-step guide to ensure no detail is overlooked when organizing any type of fundraising event (galas, auctions, charity runs, corporate fundraisers, etc.). Each section below outlines key tasks and considerations."
 ---
 
--   [
+- [
     
     Pre-Event Planning
     
     ](#block-192f723f3f5180c3887df05ddb69e548)
--   [
+- [
     
     Venue Selection & Logistics
     
     ](#block-192f723f3f51807caa09fa3302e51345)
--   [
+- [
     
     Marketing & Promotion
     
     ](#block-192f723f3f5180cca974f31e3dc89c5f)
--   [
+- [
     
     Sponsorship & Donor Engagement
     
     ](#block-192f723f3f51809d86d1edb303c09ffd)
--   [
+- [
     
     Run of Show & Event Day Execution
     
     ](#block-192f723f3f5180aaa2ccf09cf199f952)
--   [
+- [
     
     Post-Event
     
@@ -40,25 +40,25 @@ Organize your planning into clear phases. Use this checklist as a step-by-step g
 
 ## Pre-Event Planning
 
--   **Set clear goals and objectives:**
+- **Set clear goals and objectives:**
 
 Define what you want to achieve (e.g. a fundraising target, awareness for your cause, number of new donors).
 
 Establish specific, measurable goals for funds raised, attendee engagement, or publicity. Clear goals will guide your planning and provide a benchmark to measure success after the event.
 
--   **Identify target audience and key donors:**
+- **Identify target audience and key donors:**
 
 Determine who the event is for – for example, major donors, community members, young professionals, families, etc.
 
 Align the event type and messaging to appeal to these audiences. Understanding your audience helps tailor everything from venue choice to marketing, ensuring the event resonates with those attendees most crucial to your goals.
 
--   **Choose the right date:**
+- **Choose the right date:**
 
 Select an optimal date and time that works for your supporters and doesn’t conflict with major holidays or other big events. Be sure to check holidays from religions different from yours.
 
 Plan far enough in advance to secure venues and give guests time to commit. If this is an annual event, consider keeping it around the same time each year for consistency. Also decide on a day/time (weekday vs. weekend, day vs. evening) that fits your audience’s schedule and maximizes attendance.
 
--   **Assemble a planning committee and assign responsibilities:**
+- **Assemble a planning committee and assign responsibilities:**
 
 Build a team of staff, volunteers, and possibly board members to divide the workload.
 
@@ -66,7 +66,7 @@ Assign clear roles such as **Event Chair**, **Logistics Lead**, **Sponsorship Le
 
 Hold regular planning meetings to track progress and keep everyone aligned.
 
--   **Determine the fundraising format:**
+- **Determine the fundraising format:**
 
 Decide how the event will raise money. Options include ticket sales, donations or pledge drives, silent or live auctions, raffles, sponsorships, peer-to-peer fundraising, or a combination.
 
@@ -76,13 +76,13 @@ Clarify pricing (ticket levels, tables, etc.) and platforms needed (auction soft
 
 Early on, verify any fundraising software or tools you’ll use to manage donations and data.
 
--   **Set gift levels and sponsorship tiers:**
+- **Set gift levels and sponsorship tiers:**
 
 Outline different giving levels for donors and attractive sponsorship packages for corporate partners. For sponsors, create tiered packages (e.g. Bronze, Silver, Gold) with escalating benefits at higher levels. For example, a small sponsor might get their logo on the event flyer, a mid-level sponsor might get social media shout-outs, and a top sponsor could receive naming rights or a speaking opportunity.
 
 Clearly define what each donor or sponsor level entails (e.g. VIP reception access, premium seating, logo on materials) to encourage higher contributions.
 
--   **Create a detailed budget:**
+- **Create a detailed budget:**
 
 Develop a comprehensive budget covering all expected expenses and revenues.
 
@@ -122,7 +122,7 @@ Regularly update the budget as quotes are received and decisions made, and avoid
 
 ## Venue Selection & Logistics
 
--   **Choose the right venue:**
+- **Choose the right venue:**
 
 Select a venue that suits your event’s size and style.
 
@@ -134,7 +134,7 @@ Check that the venue’s layout aligns with your event needs (e.g. space for a s
 
 If the event is outdoors or season-dependent, have a backup indoor location or rain plan in case of bad weather.
 
--   **Negotiate venue contracts and deposits:**
+- **Negotiate venue contracts and deposits:**
 
 Once you’ve identified the venue, review the contract thoroughly before signing.
 
@@ -148,7 +148,7 @@ Clarify what is included (tables, chairs, AV equipment, catering requirements) a
 
 Keep copies of all contracts and payment receipts.
 
--   **Arrange necessary permits and insurance:**
+- **Arrange necessary permits and insurance:**
 
 Determine if permits or licenses are required based on your event activities and location.
 
@@ -160,7 +160,7 @@ Additionally, secure appropriate insurance coverage for your event (liability in
 
 Venues may require proof of insurance coverage prior to the event. Ensuring you have permits and insurance in place will protect your organization and participants.
 
--   **Plan event flow and space usage:**
+- **Plan event flow and space usage:**
 
 Design a floor plan that maps out all areas of the event.
 
@@ -170,7 +170,7 @@ Plan the **event flow** so that guests can move easily between areas. For exampl
 
 Consider needs like coat check, restrooms, and ADA accessibility in your layout. Walk through the venue beforehand to finalize how you will use the space and create signage accordingly.
 
--   **Coordinate lighting, sound, and AV equipment:**
+- **Coordinate lighting, sound, and AV equipment:**
 
 Identify all technical needs for the event program.
 
@@ -196,7 +196,7 @@ Ensure lighting is appropriate (e.g. dimmed during videos, spotlight on speakers
 
 Ensure that background music/entertainment is audible but not overwhelming.
 
--   **Hire vendors and coordinate logistics:**
+- **Hire vendors and coordinate logistics:**
 
 Book all necessary vendors well ahead of time and confirm details with each.
 
@@ -230,7 +230,7 @@ Ensure all vendors know the venue address, parking/unloading instructions, and w
 
 ## Marketing & Promotion
 
--   **Develop a marketing plan and timeline:**
+- **Develop a marketing plan and timeline:**
 
 Outline a promotion strategy for getting the word out about your event.
 
@@ -252,7 +252,7 @@ flyer distribution.
 
 Starting promotion well in advance (several months for a large gala, or at least 6-8 weeks for smaller events) will maximize exposure.
 
--   **Design invitations and promotional materials:**
+- **Design invitations and promotional materials:**
 
 Create attractive invitations and graphics that reflect your event’s theme and branding.
 
@@ -280,7 +280,7 @@ For digital invites, consider an event webpage or e-invite platform that can tra
 
 Make sure visuals are consistent and eye-catching across all materials. This will help your event stand out.
 
--   **Promote through multiple channels:**
+- **Promote through multiple channels:**
 
 Cast a wide net in advertising the event.
 
@@ -292,7 +292,7 @@ Don’t overlook traditional methods: send press releases to local media and com
 
 If you have the capacity, engage local influencers or respected community figures as ambassadors to share the event with their networks. The goal is to reach your target audience wherever they are – online and offline.
 
--   **Secure media coverage and ambassadors:**
+- **Secure media coverage and ambassadors:**
 
 Reach out to local press, radio, or bloggers to cover your event, especially if it’s a public or noteworthy cause.
 
@@ -304,7 +304,7 @@ Well-connected supporters can dramatically increase your reach by encouraging ot
 
 Early engagement with media and VIPs can also lead to post-event publicity (e.g. news articles or social media posts highlighting the event’s success).
 
--   **Manage RSVPs and ticket sales:**
+- **Manage RSVPs and ticket sales:**
 
 Use an organized system to track who is attending.
 
@@ -322,7 +322,7 @@ A well-managed RSVP/ticket system will also aid in planning (for catering number
 
 ## Sponsorship & Donor Engagement
 
--   **Identify potential sponsors and partners:**
+- **Identify potential sponsors and partners:**
 
 Start by researching companies, foundations, or individuals who might support your event financially or in-kind.
 
@@ -334,7 +334,7 @@ Create a list of prospects and gather contact info.
 
 Leverage personal introductions where possible, and try to find sponsors who align with your cause or have a history of community involvement.
 
--   **Create sponsorship packages and outreach materials:**
+- **Create sponsorship packages and outreach materials:**
 
 Prepare a sponsorship proposal that outlines different levels of support and the benefits sponsors receive at each level.
 
@@ -346,7 +346,7 @@ Include these details in a sponsor packet or letter along with information about
 
 Customize outreach to each sponsor if possible, and have a polished sponsorship agreement ready for when they commit.
 
--   **Solicit donations and in-kind support:**
+- **Solicit donations and in-kind support:**
 
 In addition to cash sponsorships, plan to procure auction items, raffle prizes, and services that can offset costs.
 
@@ -360,7 +360,7 @@ In-kind donations can significantly reduce your expenses or become valuable auct
 
 Start soliciting early, as companies often have limited budgets or quotas for charitable giving each year.
 
--   **Manage donor relations and VIP experiences:**
+- **Manage donor relations and VIP experiences:**
 
 Throughout planning, keep a focus on high-value donors and how you will engage them.
 
@@ -372,7 +372,7 @@ Plan VIP perks that make them feel appreciated: for example, a dedicated **VIP r
 
 Small touches like a welcome gift or a host to escort them can make a big difference. By treating top donors like the VIPs they are, you encourage their continued support and make the event memorable for them.
 
--   **Ensure proper acknowledgment and appreciation for sponsors:**
+- **Ensure proper acknowledgment and appreciation for sponsors:**
 
 Build in recognition for sponsors and donors **during** the event.
 
@@ -390,7 +390,7 @@ After the event, send personalized thank-you letters to each sponsor, describing
 
 ## Run of Show & Event Day Execution
 
--   **Develop a detailed run-of-show schedule:**
+- **Develop a detailed run-of-show schedule:**
 
 Create a **minute-by-minute timeline** for event day covering all activities from setup to tear-down.
 
@@ -410,7 +410,7 @@ Also plan for contingencies by noting where you could adjust if something runs l
 
 Have printed or digital copies of the run-of-show available for all key team members on event day.
 
--   **Coordinate volunteers and event staff:**
+- **Coordinate volunteers and event staff:**
 
 Conduct a briefing with all staff and volunteers before the event begins (ideally a day or two prior, or at least a huddle a couple hours before guests arrive).
 
@@ -440,7 +440,7 @@ Emphasize communication: if possible, equip the team with radios or a messaging 
 
 A well-trained, well-briefed team will keep things running smoothly and maintain a positive guest experience.
 
--   **Set up registration and check-in:**
+- **Set up registration and check-in:**
 
 Establish a check-in process that is efficient and welcoming.
 
@@ -458,7 +458,7 @@ A fast, friendly check-in gets attendees into the event feeling positive and rea
 
 Make sure the registration team can also handle on-site ticket sales or guest list additions smoothly if needed (have a procedure for walk-ins or last-minute substitutions).
 
--   **Ensure seamless transitions between event segments:**
+- **Ensure seamless transitions between event segments:**
 
 Stick to the agenda and guide attendees through each part of the program without confusion or idle time.
 
@@ -468,7 +468,7 @@ Use the run-of-show timeline to anticipate transition periods – for example, h
 
 The event director or stage manager should monitor timing closely and adjust on the fly if something goes off schedule. By coordinating transitions (with audio/visual cues and clear announcements), you’ll avoid dead air and keep guests engaged from one activity to the next.
 
--   **Manage audio-visual needs and lighting:**
+- **Manage audio-visual needs and lighting:**
 
 During the event, ensure all technical elements proceed without hiccups.
 
@@ -484,7 +484,7 @@ Technical staff should proactively address any glitches (like feedback in the so
 
 It helps to have spare equipment (extra mics, cables, bulbs) on hand if possible. Smooth AV execution greatly enhances the professionalism of the event.
 
--   **Troubleshoot issues calmly and quickly:**
+- **Troubleshoot issues calmly and quickly:**
 
 Despite careful planning, expect that something might not go exactly as planned on event day. Common issues could include
 
@@ -506,4 +506,4 @@ Stay flexible and positive when addressing surprises – your calm leadership wi
 
 ### Post-Event
 
-See [![Post-Event Follow Up](/assets/images/3b93d8e4a441576a.svg)Post-Event Follow Up](/fast-decisions/the-tactics/checklists/post-event-follow-up/)
+See [Post-Event Follow Up](/fast-decisions/the-tactics/checklists/post-event-follow-up/)

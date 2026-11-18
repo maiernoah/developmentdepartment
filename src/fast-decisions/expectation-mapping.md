@@ -15,43 +15,43 @@ Expectation mapping is something I invented a few years ago. It’s a structured
 
 # **Tool:**
 
--   Begin with a specific situation or context that requires expectation analysis
+- Begin with a specific situation or context that requires expectation analysis
 
--   The scenario should be concrete and well-defined
--   Examples include: customer service interactions, events, product launches, service delivery
+- The scenario should be concrete and well-defined
+- Examples include: customer service interactions, events, product launches, service delivery
 
--   Identify the primary stakeholder whose expectations need to be mapped
+- Identify the primary stakeholder whose expectations need to be mapped
 
--   Focus on understanding their perspective and needs ([Know Your Donor/Guestology](/fast-decisions/know-your-donorguestology/), [Needfinding](/fast-decisions/needfinding/))
+- Focus on understanding their perspective and needs ([Know Your Donor/Guestology](/fast-decisions/know-your-donorguestology/), [Needfinding](/fast-decisions/needfinding/))
 
--   Component Analysis
+- Component Analysis
 
--   Break down the scenario into distinct, non-overlapping touchpoints/components. Make sure it covers the…
+- Break down the scenario into distinct, non-overlapping touchpoints/components. Make sure it covers the…
 
--   Pre-touch moment (research phase)
--   First-touch moment (initial engagement)
--   Core-touch moment (using product/service)
--   Last-touch moment (final interaction)
--   In-touch moment (staying connected after)
+- Pre-touch moment (research phase)
+- First-touch moment (initial engagement)
+- Core-touch moment (using product/service)
+- Last-touch moment (final interaction)
+- In-touch moment (staying connected after)
 
--   Ensure components are:
+- Ensure components are:
 
--   Mutually exclusive (no overlap between categories)
--   Collectively exhaustive (covering all aspects)
--   Relevant to the donor's experience
+- Mutually exclusive (no overlap between categories)
+- Collectively exhaustive (covering all aspects)
+- Relevant to the donor's experience
 
--   Create a detailed analysis using a three-column structure:
+- Create a detailed analysis using a three-column structure:
 
--   Component/Touchpoint
--   Expectations of the Donor
--   Ways to Exceed the Expectations
+- Component/Touchpoint
+- Expectations of the Donor
+- Ways to Exceed the Expectations
 
--   Implementation Planning
+- Implementation Planning
 
--   Review the completed mapping with stakeholders
--   Prioritize opportunities for exceeding expectations
--   Develop action plans for implementing selected strategies
--   Consider resource requirements and feasibility
+- Review the completed mapping with stakeholders
+- Prioritize opportunities for exceeding expectations
+- Develop action plans for implementing selected strategies
+- Consider resource requirements and feasibility
 
 To explore this in an automated way, please use this link:
 

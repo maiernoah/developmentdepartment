@@ -4,4 +4,3 @@ permalink: /fast-decisions/the-tactics/checklists/following-up-post-donor-meetin
 source_url: https://fastdecisions.org/the-tactics/checklists/following-up-post-donor-meeting
 ---
 
-

@@ -13,97 +13,97 @@ When rebellion brews within an organization, executives face a critical choice: 
 
 # Tool
 
--   Leadership That Commands Both Fear and Respect
+- Leadership That Commands Both Fear and Respect
 
--   A true leader strikes a delicate balance between fear and love.
--   Loyalty through consistency, and unity through strength.
--   Kindness builds goodwill, but decisive action ensures order.
--   Anyone plotting betrayal should fear the consequences, while your team rallies against external and internal threats.
--   A leader should strive to be both loved and feared.
--   While clemency fosters goodwill, ruthlessness—used judiciously—is necessary to maintain order and loyalty.
--   Decisive action builds unity by emphasizing the consequences of betrayal and the fear of external threats.
--   Luck is not a strategy. Success comes to those who plan and execute with precision.
--   Weakness invites exploitation. Show strength in clarity, action, and intent.
--   Leadership is a practice, not a title. Master it through persistence and learning.
--   Leadership isn’t about being loved—it’s about creating a legacy of unity, strength, and purpose.
--   Leaders are entirely responsible for the outcomes of their teams. When subordinates fail to execute, leaders must reassess their communication, training, and leadership tactics. If rebellion or dissent arises, the leader should first evaluate their own leadership approach before taking punitive actions.
--   If team members cannot align with the mission despite proper training and leadership, leaders must prioritize the mission and remove those individuals.
--   Success is contingent on a team's alignment and cohesion. Leaders must address any sources of friction or dissent quickly to maintain focus and effectiveness.
+- A true leader strikes a delicate balance between fear and love.
+- Loyalty through consistency, and unity through strength.
+- Kindness builds goodwill, but decisive action ensures order.
+- Anyone plotting betrayal should fear the consequences, while your team rallies against external and internal threats.
+- A leader should strive to be both loved and feared.
+- While clemency fosters goodwill, ruthlessness—used judiciously—is necessary to maintain order and loyalty.
+- Decisive action builds unity by emphasizing the consequences of betrayal and the fear of external threats.
+- Luck is not a strategy. Success comes to those who plan and execute with precision.
+- Weakness invites exploitation. Show strength in clarity, action, and intent.
+- Leadership is a practice, not a title. Master it through persistence and learning.
+- Leadership isn’t about being loved—it’s about creating a legacy of unity, strength, and purpose.
+- Leaders are entirely responsible for the outcomes of their teams. When subordinates fail to execute, leaders must reassess their communication, training, and leadership tactics. If rebellion or dissent arises, the leader should first evaluate their own leadership approach before taking punitive actions.
+- If team members cannot align with the mission despite proper training and leadership, leaders must prioritize the mission and remove those individuals.
+- Success is contingent on a team's alignment and cohesion. Leaders must address any sources of friction or dissent quickly to maintain focus and effectiveness.
 
--   Communicate Clearly, Enforce Swiftly
+- Communicate Clearly, Enforce Swiftly
 
--   Clarity is the bedrock of authority.
--   Set expectations that inspire action.
--   When rules are bent or broken, act promptly to maintain cohesion.
--   Open dialogue is essential—but mutineers will use your best intentioned tools against you. Never engage in “open dialogue” on their terms (at the cost of undermining collective trust or courage).
--   Set clear expectations and address disobedience swiftly.
--   Open communication is valuable but must be balanced with vigilance against dissent that could undermine "unity of spirit and courage."
+- Clarity is the bedrock of authority.
+- Set expectations that inspire action.
+- When rules are bent or broken, act promptly to maintain cohesion.
+- Open dialogue is essential—but mutineers will use your best intentioned tools against you. Never engage in “open dialogue” on their terms (at the cost of undermining collective trust or courage).
+- Set clear expectations and address disobedience swiftly.
+- Open communication is valuable but must be balanced with vigilance against dissent that could undermine "unity of spirit and courage."
 
--   Embrace Hard Choices
+- Embrace Hard Choices
 
--   Leaders grow through adversity.
--   Accept responsibility when failures arise, recalibrate your tactics, and strengthen your team's resolve.
--   Remember: the path to victory is paved with difficult, necessary decisions.
--   Success requires the willingness to make difficult decisions, even if they involve personal discomfort.
--   Leaders are entirely responsible for outcomes. When failures arise, reevaluate leadership tactics, communication, and training.
+- Leaders grow through adversity.
+- Accept responsibility when failures arise, recalibrate your tactics, and strengthen your team's resolve.
+- Remember: the path to victory is paved with difficult, necessary decisions.
+- Success requires the willingness to make difficult decisions, even if they involve personal discomfort.
+- Leaders are entirely responsible for outcomes. When failures arise, reevaluate leadership tactics, communication, and training.
 
--   Confidence: Your Leadership Superpower
+- Confidence: Your Leadership Superpower
 
--   Confidence isn’t arrogance—it’s the steady assertion of your vision. Project confidence and assertiveness in all interactions.
--   Stand firm and be unafraid to walk away when integrity is at stake.
--   In tense situations, composure wins. Stay collected, project authority, and lead with calculated precision.
--   Document every decision. ([Single Source of Truth](/fast-decisions/single-source-of-truth/))
+- Confidence isn’t arrogance—it’s the steady assertion of your vision. Project confidence and assertiveness in all interactions.
+- Stand firm and be unafraid to walk away when integrity is at stake.
+- In tense situations, composure wins. Stay collected, project authority, and lead with calculated precision.
+- Document every decision. ([Single Source of Truth](/fast-decisions/single-source-of-truth/))
 
--   Protect your reputation. Meticulous records ensure legal safety and strengthen your case.
+- Protect your reputation. Meticulous records ensure legal safety and strengthen your case.
 
--   Understanding Mutiny vs. Feedback: Leveraging Constructive Insights, Silencing Dissent
+- Understanding Mutiny vs. Feedback: Leveraging Constructive Insights, Silencing Dissent
 
--   [![Transparent Feedback and Radical Candor](/assets/images/e4a783777ea1b7e5.svg)Transparent Feedback and Radical Candor](/fast-decisions/transparent-feedback-and-radical-candor/)
--   Not all feedback is created equal. Ask:
+- [Transparent Feedback and Radical Candor](/fast-decisions/transparent-feedback-and-radical-candor/)
+- Not all feedback is created equal. Ask:
 
--   Is it focused on improvement or eroding authority?
--   Does it foster solutions or breed division?
--   Is it productive (”what can we change”) or does it eat away at the foundations of the organization?
+- Is it focused on improvement or eroding authority?
+- Does it foster solutions or breed division?
+- Is it productive (”what can we change”) or does it eat away at the foundations of the organization?
 
--   EMBRACE IT when people challenge your ego. This is different from a bad-intentioned organizational threat.
--   Be mindful of the tools mutineers will use — almost always, it is your best-intentioned ideas that will be used against you.
+- EMBRACE IT when people challenge your ego. This is different from a bad-intentioned organizational threat.
+- Be mindful of the tools mutineers will use — almost always, it is your best-intentioned ideas that will be used against you.
 
--   High minded values like “equity” and “transparent feedback” always have a dark side.
+- High minded values like “equity” and “transparent feedback” always have a dark side.
 
--   Learn to Spot Motivations Behind Challenges
+- Learn to Spot Motivations Behind Challenges
 
--   There are three types of dissenters:
+- There are three types of dissenters:
 
--   Blatant intimidators – loud, aggressive, and easy to recognize.
--   Subtle manipulators – charmers cloaked in “integrity,” serving themselves.
--   Well-meaning self-servers – good intentions, but the outcome always benefits them.
+- Blatant intimidators – loud, aggressive, and easy to recognize.
+- Subtle manipulators – charmers cloaked in “integrity,” serving themselves.
+- Well-meaning self-servers – good intentions, but the outcome always benefits them.
 
--   Look for Actions Not Words
+- Look for Actions Not Words
 
--   Words fade; deeds endure.
--   Trust those who consistently align actions with your mission.
+- Words fade; deeds endure.
+- Trust those who consistently align actions with your mission.
 
--   Cohesion > Concession
+- Cohesion > Concession
 
--   Your team must embody your mission.
--   Misalignment costs focus and invites chaos.
--   Train, coach, but ultimately, let go of those who fail to adapt.
--   The most dangerous enemy isn’t just external—it's allowing dissent to linger. Crush rebellion emotionally and symbolically to protect future unity.
+- Your team must embody your mission.
+- Misalignment costs focus and invites chaos.
+- Train, coach, but ultimately, let go of those who fail to adapt.
+- The most dangerous enemy isn’t just external—it's allowing dissent to linger. Crush rebellion emotionally and symbolically to protect future unity.
 
--   Plan, Prepare, Prevail
+- Plan, Prepare, Prevail
 
--   Rebellion starts with a whisper.
--   Before facing opposition:
+- Rebellion starts with a whisper.
+- Before facing opposition:
 
--   Strategize and anticipate challenges.
--   Focus on facts, not ego.
+- Strategize and anticipate challenges.
+- Focus on facts, not ego.
 
--   Isolate Ringleaders
+- Isolate Ringleaders
 
--   Identify ringleaders early. Removing key disruptors dismantles rebellion before it takes root.
+- Identify ringleaders early. Removing key disruptors dismantles rebellion before it takes root.
 
--   Taking Action
+- Taking Action
 
--   When disloyalty rears its head, your response sets the tone. Swift, confident action strengthens respect and reinforces alignment.
--   Allowing an enemy, or in this context, a mutineer, to survive creates a risk of future retaliation. Even a small ember of resistance can reignite and grow into a significant threat. We argue for the total eradication of the enemy—not just physically but also emotionally and symbolically.
--   Completely eliminating opposition is necessity. Any remnant left behind might regroup and seek revenge.
+- When disloyalty rears its head, your response sets the tone. Swift, confident action strengthens respect and reinforces alignment.
+- Allowing an enemy, or in this context, a mutineer, to survive creates a risk of future retaliation. Even a small ember of resistance can reignite and grow into a significant threat. We argue for the total eradication of the enemy—not just physically but also emotionally and symbolically.
+- Completely eliminating opposition is necessity. Any remnant left behind might regroup and seek revenge.

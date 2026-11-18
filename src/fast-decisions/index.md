@@ -31,4 +31,6 @@ Enjoy,
 
 [![image](/assets/images/fa628e0aad3835b8.png)](mailto:maiernoah@gmail.com)
 
-[![Start Here](/assets/images/e4179e17d7f498b6.svg)Start Here](/fast-decisions/start-here/)[![The Values](/assets/images/f538184e01210c04.svg)The Values](/fast-decisions/our-principles/)[![The Tactics](/assets/images/14d870d76fe54d7d.svg)The Tactics](/fast-decisions/the-tactics/)
+- [Start Here](/fast-decisions/start-here/)
+- [The Values](/fast-decisions/our-principles/)
+- [The Tactics](/fast-decisions/the-tactics/)

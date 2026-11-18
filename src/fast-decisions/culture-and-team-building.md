@@ -23,10 +23,10 @@ We must fundamentally reject the toxic hustle culture that equates long hours wi
 
 Protecting employees' time isn't just a nice-to-have; it's a critical strategic advantage. This means:
 
--   Ruthlessly eliminating unnecessary meetings
--   Implementing "Office Hours" for experts to answer questions without constant interruption.
--   Prioritizing asynchronous communication over real-time disruptions.
--   Creating deliberate barriers against constant notifications and unplanned interactions.
+- Ruthlessly eliminating unnecessary meetings
+- Implementing "Office Hours" for experts to answer questions without constant interruption.
+- Prioritizing asynchronous communication over real-time disruptions.
+- Creating deliberate barriers against constant notifications and unplanned interactions.
 
 ### Small Team Size
 

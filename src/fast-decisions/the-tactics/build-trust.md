@@ -15,12 +15,12 @@ To accelerate trust and decision-making within an organization, emphasize the di
 
 # **Tools:**
 
-1.  **Open Up Financial Transparency**: Consider adopting Open Book Management, where financial metrics are shared company-wide to build credibility. Transparency around metrics fosters a shared understanding and trust among employees, accelerating collective buy-in and decision speed.
-2.  **Model and Reward Integrity and Competency**: Build credibility by consistently demonstrating both honesty and skill in your role. Establish a track record of fulfilling commitments, as reliable performance builds trust and reassures others of your competency.
-3.  **Reduce Bureaucratic Bottlenecks**: Reevaluate systems and policies that may be slowing down decisions due to excessive checks and balances. Aim to delegate authority to competent team members, empowering them to act within well-defined boundaries, which increases both trust and decision-making speed. [Agency](/fast-decisions/agency/)
-4.  **Promote Transparency Across Departments**: Encourage inter-departmental transparency by building a culture where information is openly shared, mistakes are seen as learning opportunities, and credit is shared. True collaboration emerges in high-trust settings, allowing diverse teams to work seamlessly, which enhances speed. [Cross-Functional Collaboration](/fast-decisions/cross-functional-collaboration/)
-5.  **Streamline Decision Roles**: Clearly define who holds decision-making authority in various contexts, empowering leaders at all levels to make choices without excessive upward checks. Clarity in authority ensures decisions are made swiftly and keeps teams moving forward without unnecessary delays. [DRIs - Directly Responsible Individuals](/fast-decisions/dris-directly-responsible-individuals/)
-6.  **Build Accountability and Address Failures Constructively**: Create a high-trust environment by allowing space for honest mistakes and using them as growth opportunities. When employees feel secure to act without fear of blame, they make faster, more confident decisions. [![Transparent Feedback and Radical Candor](/assets/images/e4a783777ea1b7e5.svg)Transparent Feedback and Radical Candor](/fast-decisions/transparent-feedback-and-radical-candor/)
+1. **Open Up Financial Transparency**: Consider adopting Open Book Management, where financial metrics are shared company-wide to build credibility. Transparency around metrics fosters a shared understanding and trust among employees, accelerating collective buy-in and decision speed.
+2. **Model and Reward Integrity and Competency**: Build credibility by consistently demonstrating both honesty and skill in your role. Establish a track record of fulfilling commitments, as reliable performance builds trust and reassures others of your competency.
+3. **Reduce Bureaucratic Bottlenecks**: Reevaluate systems and policies that may be slowing down decisions due to excessive checks and balances. Aim to delegate authority to competent team members, empowering them to act within well-defined boundaries, which increases both trust and decision-making speed. [Agency](/fast-decisions/agency/)
+4. **Promote Transparency Across Departments**: Encourage inter-departmental transparency by building a culture where information is openly shared, mistakes are seen as learning opportunities, and credit is shared. True collaboration emerges in high-trust settings, allowing diverse teams to work seamlessly, which enhances speed. [Cross-Functional Collaboration](/fast-decisions/cross-functional-collaboration/)
+5. **Streamline Decision Roles**: Clearly define who holds decision-making authority in various contexts, empowering leaders at all levels to make choices without excessive upward checks. Clarity in authority ensures decisions are made swiftly and keeps teams moving forward without unnecessary delays. [DRIs - Directly Responsible Individuals](/fast-decisions/dris-directly-responsible-individuals/)
+6. **Build Accountability and Address Failures Constructively**: Create a high-trust environment by allowing space for honest mistakes and using them as growth opportunities. When employees feel secure to act without fear of blame, they make faster, more confident decisions. [Transparent Feedback and Radical Candor](/fast-decisions/transparent-feedback-and-radical-candor/)
 
 By implementing these trust-building strategies, organizations can enhance their decision velocity, reduce costs, and foster an agile, responsive culture.
 
@@ -32,10 +32,10 @@ The trust equation has one variable in the denominator (self-orientation) and th
 
 Compared with people at low-trust companies, people at high trust companies report the following according to a [study from Accenture](https://bankingblog.accenture.com/the-importance-of-building-trust-in-the-financial-services-workplace-explained-in-6-eye-opening-statistics):
 
-1.  106% more energy at work
-2.  76% more engagement
-3.  50% higher productivity
-4.  60% more satisfaction with their job and 29% more satisfaction with their lives
-5.  70% more aligned with their companies purpose
-6.  74% less stress
-7.  40% less burnout
+1. 106% more energy at work
+2. 76% more engagement
+3. 50% higher productivity
+4. 60% more satisfaction with their job and 29% more satisfaction with their lives
+5. 70% more aligned with their companies purpose
+6. 74% less stress
+7. 40% less burnout

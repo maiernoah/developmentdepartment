@@ -13,65 +13,65 @@ This document is designed to be your roadmap to developing a fundraising strateg
 
 # **Tool:**
 
--   Assess Current Situation
+- Assess Current Situation
 
--   Internal and External Analysis:
+- Internal and External Analysis:
 
--   Begin with a SWOT analysis (Strengths, Weaknesses, Opportunities, Threats) to assess internal resources, mission alignment, and external factors impacting operations.
--   Then organize these into pairs (called the TOWS matrix).
+- Begin with a SWOT analysis (Strengths, Weaknesses, Opportunities, Threats) to assess internal resources, mission alignment, and external factors impacting operations.
+- Then organize these into pairs (called the TOWS matrix).
 
--   Strengths-Opportunities (SO) Strategies: These strategies focus on using an organization's internal strengths to take advantage of external opportunities. For example, a company with strong R&D capabilities might leverage this to enter a growing market.
--   Weaknesses-Opportunities (WO) Strategies: These strategies aim to address internal weaknesses by leveraging external opportunities. For example, a company with limited resources for marketing might seek partnerships to improve brand exposure.
--   Strengths-Threats (ST) Strategies: This quadrant helps organizations use their strengths to counteract external threats. For instance, a firm with a loyal customer base might focus on customer retention to mitigate competitive pressure.
--   Weaknesses-Threats (WT) Strategies: These are defensive strategies to reduce weaknesses and avoid threats. For example, a company with outdated technology facing competitive pressure might focus on operational improvements to stay afloat while seeking long-term upgrades.
+- Strengths-Opportunities (SO) Strategies: These strategies focus on using an organization's internal strengths to take advantage of external opportunities. For example, a company with strong R&D capabilities might leverage this to enter a growing market.
+- Weaknesses-Opportunities (WO) Strategies: These strategies aim to address internal weaknesses by leveraging external opportunities. For example, a company with limited resources for marketing might seek partnerships to improve brand exposure.
+- Strengths-Threats (ST) Strategies: This quadrant helps organizations use their strengths to counteract external threats. For instance, a firm with a loyal customer base might focus on customer retention to mitigate competitive pressure.
+- Weaknesses-Threats (WT) Strategies: These are defensive strategies to reduce weaknesses and avoid threats. For example, a company with outdated technology facing competitive pressure might focus on operational improvements to stay afloat while seeking long-term upgrades.
 
--   Donor Insights: Examine donor data for retention rates, engagement patterns, and reasons for lapses. Focusing on loyalty is essential, as retaining donors is more cost-effective than acquiring new ones.
--   Competitive Positioning: Study similar organizations to define your unique mission value. Clear differentiation helps establish a strong identity in a crowded nonprofit space.
+- Donor Insights: Examine donor data for retention rates, engagement patterns, and reasons for lapses. Focusing on loyalty is essential, as retaining donors is more cost-effective than acquiring new ones.
+- Competitive Positioning: Study similar organizations to define your unique mission value. Clear differentiation helps establish a strong identity in a crowded nonprofit space.
 
--   Determine Financial Needs
+- Determine Financial Needs
 
--   Goal Alignment: Ensure fundraising targets align closely with mission objectives to prevent efforts from drifting away from organizational purpose.
--   Donor-Centric Communication: Articulate how donations drive impact, making it clear to donors that their contributions have tangible effects.
--   Tiered Financial Goals: Set a primary fundraising target with additional stretch goals to accommodate varying levels of support.
+- Goal Alignment: Ensure fundraising targets align closely with mission objectives to prevent efforts from drifting away from organizational purpose.
+- Donor-Centric Communication: Articulate how donations drive impact, making it clear to donors that their contributions have tangible effects.
+- Tiered Financial Goals: Set a primary fundraising target with additional stretch goals to accommodate varying levels of support.
 
--   Identify Target Donors
+- Identify Target Donors
 
--   Audience Segmentation: Segment donors based on demographics, psychographics, and past behaviors, allowing for personalized communication that resonates with individual values. [Know Your Donor/Guestology](/fast-decisions/know-your-donorguestology/)
--   Understanding Motivations: Conduct surveys and focus groups to identify donor motivations, such as personal connections to the cause or a desire to make an impact. [Needfinding](/fast-decisions/needfinding/)
--   Preferred Channels: Identify communication preferences (e.g., direct mail, digital, in-person) for each donor segment to maximize engagement.
+- Audience Segmentation: Segment donors based on demographics, psychographics, and past behaviors, allowing for personalized communication that resonates with individual values. [Know Your Donor/Guestology](/fast-decisions/know-your-donorguestology/)
+- Understanding Motivations: Conduct surveys and focus groups to identify donor motivations, such as personal connections to the cause or a desire to make an impact. [Needfinding](/fast-decisions/needfinding/)
+- Preferred Channels: Identify communication preferences (e.g., direct mail, digital, in-person) for each donor segment to maximize engagement.
 
--   Choose Solicitation Tactics
+- Choose Solicitation Tactics
 
--   Multichannel Outreach: [Use a blend of direct mail, email, social media, and personal meetings.](/fast-decisions/) Test frequency and content to find the most effective engagement strategies.
--   Storytelling: Leverage storytelling to emotionally connect with donors, sharing impact stories and testimonials to bring your mission to life. No access
+- Multichannel Outreach: [Use a blend of direct mail, email, social media, and personal meetings.](/fast-decisions/) Test frequency and content to find the most effective engagement strategies.
+- Storytelling: Leverage storytelling to emotionally connect with donors, sharing impact stories and testimonials to bring your mission to life. No access
 
--   Create a Strategic Calendar
+- Create a Strategic Calendar
 
--   Master Fundraising Calendar: Schedule campaigns around key dates, such as annual galas, to prevent overlap and ensure focused, strategic engagement.
+- Master Fundraising Calendar: Schedule campaigns around key dates, such as annual galas, to prevent overlap and ensure focused, strategic engagement.
 
--   Event and Season-Based Appeals: Capitalize on key times (e.g., Giving Tuesday, year-end) to create urgency and drive donations.
+- Event and Season-Based Appeals: Capitalize on key times (e.g., Giving Tuesday, year-end) to create urgency and drive donations.
 
--   Set Clear, Measurable Goals ([![KPIs and OKRs](/assets/images/14a07ec597e88dac.svg)KPIs and OKRs](/fast-decisions/kpis-and-okrs/))
+- Set Clear, Measurable Goals ([KPIs and OKRs](/fast-decisions/kpis-and-okrs/))
 
--   SMART Objectives: Define Specific, Measurable, Achievable, Relevant, and Time-bound goals, such as total funds raised, retention rates, or donor acquisition metrics.
--   Milestone Tracking: Use interim benchmarks to track progress and adjust strategies as needed.
+- SMART Objectives: Define Specific, Measurable, Achievable, Relevant, and Time-bound goals, such as total funds raised, retention rates, or donor acquisition metrics.
+- Milestone Tracking: Use interim benchmarks to track progress and adjust strategies as needed.
 
--   Set Tripwires: Make sure you know when something is about to go very wrong, and cut it off at the appropriate time. For example, any event that goes 50% over budget could be automatically cancelled.
+- Set Tripwires: Make sure you know when something is about to go very wrong, and cut it off at the appropriate time. For example, any event that goes 50% over budget could be automatically cancelled.
 
--   Define a Budget (No access)
+- Define a Budget (No access)
 
--   Resource Allocation: Assign budgets to specific activities with a focus on high-impact areas. Regularly assess to ensure a realistic, feasible approach.
--   Contingency Planning: Set aside a reserve for unexpected costs or opportunities, allowing for flexibility and adaptability.
+- Resource Allocation: Assign budgets to specific activities with a focus on high-impact areas. Regularly assess to ensure a realistic, feasible approach.
+- Contingency Planning: Set aside a reserve for unexpected costs or opportunities, allowing for flexibility and adaptability.
 
--   Establish Health Metrics (No access)
+- Establish Health Metrics (No access)
 
--   Retention and Lifetime Value: Track donor retention rates, lifetime value, and other metrics that reflect relationship quality and stewardship success.
--   Engagement Metrics: Monitor appeal responses, event attendance, and donor feedback to gauge long-term relationship strength.
+- Retention and Lifetime Value: Track donor retention rates, lifetime value, and other metrics that reflect relationship quality and stewardship success.
+- Engagement Metrics: Monitor appeal responses, event attendance, and donor feedback to gauge long-term relationship strength.
 
--   Build Flexibility for Re-Evaluation ([![Transparent Feedback and Radical Candor](/assets/images/e4a783777ea1b7e5.svg)Transparent Feedback and Radical Candor](/fast-decisions/transparent-feedback-and-radical-candor/))
+- Build Flexibility for Re-Evaluation ([Transparent Feedback and Radical Candor](/fast-decisions/transparent-feedback-and-radical-candor/))
 
--   Scheduled Reviews: Conduct quarterly or bi-annual assessments to evaluate strategy effectiveness and make necessary adjustments.
--   Donor Feedback Loop: Actively seek donor feedback to refine approaches, maintaining alignment with evolving expectations.
+- Scheduled Reviews: Conduct quarterly or bi-annual assessments to evaluate strategy effectiveness and make necessary adjustments.
+- Donor Feedback Loop: Actively seek donor feedback to refine approaches, maintaining alignment with evolving expectations.
 
 # Expectations Map
 

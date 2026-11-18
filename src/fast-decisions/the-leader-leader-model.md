@@ -15,12 +15,12 @@ Everyone has the potential to lead. Organizations perform best when every indivi
 
 # **Tools:**
 
--   The traditional model of “control and command” is replaced with a structure that allows decision-making authority to flow to the level where the most information resides.
+- The traditional model of “control and command” is replaced with a structure that allows decision-making authority to flow to the level where the most information resides.
 
--   Those who are closest to the problem or task have the autonomy to decide, which promotes efficiency and innovation and reduces delays caused by a bottleneck at the top.
--   It also means that they are allowed to make bad decisions, as long as they are responsible for the consequences.
+- Those who are closest to the problem or task have the autonomy to decide, which promotes efficiency and innovation and reduces delays caused by a bottleneck at the top.
+- It also means that they are allowed to make bad decisions, as long as they are responsible for the consequences.
 
--   By giving control and authority to each team member, individuals feel a greater sense of ownership over their work. This creates a culture of accountability, as each person is invested in the outcomes of their decisions and the broader goals of the team.
--   Instead of asking for permission or waiting for orders, team members inform leaders of their intentions. For example, rather than asking, “Should I take this action?” they say, “I intend to take this action.”
--   Technical competence ensures that individuals make informed decisions, while clarity of purpose aligns everyone’s efforts toward common goals, reducing the need for direct supervision.
--   Leaders are not just at the top; they are cultivated at all levels. By nurturing leadership qualities in every role, organizations become more resilient and adaptive, as every team member is capable of stepping up when needed.
+- By giving control and authority to each team member, individuals feel a greater sense of ownership over their work. This creates a culture of accountability, as each person is invested in the outcomes of their decisions and the broader goals of the team.
+- Instead of asking for permission or waiting for orders, team members inform leaders of their intentions. For example, rather than asking, “Should I take this action?” they say, “I intend to take this action.”
+- Technical competence ensures that individuals make informed decisions, while clarity of purpose aligns everyone’s efforts toward common goals, reducing the need for direct supervision.
+- Leaders are not just at the top; they are cultivated at all levels. By nurturing leadership qualities in every role, organizations become more resilient and adaptive, as every team member is capable of stepping up when needed.

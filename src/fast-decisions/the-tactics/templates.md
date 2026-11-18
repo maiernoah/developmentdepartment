@@ -4,6 +4,20 @@ permalink: /fast-decisions/the-tactics/templates/
 source_url: https://fastdecisions.org/the-tactics/templates
 ---
 
-[![Objectives and Key Results Template (OKR)](/assets/images/23be8191d83552dc.svg)Objectives and Key Results Template (OKR)](/fast-decisions/the-tactics/templates/objectives-and-key-results-template-okr/)[![Meeting Agenda Templates](/assets/images/23be8191d83552dc.svg)Meeting Agenda Templates](/fast-decisions/the-tactics/templates/meeting-agenda-templates/)[![Decision-Making Template](/assets/images/23be8191d83552dc.svg)Decision-Making Template](/fast-decisions/the-tactics/templates/decision-making-template/)[![Hiring Process Templates](/assets/images/23be8191d83552dc.svg)Hiring Process Templates](/fast-decisions/the-tactics/templates/hiring-process-templates/)[![Onboarding Templates](/assets/images/23be8191d83552dc.svg)Onboarding Templates](/fast-decisions/the-tactics/templates/onboarding-templates/)[![Performance Review Templates](/assets/images/23be8191d83552dc.svg)Performance Review Templates](/fast-decisions/the-tactics/templates/performance-review-templates/)[![Standard Operating Procedure Template](/assets/images/23be8191d83552dc.svg)Standard Operating Procedure Template](/fast-decisions/the-tactics/templates/standard-operating-procedure-template/)[![Handbook Template](/assets/images/23be8191d83552dc.svg)Handbook Template](/fast-decisions/the-tactics/templates/handbook-template/)[![Strategy and Planning Templates](/assets/images/23be8191d83552dc.svg)Strategy and Planning Templates](/fast-decisions/the-tactics/templates/strategy-and-planning-templates/)[![Campaign Planning Template](/assets/images/23be8191d83552dc.svg)Campaign Planning Template](/fast-decisions/the-tactics/templates/campaign-planning-template/)[![Text Message Outreach](/assets/images/23be8191d83552dc.svg)Text Message Outreach](/fast-decisions/the-tactics/templates/text-message-outreach/)[![Event Logistics Template](/assets/images/23be8191d83552dc.svg)Event Logistics Template](/fast-decisions/the-tactics/templates/event-logistics-template/)[![Donor Feedback Template](/assets/images/23be8191d83552dc.svg)Donor Feedback Template](/fast-decisions/the-tactics/templates/donor-feedback-template/)
+- [Objectives and Key Results Template (OKR)](/fast-decisions/the-tactics/templates/objectives-and-key-results-template-okr/)
+- [Meeting Agenda Templates](/fast-decisions/the-tactics/templates/meeting-agenda-templates/)
+- [Decision-Making Template](/fast-decisions/the-tactics/templates/decision-making-template/)
+- [Hiring Process Templates](/fast-decisions/the-tactics/templates/hiring-process-templates/)
+- [Onboarding Templates](/fast-decisions/the-tactics/templates/onboarding-templates/)
+- [Performance Review Templates](/fast-decisions/the-tactics/templates/performance-review-templates/)
+- [Standard Operating Procedure Template](/fast-decisions/the-tactics/templates/standard-operating-procedure-template/)
+- [Handbook Template](/fast-decisions/the-tactics/templates/handbook-template/)
+- [Strategy and Planning Templates](/fast-decisions/the-tactics/templates/strategy-and-planning-templates/)
+- [Campaign Planning Template](/fast-decisions/the-tactics/templates/campaign-planning-template/)
+- [Text Message Outreach](/fast-decisions/the-tactics/templates/text-message-outreach/)
+- [Event Logistics Template](/fast-decisions/the-tactics/templates/event-logistics-template/)
+- [Donor Feedback Template](/fast-decisions/the-tactics/templates/donor-feedback-template/)
 
-[Scope of Work Template](/fast-decisions/the-tactics/templates/scope-of-work-template/)[Run of Show](/fast-decisions/the-tactics/templates/run-of-show/)[Donor Profile](/fast-decisions/the-tactics/templates/donor-profile/)
+- [Scope of Work Template](/fast-decisions/the-tactics/templates/scope-of-work-template/)
+- [Run of Show](/fast-decisions/the-tactics/templates/run-of-show/)
+- [Donor Profile](/fast-decisions/the-tactics/templates/donor-profile/)

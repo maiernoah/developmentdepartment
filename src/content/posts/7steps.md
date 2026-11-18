@@ -14,13 +14,13 @@ All development processes boil down into seven simple steps. Anyone can quickly 
 
 [**Q**ualifying](/qualifying/)
 
-[**A**sking](/7steps/www.developmentdepartment.org/asking/)
+[**A**sking](/asking/)
 
 Strategizing (Optional)
 
-[Getting **C**ommitments](/7steps/www.developmentdepartment.org/commitments/)
+[Getting **C**ommitments](/commitments/)
 
-[Saying **T**hank You](/7steps/www.developmentdepartment.org/thankyou/)
+[Saying **T**hank You](/thankyou/)
 
 [**F**ollowing Up](/following-up/)
 
@@ -34,11 +34,11 @@ Next, [move on to **qualifying**](/qualifying/) - a mutual acknowledgment of int
 
 A few years ago, I noticed we needed an additional step, but only occasionally. In the very particular work of individualized donor outreach, it often came to pass that we created specific strategies for our donors. Building these strategies is like qualifying and asking. Let’s call it a half-step: **strategizing.** Developing an individual and unique approach for each of your key donors is vital in major, planned, and principal gift work, but you can leave it out of annual gift and mid-level efforts, as well as most foundation grantwriting. It is only applicable when designing a bespoke plan for individual donors.
 
-[The act of **asking** comes next.](/7steps/www.developmentdepartment.org/asking/) This step is the one that people worry about. It’s easily the most nerve-wracking step. There is much to say about asking - how to craft materials, when to listen and speak, and whether to ask for specific amounts. You’ll read it all in the chapters ahead. There is one essential point to make now — asking is only one step of many. If you screw up the ask, you can still do all the other steps brilliantly, and you’ll be fine.
+[The act of **asking** comes next.](/asking/) This step is the one that people worry about. It’s easily the most nerve-wracking step. There is much to say about asking - how to craft materials, when to listen and speak, and whether to ask for specific amounts. You’ll read it all in the chapters ahead. There is one essential point to make now — asking is only one step of many. If you screw up the ask, you can still do all the other steps brilliantly, and you’ll be fine.
 
-Next, we [ensure **commitments** are honored](/7steps/www.developmentdepartment.org/commitments/). To me, unkept promises are an issue of justice. It’s rare, but sometimes donors promise you something they don’t deliver. Chasing those promises and holding people to their commitments is good work; you don’t need to be ashamed of it. I’ll help you do it in a way that makes everyone feel good.
+Next, we [ensure **commitments** are honored](/commitments/). To me, unkept promises are an issue of justice. It’s rare, but sometimes donors promise you something they don’t deliver. Chasing those promises and holding people to their commitments is good work; you don’t need to be ashamed of it. I’ll help you do it in a way that makes everyone feel good.
 
-The next step is [saying **“thank you,”**](/7steps/www.developmentdepartment.org/thankyou/) I think this is where many fundraisers are asleep at the wheel. We sometimes gussy it up with industry terms like stewardship and recognition. Saying thanks powerfully is one of the most critical opportunities for donor retention you have as a fundraiser. And, as you’ll learn, donor retention is the lifeblood of good fundraising. But saying thank you isn’t just good business. It is psychologically significant for anyone making fundraising their profession. Doing it well means doing our work with gratitude and abundance.
+The next step is [saying **“thank you,”**](/thankyou/) I think this is where many fundraisers are asleep at the wheel. We sometimes gussy it up with industry terms like stewardship and recognition. Saying thanks powerfully is one of the most critical opportunities for donor retention you have as a fundraiser. And, as you’ll learn, donor retention is the lifeblood of good fundraising. But saying thank you isn’t just good business. It is psychologically significant for anyone making fundraising their profession. Doing it well means doing our work with gratitude and abundance.
 
 Great fundraisers [ensure **follow**\-**up**](/following-up/) with donors, providing reassurance that you are using their contributions wisely. Follow-up is another contributor to retention and the donor’s lifetime value because, at every moment, you are doing more and more to prove the impact of your work. You’ll praise the work the donor is helping you build by sharing impact stories and stories of financial effectiveness. Your donors will respond with increased enthusiasm and passion.
 

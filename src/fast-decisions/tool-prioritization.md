@@ -13,10 +13,10 @@ In virtual-first environments, software becomes the central workspace—a digita
 
 # Tool
 
--   To ensure a smooth, productive experience and minimize information overload, it’s essential to classify and prioritize the tools your team relies on. We recommend organizing tools into three categories:
+- To ensure a smooth, productive experience and minimize information overload, it’s essential to classify and prioritize the tools your team relies on. We recommend organizing tools into three categories:
 
--   Primary – These are the core tools that form your digital infrastructure. They’re used daily by all team members and offer full public access, serving as the foundation for most workflows.
--   Supplemental – Tools that enhance the experience of primary tools or add specialized functionality for certain departments. For example, bots that integrate with your main communication platform or design software specifically for marketing.
--   Substitute – Tools used in place of a primary tool in specific situations. Use these sparingly to avoid redundant costs and maintain a consistent source of truth.
+- Primary – These are the core tools that form your digital infrastructure. They’re used daily by all team members and offer full public access, serving as the foundation for most workflows.
+- Supplemental – Tools that enhance the experience of primary tools or add specialized functionality for certain departments. For example, bots that integrate with your main communication platform or design software specifically for marketing.
+- Substitute – Tools used in place of a primary tool in specific situations. Use these sparingly to avoid redundant costs and maintain a consistent source of truth.
 
--   This structured approach to tool management helps streamline workflows and keeps your digital workspace organized and effective for all team members.
+- This structured approach to tool management helps streamline workflows and keeps your digital workspace organized and effective for all team members.

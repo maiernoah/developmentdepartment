@@ -31,9 +31,9 @@ How long should a case be? Most of the time, a case for support should be a docu
   
 Fundraising consultant Ron Arena suggests that your case should answer three questions:
 
-1.  Why us? (the organization)
-2.  Why now?
-3.  Why you? (the prospect)
+1. Why us? (the organization)
+2. Why now?
+3. Why you? (the prospect)
 
   
 If the copy of your case can answer those three questions repeatedly, you will find success, even if other things need to be fixed.

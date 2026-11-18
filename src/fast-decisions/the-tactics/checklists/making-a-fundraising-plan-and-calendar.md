@@ -4,4 +4,3 @@ permalink: /fast-decisions/the-tactics/checklists/making-a-fundraising-plan-and-
 source_url: https://fastdecisions.org/the-tactics/checklists/making-a-fundraising-plan-and-calendar
 ---
 
-
