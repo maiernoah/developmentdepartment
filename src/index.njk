@@ -1,0 +1,29 @@
+---
+layout: layouts/base.njk
+title: Development Department
+---
+<section class="hero">
+  <h1>{{ site.title }}</h1>
+  <p class="lede">{{ site.tagline }}</p>
+</section>
+
+<section class="two-up">
+  <div>
+    <h2><a href="/writing/">Writing</a></h2>
+    <p>Essays on fundraising as a practice: asking, thanking, donor communities, and the work underneath them.</p>
+  </div>
+  <div>
+    <h2><a href="/fast-decisions/">Fast Decisions</a></h2>
+    <p>The operating manual: principles and tactics for running a nonprofit team that decides quickly and well.</p>
+  </div>
+</section>
+
+<section>
+  <h2>Recent writing</h2>
+  <ul class="post-list">
+  {% for post in collections.posts | head(8) %}
+    <li><a href="{{ post.url }}">{{ post.data.title }}</a> <time datetime="{{ post.date | isoDate }}">{{ post.date | readableDate }}</time></li>
+  {% endfor %}
+  </ul>
+  <p><a href="/writing/">All writing</a></p>
+</section>

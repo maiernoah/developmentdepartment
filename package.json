@@ -1,0 +1,18 @@
+{
+  "name": "developmentdepartment",
+  "private": true,
+  "type": "module",
+  "description": "Development Department (developmentdepartment.org), with Fast Decisions folded in. Static site for GitHub Pages.",
+  "scripts": {
+    "build": "eleventy",
+    "serve": "eleventy --serve",
+    "import": "node scripts/import.mjs"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "3.1.8",
+    "@11ty/eleventy-plugin-rss": "3.1.0",
+    "cheerio": "1.2.0",
+    "turndown": "7.2.5",
+    "turndown-plugin-gfm": "1.0.2"
+  }
+}

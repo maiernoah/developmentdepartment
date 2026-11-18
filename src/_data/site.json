@@ -1,0 +1,12 @@
+{
+  "title": "Development Department",
+  "tagline": "Wisdom-first fundraising.",
+  "url": "https://www.developmentdepartment.org",
+  "author": "Noah Maier",
+  "nav": [
+    { "label": "Writing", "href": "/writing/" },
+    { "label": "Fast Decisions", "href": "/fast-decisions/" },
+    { "label": "Photographs", "href": "/photographs/" },
+    { "label": "About", "href": "/about-2/" }
+  ]
+}
